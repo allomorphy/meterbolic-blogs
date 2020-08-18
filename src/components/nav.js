@@ -32,7 +32,7 @@ const Nav = () => (
   <StyledNav>
     <div className="row">
       <nav role="navigation">
-        <a href="https://meterbolic.org/">
+        <a href="https://blogs.meterbolic.org/">
           <img src={Logo} className="logo" alt="Meterbolic" />
         </a>
         <a href="https://meterbolic.org/" className="btn btn--primary">
