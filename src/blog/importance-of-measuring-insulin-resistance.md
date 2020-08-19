@@ -11,4 +11,4 @@ In line with this, different fasting metrics have been developed over the decade
 
 Consequently, our recommended measurements were developed following the above logic, and can be found in the table below. We will release consecutive blog posts discussing the most important ones, and the ones that are unique or are seemingly unusual, adding supporting scientific evidence for each.
 
-![Figure 1](/0511_consumnbles_table_for_Blog_II.png "Consumables Table")
+![Figure 1](/0511_consumables_table_for_Blog_II.png "Consumables Table")
