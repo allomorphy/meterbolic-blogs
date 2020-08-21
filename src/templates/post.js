@@ -1,3 +1,4 @@
+import { CommentCount, Disqus } from 'gatsby-plugin-disqus'
 import { Link, graphql } from 'gatsby';
 
 import Author from '../components/author';
@@ -53,28 +54,43 @@ const StyledPostTemplate = styled.div`
     max-width: 100%;
     margin-bottom: var(--gutter-small);
   }
+
+  pre {
+    overflow-x: scroll;
+  }
 `;
 
 export const query = graphql`
   query($slug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      id
       frontmatter {
         title
         date
         teaser
         author
       }
-      excerpt
+      fields {
+        slug
+      }
       html
     }
   }
 `;
 
 const PostTemplate = ({ data }) => {
+  const id = data.markdownRemark.id;
   const title = data.markdownRemark.frontmatter.title;
   const teaser = data.markdownRemark.frontmatter.teaser;
   const date = data.markdownRemark.frontmatter.date;
   const author = data.markdownRemark.frontmatter.author;
+  const slug = data.markdownRemark.fields.slug
+
+  const disqusConfig = {
+    id,
+    url: `https://blogs.meterbolic.org/blog/${slug}`,
+    title,
+  }
 
   return (
     <Layout>
@@ -99,6 +115,11 @@ const PostTemplate = ({ data }) => {
             <Link className="back" to="/">
               Go Back &nbsp;&rarr;
             </Link>
+
+            <div style={{ margin: '2rem 0' }}>
+            <CommentCount config={disqusConfig} placeholder={'...'} />
+            <Disqus config={disqusConfig} />
+            </div>
           </div>
         </StyledPostTemplate>
       </div>

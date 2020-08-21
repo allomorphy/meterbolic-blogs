@@ -1,5 +1,5 @@
+import { Link } from 'gatsby';
 import Logo from '../resources/logo.svg';
-
 import React from 'react';
 import { breakpoints } from '../styles/variables';
 import styled from '@emotion/styled';
@@ -32,9 +32,9 @@ const Nav = () => (
   <StyledNav>
     <div className="row">
       <nav role="navigation">
-        <a href="https://blogs.meterbolic.org/">
+        <Link to="/">
           <img src={Logo} className="logo" alt="Meterbolic" />
-        </a>
+        </Link>
         <a href="https://meterbolic.org/" className="btn btn--primary">
               Join Meterbolic!
         </a>
