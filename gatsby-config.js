@@ -17,6 +17,7 @@ module.exports = {
         // Plugins configs
         plugins: [
           {
+            resolve: `gatsby-remark-mermaid`,
             resolve: `gatsby-source-filesystem`,
             options: {
               name: `blog`,

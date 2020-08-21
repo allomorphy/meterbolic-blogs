@@ -1,13 +1,15 @@
 ---
 title: The utility of mixed meal tolerance tests
 author: gabor
-date: 2 August 2020
+date: 1 July 2020
 teaser: mixed-meal.jpg
 ---
 
-Although a lot of useful data can be extracted from an oral glucose tolerance test (OGTT), it doesn’t really resemble any real-life scenarios. After all, nobody consumes pure glucose, not even those who love to chew on white bread. The enormous amount of data, which is available in the literature derived from OGTTs [1], enables us to identify certain patterns, even if these show very minor differences. However, other nutrients, especially macronutrients as protein and fat, masks these subtle alterations in curve patterns, thus making it difficult to distinguish various stages on the metabolic health spectrum [2]. Eventually, measuring only glucose becomes insufficient in mixed meal contexts.
+Although a lot of useful data can be extracted from an oral glucose tolerance test (OGTT), it does not really resemble any real-life scenarios. After all, nobody consumes pure glucose, not even those who love to chew on white bread. The enormous amount of data, which is available in the literature derived from OGTTs [1], enables us to identify certain patterns, even if these show very minor differences. However, other nutrients, especially macronutrients as protein and fat, masks these subtle alterations in curve patterns, thus making it difficult to distinguish various stages on the metabolic health spectrum [2]. Eventually, measuring only glucose becomes insufficient in mixed meal contexts.
 
 Unfortunately, the amount of research data on mixed meal ingestion, and subsequent patterns shown by healthy, insulin resistant (IR) and diabetic individuals is much less abundant. What is more, methods vary considerably more than what is seen in OGTTs, thereby making interpretation challenging. However, there has been efforts to standardize mixed meal (tolerance) tests, and the best outcome seems to be the one used in the PhenFlex challenge. Therefore, we tried to create a simple meal that can be easily prepared at home from widely available ingredients, but one that still resembles the original, otherwise made of purified and single macronutrient ingredients (palm olein, glucose and dairy protein). [1] Another aspect that needs consideration is the length and sampling frequency in a postprandial challenge. Fortunately, some studies did extensive testing to guide us, concluding that there is very little value in extending sampling beyond 5 hours, but already a 2-3-hour long test can often be informative. [3]
+
+![Mixed meal composition for metabolic profiling](/MMT_image_for_Blog.jpg "Mixed meal composition for metabolic profiling")
 
 I include a pair graphs from a study that used the mentioned method and enrolled 40 males (20 healthy and 20 type 2 diabetics). [4]
 Due to the fact that insulin resistant/diabetic individuals typically return to baseline much more slowly than healthy people, if no previous evaluation of metabolic flexibility/IR had been done extended sampling is recommended. Even in this case, 5 hours must be sufficient. Previous verification of insulin sensitivity enables a shorter test window of 3-4 hours.
