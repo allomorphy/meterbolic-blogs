@@ -14,6 +14,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
+  - 
 
 # New Features!
    - ERIC WAS here and pushed to GIT
@@ -185,5 +186,5 @@ MIT
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA4NDU4OTVdfQ==
+eyJoaXN0b3J5IjpbMTQxMjY2Njg2OCwtMTkyMDg0NTg5NV19
 -->
