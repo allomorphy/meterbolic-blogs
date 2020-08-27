@@ -5,7 +5,7 @@ date: 18 August 2020
 teaser: triolene.jpg
 ---
 ## Part I Lipid metabolism basics
-I’m going to summarise fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part III of this series. 
+I’m going to summarize fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part III of this series. 
 ~~strikethrough text~~
  1. Can you see this, Gabor? LIPIDO....
  2. I do. When did you ask? :o))
@@ -81,5 +81,5 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg5NDU4MzddfQ==
+eyJoaXN0b3J5IjpbMTMwODQxMjYzNCwtMTk4ODk0NTgzN119
 -->
