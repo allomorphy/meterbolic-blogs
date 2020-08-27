@@ -23,11 +23,12 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
 There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats. 
-
+<br>
 * * *
 Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are gained through online consulting, analysis of lifestyle and interpretations of postprandial markers.
 
 ***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
+<br>
 <br>
 If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce papers such as the one that  are kindly reading
 
@@ -85,8 +86,8 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgwMTkyNzQsLTI3NzUzOTE0MCw2OD
-AxNzMwOTgsMjYzMjIwMDMsLTEwOTE4ODc2NTQsMTQwNzYwNTUy
-NSwtNTczNzk5OTM0LDEzMDg0MTI2MzQsLTE5ODg5NDU4MzddfQ
-==
+eyJoaXN0b3J5IjpbNjg2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNz
+c1MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0
+LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOT
+g4OTQ1ODM3XX0=
 -->
