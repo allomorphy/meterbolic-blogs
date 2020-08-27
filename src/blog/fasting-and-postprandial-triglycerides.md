@@ -1,9 +1,8 @@
-
 ---
 title: What may you learn from the measurement of Fasting and Postprandial Triglycerides      
 author: gabor
-teaser: triolene.jpg
 date: 18 August 2020
+teaser: triolene.jpg
 ---
 
 ## Part I Lipid metabolism basics
@@ -24,17 +23,19 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
 There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats. 
+<br>
+* * *
+Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are gained through online consulting, analysis of lifestyle and interpretations of postprandial markers.
+
+***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
+<br>
+<br>
+If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce papers such as the one that  are kindly reading
+
+To show any interest, please send email to <insights@meterbolic.org>
 
 * * *
->Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are gained through online consulting, analysis of lifestyle and interpretations of postprandial markers.
-
->***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
-
->If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce papers such as the one that  are kindly reading
-
->To show any interest, please send email to <insights@meterbolic.org>
-
-* * *
+<br>
 Although triglycerides are often considered a transport form, these glycerol-bound fatty acids can be liberated not only at adipose tissues for uptake and storage, but also at other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. As outlined in Section VIII of the mentioned review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling, likely some or most of these being even initiated by disruption of the cycle.
 
 Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal. Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a decreased uptake of glucose via the GLUT4 pathway. Although not directly, this pathway is linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway reviewed in [^9].
@@ -85,7 +86,8 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMTczMDk4LDI2MzIyMDAzLC0xMDkxOD
-g3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0
-LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbNjg2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNz
+c1MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0
+LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOT
+g4OTQ1ODM3XX0=
 -->
