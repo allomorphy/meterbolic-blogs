@@ -8,18 +8,9 @@ teaser: triolene.jpg
 ## Part I Lipid metabolism basics
 I’m going to summarize fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part III of this series. 
 
-Cool ...
- 8. Github not working yet, but this is great.
- 9. Can we go to the paragraph that is troubling me and we can make sense of and maybe simplify for those with IQ beginning with the unit number or first integer?
- 10. How do we move together?
- 11.  
-
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandiaes: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [3].
 
 In general, the level of fasting triglycerides correlates well with the insulin level, and with `Insulin Resistance` (IR) especially when triglycerides are combined with fasting glucose. This provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick these up one needs a postprandial/meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
-
-    THIS IS THE PARAGRAPH!!`
-Are you here?
 
 Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
 
@@ -86,6 +77,6 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMzMwMjE5LC01NzM3OTk5MzQsMTMwOD
-QxMjYzNCwtMTk4ODk0NTgzN119
+eyJoaXN0b3J5IjpbMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
+g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
 -->
