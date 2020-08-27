@@ -24,8 +24,9 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 
 There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats. 
 <br>
+<br>
 * * *
-Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are gained through online consulting, analysis of lifestyle and interpretations of postprandial markers.
+The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are are shared in online consulting and with analysis of lifestyle and interpretations of postprandial blood tests.
 
 ***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
 <br>
@@ -55,16 +56,14 @@ Let us see how it works in studies that specifically investigated this. A nice s
 ![Graph 3](/fasting-and-postprandial/graphs-3.png "Mixed meal composition for metabolic profiling")
 
 (Unit conversion for TG: 1 mmol/L = 88.5 mg/dL, or use a calculator, e.g. this one: https://unitslab.com/node/53)
-i-->
+-->
 
 ## References
-[^1]: Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author)
-Wiley Blackwell; ISBN-13: 978-1119331438; 2019. https://www.amazon.com/Human-Metabolism-Perspective-Keith-Frayn/dp/1119331439
+[^1]: Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author) Wiley Blackwell; ISBN-13: 978-1119331438; 2019. https://www.amazon.com/Human-Metabolism-Perspective-Keith-Frayn/dp/1119331439
 
 [^2]: Introduction to Lipids and Lipoproteins By Kenneth R Feingold and Carl Grunfeld In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK305896/
 
-[^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock
-In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
+[^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^4]: McQuaid SE, Hodson L, Neville MJ, Dennis AL, Cheeseman J, Humphreys SM, et al. Downregulation of Adipose Tissue Fatty Acid Trafficking in Obesity: A Driver for Ectopic Fat Deposition? Diabetes [Internet]. 2010;60(1):47–55. Available from: http://diabetes.diabetesjournals.org/content/60/1/47
 
