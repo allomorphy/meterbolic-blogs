@@ -24,6 +24,7 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 
 There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats. 
 
+* * *
 >Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are gained through online consulting, analysis of lifestyle and interpretations of postprandial markers.
 >***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
 >
@@ -80,7 +81,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMjIwMDMsLTEwOTE4ODc2NTQsMTQwNz
-YwNTUyNSwtNTczNzk5OTM0LDEzMDg0MTI2MzQsLTE5ODg5NDU4
-MzddfQ==
+eyJoaXN0b3J5IjpbNjczOTk4NDU1LDI2MzIyMDAzLC0xMDkxOD
+g3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0
+LC0xOTg4OTQ1ODM3XX0=
 -->
