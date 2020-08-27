@@ -5,9 +5,10 @@ date: 18 August 2020
 teaser: triolene.jpg
 ---
 ## Part I Lipid metabolism basics
-I’m going to summarise fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Par II of this series. 
-
+I’m going to summarise fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part III of this series. 
+~~strikethrough text~~
  1. Can you see this, Gabor? LIPIDO....
+ 2. I do. When did you ask? :o))
 
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial levels: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [3].
 
@@ -79,3 +80,6 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5ODg5NDU4MzddfQ==
+-->
