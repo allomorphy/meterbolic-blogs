@@ -1,4 +1,5 @@
 ---
+
 title: What may you learn from the measurement of Fasting and Postprandial Triglycerides      
 author: gabor
 date: 18 August 2020
@@ -6,16 +7,25 @@ teaser: triolene.jpg
 ---
 ## Part I Lipid metabolism basics
 I’m going to summarize fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part III of this series. 
-~~strikethrough text~~
- 1. Can you see this, Gabor? LIPIDO....
- 2. I do. When did you ask? :o))
 
-To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial levels: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [3].
+Cool ...
+ 8. Github not working yet, but this is great.
+ 9. Can we go to the paragraph that is troubling me and we can make sense of and maybe simplify for those with IQ beginning with the unit number or first integer?
+ 10. How do we move together?
+ 11.  
 
-In general, the level of fasting triglycerides correlates well with the insulin level, and with `Insulin Resistance` (IR) especially when triglycerides are combined with fasting glucose. This provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick these up one needs a postprandial/meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be `~~implemented~~` in postprandial measurements.
+To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandiaes: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [3].
 
-Why is reduced lipid uptake an early indicator of IR?
-One of the major metabolically active organs is `White Adipose Tissue` (WAT). In fact, ectopic lipid accumulation (i.e. in places where it should only be stored at low levels) is typically the result of WAT dysfunction. In other words, when lipids cannot be safely stored in WAT to the extent it is required by diet and metabolic status, fatty acids overflow to other organs [4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signalling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [7].
+In general, the level of fasting triglycerides correlates well with the insulin level, and with `Insulin Resistance` (IR) especially when triglycerides are combined with fasting glucose. This provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick these up one needs a postprandial/meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
+
+    THIS IS THE PARAGRAPH!!`
+Are you here?
+
+Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
+
+One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease, *ectopic* lipid accumulation* (meaning lipids in places where it normally hardly appears), is typically the result of WAT dysfunction. 
+
+In other words, when lipids cannot be safely stored in WAT to the extent that it is required by diet and metabolic status, fatty acids overflow to other organs [4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [7].
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
@@ -29,13 +39,7 @@ There are two main transport forms of fatty acids in the blood: free fatty acids
 
 Although triglycerides are often considered a transport form, these glycerol-bound fatty acids can be liberated not only at adipose tissues for uptake and storage, but also at other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [8]. As outlined in Section VIII of the mentioned review [8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling, likely some or most of these being even initiated by disruption of the cycle.
 
-Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal. Technically, the microdialysis study by McQuaid et al. [4], which is still one of my absolute favorites, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a decreased uptake of glucose via the GLUT4 pathway. This pathway is directly linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway [reviewed in 9]. 
-
-~~---------------------------------------------------------
-
- - [ bj.kbkj] `strikethrough text`
-
-~~
+Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal. Technically, the microdialysis study by McQuaid et al. [4], which is still one of my absolute favorites, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a decreased uptake of glucose via the GLUT4 pathway. Although not directly, this pathway is linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway [reviewed in 9].
 
 The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, finally ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [10 and see Fig.4. from that paper attached]
 
@@ -77,11 +81,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 10. Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
-<!--[//]: # (11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 2004 Jan 1 [cited 2020 Aug 2];47(1):19–22. Available from: https://link.springer.com/article/10.1007/s00125-003-1269-3) -->
+11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 2004 Jan 1 [cited 2020 Aug 2];47(1):19–22. Available from: https://link.springer.com/article/10.1007/s00125-003-1269-3) -->
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOT
-g4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbNTcyMzMwMjE5LC01NzM3OTk5MzQsMTMwOD
+QxMjYzNCwtMTk4ODk0NTgzN119
 -->
