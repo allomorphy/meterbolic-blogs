@@ -1,9 +1,8 @@
-
 ---
 title: What may you learn from the measurement of Fasting and Postprandial Triglycerides      
 author: gabor
-teaser: triolene.jpg
 date: 18 August 2020
+teaser: triolene.jpg
 ---
 
 ## Part I Lipid metabolism basics
@@ -85,7 +84,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMTczMDk4LDI2MzIyMDAzLC0xMDkxOD
-g3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0
-LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMj
+IwMDMsLTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0
+LDEzMDg0MTI2MzQsLTE5ODg5NDU4MzddfQ==
 -->
