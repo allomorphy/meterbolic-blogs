@@ -45,7 +45,7 @@ Even though knowing its dynamics may be at least as meaningful, measuring FFA is
 
 Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. Although not directly, this pathway is linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9].
 
-The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^10] and see Fig.4. from that paper attached]
+The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [new 10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11] and see Fig.4. from that paper attached]
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -81,7 +81,9 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 [^9]: Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
 
-[^10]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
+[^10]: Carvalho E. Adipose-specific overexpression of GLUT4 reverses insulin resistance and diabetes in mice lacking GLUT4 selectively in muscle. AJP: Endocrinology and Metabolism [Internet]. 2005 [cited 2017 Feb 1];289(4):E551–61. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
+
+[^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--[//]: # (11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 2004 Jan 1 [cited 2020 Aug 2];47(1):19–22. Available from: https://link.springer.com/article/10.1007/s00125-003-1269-3) -->
 
@@ -89,8 +91,8 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA0MzY1NDAsNjg2NDcyNDU2LC0xOT
-Y4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAz
-LC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMz
-A4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbLTEyMDIwNDQwODYsLTE2MzA0MzY1NDAsNj
+g2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTcz
+MDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLT
+U3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
 -->
