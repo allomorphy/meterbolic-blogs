@@ -18,7 +18,7 @@ One of the major metabolically active organs is `White Adipose Tissue` (WAT).  T
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the preciously mentioned ectopic deposition of lipids and the initiation of local inflammation and IR [^7].
 
-There are two main transport forms of fatty acids in the blood. 1)`Free Fatty Acids` (FFA) travel after liberation from adipose tissues in the blood (bound to albumin as a carrier) to organs that use the FFA as a fuel or 2) the liver esterifies the FFA by bonding it to a glycerol molecule to form `Triglycerides` (TG) and subsequently repackages the insoluble triglyceride it into lipoprotein, mainly VLDL particles. `This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.` `[Do you mean th
+There are two main transport forms of fatty acids in the blood. 1)`Free Fatty Acids` (FFA) travel after liberation from adipose tissues in the blood (bound to albumin as a carrier) to organs that use the FFA as a fuel or 2) the liver esterifies the FFA by bonding it to a glycerol molecule to form `Triglycerides` (TG) and subsequently repackages the insoluble triglyceride it into lipoprotein, mainly VLDL particles. `This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.` `[Do you mean that the VLDL and the CM are the places where this TG occurs?]`
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
@@ -86,11 +86,11 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU0Mjc2NzIsLTEwMzExNDE5MiwxOD
-I5NDMxOTcxLDIyOTEyNDE2MSwtMTE2MTA2NTUxMiwzOTIzMjg1
-Niw5MzcxMjkxODQsLTE0NDkxMTM4MjIsLTk3MDg0OTI0Myw2Nj
-E5NTAwMDYsMTU5MTY2Mjg2MiwxNDA5NDg5NTUzLC0xMjE1NzIz
-ODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC0xMzk0MTQ5MDA1LC
-0xNjMwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAxOTI3NCwtMjc3
-NTM5MTQwXX0=
+eyJoaXN0b3J5IjpbLTgzMTU3NDQ0LC0xMDMxMTQxOTIsMTgyOT
+QzMTk3MSwyMjkxMjQxNjEsLTExNjEwNjU1MTIsMzkyMzI4NTYs
+OTM3MTI5MTg0LC0xNDQ5MTEzODIyLC05NzA4NDkyNDMsNjYxOT
+UwMDA2LDE1OTE2NjI4NjIsMTQwOTQ4OTU1MywtMTIxNTcyMzg5
+NiwxNDA5NDg5NTUzLDUwMzkwMTY2MywtMTM5NDE0OTAwNSwtMT
+YzMDQzNjU0MCw2ODY0NzI0NTYsLTE5NjgwMTkyNzQsLTI3NzUz
+OTE0MF19
 -->
