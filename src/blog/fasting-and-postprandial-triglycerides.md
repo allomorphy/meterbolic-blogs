@@ -52,14 +52,12 @@ The ultimate problem is that if there is a disturbance in glucose uptake into WA
 
 Since, unlike muscles for glucose, there is no backup plan for massive amounts of dietary fats, all in all, above highlight the importance and utility of monitoring lipid uptake after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reach higher peaks and linger around longer than in insulin sensitive people, following the reduction in uptake to WAT, as discussed above.
 
+(Unit conversion for TG: 1 mmol/L = 88.5 mg/dL, or use a calculator, e.g. this one: https://unitslab.com/node/53)
+
 <strong>End of Part I.</strong>
 
 <!--
-Let us see how it works in studies that specifically investigated this. A nice study done on 145 type 2 diabetics and 30 healthy controls back in 2004 clearly supports the hypotheses put forward [11]. Diabetics had not only elevated fasting TG, but also failed to properly clear lipids from their blood after a lunch and dinner sequence of mixed meals. What is more, their TG level increased with every meal, and the second meal was taken well before the first was cleared from the blood, increasing the spike even further after dinner than following lunch. The same phenomenon can be observed in the introductory discussion (ref. 4 there). The study used a cutoff value of 2 mmol/L, added as a horizontal line in the graph below:
 
-![Graph 3](/fasting-and-postprandial/graphs-3.png "Mixed meal composition for metabolic profiling")
-
-(Unit conversion for TG: 1 mmol/L = 88.5 mg/dL, or use a calculator, e.g. this one: https://unitslab.com/node/53)
 -->
 
 ## References
@@ -85,13 +83,8 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
-<!--[//]: # (11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 2004 Jan 1 [cited 2020 Aug 2];47(1):19–22. Available from: https://link.springer.com/article/10.1007/s00125-003-1269-3) -->
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIwNDQwODYsLTE2MzA0MzY1NDAsNj
+eyJoaXN0b3J5IjpbLTEyNTE0NTI2MTMsLTE2MzA0MzY1NDAsNj
 g2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTcz
 MDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLT
 U3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
