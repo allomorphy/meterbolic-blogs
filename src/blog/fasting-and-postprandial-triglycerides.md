@@ -12,7 +12,7 @@ To better understand lipid, and more specifically, triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, providing a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of early metabolic derangements. To pick up these, one needs a *postprandial* or meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
 
-Why is reduced lipid uptake into adipose tissue an early indicator of IR AT all THEN? 
+Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
 
 One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease, *ectopic* lipid accumulation* (meaning lipids in places where it normally hardly appears), is typically the result of WAT dysfunction. In fact, this defect may be the single direct driver of all other manifestations of IR as we know it.
 
@@ -84,9 +84,10 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU3MjM4OTYsMTQwOTQ4OTU1Myw1MD
-M5MDE2NjMsLTEzOTQxNDkwMDUsLTE2MzA0MzY1NDAsNjg2NDcy
-NDU2LC0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LD
-I2MzIyMDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5
-OTkzNCwxMzA4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbMTQwOTQ4OTU1MywtMTIxNTcyMzg5NiwxND
+A5NDg5NTUzLDUwMzkwMTY2MywtMTM5NDE0OTAwNSwtMTYzMDQz
+NjU0MCw2ODY0NzI0NTYsLTE5NjgwMTkyNzQsLTI3NzUzOTE0MC
+w2ODAxNzMwOTgsMjYzMjIwMDMsLTEwOTE4ODc2NTQsMTQwNzYw
+NTUyNSwtNTczNzk5OTM0LDEzMDg0MTI2MzQsLTE5ODg5NDU4Mz
+ddfQ==
 -->
