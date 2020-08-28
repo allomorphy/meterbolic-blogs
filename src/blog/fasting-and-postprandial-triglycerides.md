@@ -45,7 +45,7 @@ Even though knowing its dynamics may be at least as meaningful, measuring FFA is
 
 Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. Although not directly, this pathway is linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9].
 
-The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [new 10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11] and see Fig.4. from that paper attached]
+The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11] and see Fig.4. from that paper attached]
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -84,7 +84,7 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE0NTI2MTMsLTE2MzA0MzY1NDAsNj
+eyJoaXN0b3J5IjpbLTEzOTQxNDkwMDUsLTE2MzA0MzY1NDAsNj
 g2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTcz
 MDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLT
 U3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
