@@ -10,7 +10,7 @@ I’m going to summarize fasting metrics very briefly and expand  on the postpra
 
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglycerides: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [^3].
 
-In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR) especially when triglycerides are combined with fasting glucose. This provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick these up one needs a postprandial/meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
+In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, providing a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick these up one needs a postprandial/meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
 
 Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
 
@@ -85,8 +85,8 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc3OTc3MjYsNjg2NDcyNDU2LC0xOT
-Y4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAz
-LC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMz
-A4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbMTc5MDAxMTI2OSw2ODY0NzI0NTYsLTE5Nj
+gwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIwMDMs
+LTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
+g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
 -->
