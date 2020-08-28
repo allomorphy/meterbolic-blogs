@@ -44,7 +44,7 @@ Although triglycerides are often considered a transport form, these glycerol-bou
 > ~~liberated~~
 > broken down
 
-not only ~~at~~ in adipose tissues for uptake and storage, but also ~~at~~ in other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. As outlined in Section VIII of the ~~mentioned~~ referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. `It is likely that` some or most of these ~~being~~ even initiated by disruption of the cycle.
+not only ~~at~~ in adipose tissues for uptake and storage, but also ~~at~~ in other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. As outlined in Section VIII of the ~~mentioned~~ referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. `It is likely that` some or most of these ~~being~~ are even initiated by disruption of ~~the~~ this cycle.
 
 Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
@@ -89,11 +89,11 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzczMzI2MDQsMjI5MTI0MTYxLC0xMT
-YxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4NCwtMTQ0OTExMzgy
-MiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNTkxNjYyODYyLDE0MD
-k0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4OTU1Myw1MDM5MDE2
-NjMsLTEzOTQxNDkwMDUsLTE2MzA0MzY1NDAsNjg2NDcyNDU2LC
-0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LDI2MzIy
-MDAzXX0=
+eyJoaXN0b3J5IjpbMTU0MTc4NDc0NCwyMjkxMjQxNjEsLTExNj
+EwNjU1MTIsMzkyMzI4NTYsOTM3MTI5MTg0LC0xNDQ5MTEzODIy
+LC05NzA4NDkyNDMsNjYxOTUwMDA2LDE1OTE2NjI4NjIsMTQwOT
+Q4OTU1MywtMTIxNTcyMzg5NiwxNDA5NDg5NTUzLDUwMzkwMTY2
+MywtMTM5NDE0OTAwNSwtMTYzMDQzNjU0MCw2ODY0NzI0NTYsLT
+E5NjgwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIw
+MDNdfQ==
 -->
