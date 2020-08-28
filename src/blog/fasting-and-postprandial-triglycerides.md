@@ -14,7 +14,7 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
 
-One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease, *ectopic* lipid accumulation* (meaning lipids in places where it normally hardly appears), is typically the result of WAT dysfunction. In fact, this defect may be the
+One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease, *ectopic* lipid accumulation* (meaning lipids in places where it normally hardly appears), is typically the result of WAT dysfunction. In fact, this defect may be the single direct driver of all other manifestations of IR as we know it.
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [^5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [^7].
 
@@ -85,7 +85,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzY0OTg5Miw2ODY0NzI0NTYsLTE5Nj
+eyJoaXN0b3J5IjpbLTc0NTA5MTMyMCw2ODY0NzI0NTYsLTE5Nj
 gwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIwMDMs
 LTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
 g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
