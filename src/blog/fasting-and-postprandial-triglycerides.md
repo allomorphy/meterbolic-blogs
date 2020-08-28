@@ -14,9 +14,9 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 *Why is reduced lipid uptake by adipose tissue an early indicator of IR?* 
 
-One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is *ectopic* lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) is typically the result of WAT dysfunction. In fact, this defect may be the single direct driver of all other manifestations of IR as we know it.
+One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is *ectopic* lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) which typically results from WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
-In other words, when lipids cannot be safely stored in WAT to the extent that it is required by diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [^5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [^7].
+In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [^5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [^7].
 
 There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
@@ -84,10 +84,10 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwNDkxOCwxNTkxNjYyODYyLDE0MD
-k0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4OTU1Myw1MDM5MDE2
-NjMsLTEzOTQxNDkwMDUsLTE2MzA0MzY1NDAsNjg2NDcyNDU2LC
-0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LDI2MzIy
-MDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNC
-wxMzA4NDEyNjM0LC0xOTg4OTQ1ODM3XX0=
+eyJoaXN0b3J5IjpbNjYxOTUwMDA2LDE1OTE2NjI4NjIsMTQwOT
+Q4OTU1MywtMTIxNTcyMzg5NiwxNDA5NDg5NTUzLDUwMzkwMTY2
+MywtMTM5NDE0OTAwNSwtMTYzMDQzNjU0MCw2ODY0NzI0NTYsLT
+E5NjgwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIw
+MDMsLTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LD
+EzMDg0MTI2MzQsLTE5ODg5NDU4MzddfQ==
 -->
