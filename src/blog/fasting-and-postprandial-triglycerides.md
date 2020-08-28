@@ -5,8 +5,8 @@ date: 18 August 2020
 teaser: triolene.jpg
 ---
 
-## Part I Lipid metabolism basics
-I’m going to summarize fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to a Part II of this series. 
+## Lipid Series Part I -- Metabolism Basics
+I’m going to summarize fasting metrics very briefly and expand  on the postprandial measurement here and leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to the *Lipid Series Part II*. 
 
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if you need one. Perhaps a good enough introduction would be the book chapter “Introduction to Lipids and Lipoproteins” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglycerides: “Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis” [^3].
 
@@ -84,9 +84,9 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTQ3NTkyLC0xMzk0MTQ5MDA1LC0xNj
-MwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAxOTI3NCwtMjc3NTM5
-MTQwLDY4MDE3MzA5OCwyNjMyMjAwMywtMTA5MTg4NzY1NCwxND
-A3NjA1NTI1LC01NzM3OTk5MzQsMTMwODQxMjYzNCwtMTk4ODk0
-NTgzN119
+eyJoaXN0b3J5IjpbLTE1NTEzNzgzODYsLTEzOTQxNDkwMDUsLT
+E2MzA0MzY1NDAsNjg2NDcyNDU2LC0xOTY4MDE5Mjc0LC0yNzc1
+MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAzLC0xMDkxODg3NjU0LD
+E0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEyNjM0LC0xOTg4
+OTQ1ODM3XX0=
 -->
