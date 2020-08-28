@@ -26,7 +26,7 @@ There are two main transport forms of fatty acids in the blood: free fatty acids
 <br>
 <br>
 * * *
-The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are are shared in online consulting and with analysis of lifestyle and interpretations of postprandial blood tests.
+The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared in online consulting and with analysis of lifestyle and interpretations of postprandial blood tests.
 
 ***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
 <br>
@@ -41,7 +41,7 @@ Although triglycerides are often considered a transport form, these glycerol-bou
 
 Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal. Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a decreased uptake of glucose via the GLUT4 pathway. Although not directly, this pathway is linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway reviewed in [^9].
 
-The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, finally ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^10] and see Fig.4. from that paper attached]
+The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^10] and see Fig.4. from that paper attached]
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -85,7 +85,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc3NDQ0NCw2ODY0NzI0NTYsLTE5Nj
+eyJoaXN0b3J5IjpbLTExMDk3NjUzOSw2ODY0NzI0NTYsLTE5Nj
 gwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIwMDMs
 LTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
 g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
