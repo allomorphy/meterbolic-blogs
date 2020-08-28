@@ -14,7 +14,7 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 *Why is reduced lipid uptake by adipose tissue an early indicator of IR?* 
 
-One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease, *ectopic* lipid accumulation* (meaning lipids in places where it normally hardly appears), is typically the result of WAT dysfunction. In fact, this defect may be the single direct driver of all other manifestations of IR as we know it.
+One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is *ectopic* lipid accumulation* (this means that lipids ain places where it normally hardly appears), is typically the result of WAT dysfunction. In fact, this defect may be the single direct driver of all other manifestations of IR as we know it.
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [^5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [^7].
 
@@ -84,10 +84,10 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTY2Mjg2MiwxNDA5NDg5NTUzLC0xMj
-E1NzIzODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC0xMzk0MTQ5
-MDA1LC0xNjMwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAxOTI3NC
-wtMjc3NTM5MTQwLDY4MDE3MzA5OCwyNjMyMjAwMywtMTA5MTg4
-NzY1NCwxNDA3NjA1NTI1LC01NzM3OTk5MzQsMTMwODQxMjYzNC
-wtMTk4ODk0NTgzN119
+eyJoaXN0b3J5IjpbLTEwNzY4NDUwNDMsMTU5MTY2Mjg2MiwxND
+A5NDg5NTUzLC0xMjE1NzIzODk2LDE0MDk0ODk1NTMsNTAzOTAx
+NjYzLC0xMzk0MTQ5MDA1LC0xNjMwNDM2NTQwLDY4NjQ3MjQ1Ni
+wtMTk2ODAxOTI3NCwtMjc3NTM5MTQwLDY4MDE3MzA5OCwyNjMy
+MjAwMywtMTA5MTg4NzY1NCwxNDA3NjA1NTI1LC01NzM3OTk5Mz
+QsMTMwODQxMjYzNCwtMTk4ODk0NTgzN119
 -->
