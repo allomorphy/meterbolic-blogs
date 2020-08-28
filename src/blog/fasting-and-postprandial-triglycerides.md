@@ -16,9 +16,9 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is *ectopic* lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) which typically results from WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
-In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the preciously mentioned ectopic deposition and the initiation of local inflammation and IR [^7].
+In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the preciously mentioned ectopic deposition of lipids and the initiation of local inflammation and IR [^7].
 
-There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
+There are two main transport forms of fatty acids in the blood: `Free Fatty Acids` (FFA) travel after liberation in adipose tissues via t towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
@@ -84,11 +84,11 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkxMTM4MjIsLTk3MDg0OTI0Myw2Nj
-E5NTAwMDYsMTU5MTY2Mjg2MiwxNDA5NDg5NTUzLC0xMjE1NzIz
-ODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC0xMzk0MTQ5MDA1LC
-0xNjMwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAxOTI3NCwtMjc3
-NTM5MTQwLDY4MDE3MzA5OCwyNjMyMjAwMywtMTA5MTg4NzY1NC
-wxNDA3NjA1NTI1LC01NzM3OTk5MzQsMTMwODQxMjYzNCwtMTk4
-ODk0NTgzN119
+eyJoaXN0b3J5IjpbLTE3NzM3MDIxOTQsLTE0NDkxMTM4MjIsLT
+k3MDg0OTI0Myw2NjE5NTAwMDYsMTU5MTY2Mjg2MiwxNDA5NDg5
+NTUzLC0xMjE1NzIzODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC
+0xMzk0MTQ5MDA1LC0xNjMwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2
+ODAxOTI3NCwtMjc3NTM5MTQwLDY4MDE3MzA5OCwyNjMyMjAwMy
+wtMTA5MTg4NzY1NCwxNDA3NjA1NTI1LC01NzM3OTk5MzQsMTMw
+ODQxMjYzNF19
 -->
