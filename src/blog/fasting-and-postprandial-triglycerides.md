@@ -18,18 +18,19 @@ One of the major metabolically active organs is `White Adipose Tissue` (WAT).  T
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but accompanied by inflammatory signaling molecules, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ [^5]. What is more, pre-adipocytes were shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for mentioned ectopic deposition and initiation of local inflammation and IR [^7].
 
+There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
+
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-There are two main transport forms of fatty acids in the blood: free fatty acids (FFA) travel after liberation in adipose tissues towards organs that use it as a fuel, or the liver esterifies (bonds it to glycerol molecules) and subsequently repackages it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats. 
+ 
 <br>
 <br>
 * * *
 The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared in online consulting and with analysis of lifestyle and interpretations of postprandial blood tests.
 
 ***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
-<br>
 <br>
 If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce ~~papers~~ articles such as the one that you are kindly reading
 
@@ -85,7 +86,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk3NjUzOSw2ODY0NzI0NTYsLTE5Nj
+eyJoaXN0b3J5IjpbMTI5NzI5NzIyOSw2ODY0NzI0NTYsLTE5Nj
 gwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIwMDMs
 LTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
 g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
