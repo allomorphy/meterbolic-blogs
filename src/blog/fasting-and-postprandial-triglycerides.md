@@ -10,7 +10,7 @@ I’m going to summarize fasting metrics very briefly and then expand on postpra
 
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglycerides: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
-In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, providing a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do: it is unable to detect the majority of early metabolic derangements. To pick up these, one needs a *postprandial* or meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
+In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, providing a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of early metabolic derangements. To pick up these, one needs a *postprandial* or meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or longer elevation of triglyceride level can be assessed in postprandial measurements.
 
 Why is reduced lipid uptake into adipose tissue an early indicator of IR? 
 
@@ -84,9 +84,9 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzOTAxNjYzLC0xMzk0MTQ5MDA1LC0xNj
-MwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAxOTI3NCwtMjc3NTM5
-MTQwLDY4MDE3MzA5OCwyNjMyMjAwMywtMTA5MTg4NzY1NCwxND
-A3NjA1NTI1LC01NzM3OTk5MzQsMTMwODQxMjYzNCwtMTk4ODk0
-NTgzN119
+eyJoaXN0b3J5IjpbMTQwOTQ4OTU1Myw1MDM5MDE2NjMsLTEzOT
+QxNDkwMDUsLTE2MzA0MzY1NDAsNjg2NDcyNDU2LC0xOTY4MDE5
+Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LDI2MzIyMDAzLC0xMD
+kxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5OTkzNCwxMzA4NDEy
+NjM0LC0xOTg4OTQ1ODM3XX0=
 -->
