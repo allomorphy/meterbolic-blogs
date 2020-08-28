@@ -18,7 +18,7 @@ One of the major metabolically active organs is `White Adipose Tissue` (WAT).  T
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the preciously mentioned ectopic deposition of lipids and the initiation of local inflammation and IR [^7].
 
-There are two main transport forms of fatty acids in the blood. 1)`Free Fatty Acids` (FFA) travel after liberation from adipose tissues dissolved in the blood to organs that use the FFA as a fuel or 2) the liver esterifies the FFA by bonding it to a glycerol molecule to form Triglycerides and subsequently repackages the insoluble triglyceride it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
+There are two main transport forms of fatty acids in the blood. 1)`Free Fatty Acids` (FFA) travel after liberation from adipose tissues in the blood (bound to albumin as a carrier) to organs that use the FFA as a fuel or 2) the liver esterifies the FFA by bonding it to a glycerol molecule to form Triglycerides and subsequently repackages the insoluble triglyceride it into lipoprotein, mainly VLDL particles. This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
@@ -39,7 +39,7 @@ To show any interest, please send email to <insights@meterbolic.org>
 
 * * *
 <br>
-Although triglycerides are often considered a transport form, these glycerol-bound fatty acids can be liberated not only from adipose tissues for uptake and storage, but also from other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. As outlined in Section VIII of the mentioned review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling, likely some or most of these being even initiated by disruption of the cycle.
+Although triglycerides are often considered a transport form, these glycerol-bound fatty acids may be liberated not only from adipose tissues for uptake and storage, but also from other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. As outlined in Section VIII of the mentioned review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling, likely some or most of these being even initiated by disruption of the cycle.
 
 Even though knowing its dynamics may be at least as meaningful, measuring FFA is technically difficult even in a clinical setting. Instead, TG are routinely determined in the fasting state, but can be measured and interpreted in the postprandial phase as well. At this time, we are interested in the utility of determining postprandial levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), which are taken up from the intestinal lumen, are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
@@ -84,11 +84,11 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU3NDg3ODYsOTM3MTI5MTg0LC0xND
-Q5MTEzODIyLC05NzA4NDkyNDMsNjYxOTUwMDA2LDE1OTE2NjI4
-NjIsMTQwOTQ4OTU1MywtMTIxNTcyMzg5NiwxNDA5NDg5NTUzLD
-UwMzkwMTY2MywtMTM5NDE0OTAwNSwtMTYzMDQzNjU0MCw2ODY0
-NzI0NTYsLTE5NjgwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOT
-gsMjYzMjIwMDMsLTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTcz
-Nzk5OTM0XX0=
+eyJoaXN0b3J5IjpbOTY4MjI5NDc1LDkzNzEyOTE4NCwtMTQ0OT
+ExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNTkxNjYyODYy
+LDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4OTU1Myw1MD
+M5MDE2NjMsLTEzOTQxNDkwMDUsLTE2MzA0MzY1NDAsNjg2NDcy
+NDU2LC0xOTY4MDE5Mjc0LC0yNzc1MzkxNDAsNjgwMTczMDk4LD
+I2MzIyMDAzLC0xMDkxODg3NjU0LDE0MDc2MDU1MjUsLTU3Mzc5
+OTkzNF19
 -->
