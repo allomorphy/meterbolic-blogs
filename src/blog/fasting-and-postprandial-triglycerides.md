@@ -31,7 +31,7 @@ The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabol
 ***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
 <br>
 <br>
-If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce papers such as the one that  are kindly reading
+If you should choose to make any donation in appreciation of Gabor's time, then these donations will fund scientific research to advance Care and to produce ~~papers~~ articles such as the one that you are kindly reading
 
 To show any interest, please send email to <insights@meterbolic.org>
 
@@ -85,7 +85,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTA5MTMyMCw2ODY0NzI0NTYsLTE5Nj
+eyJoaXN0b3J5IjpbLTEzOTc3NDQ0NCw2ODY0NzI0NTYsLTE5Nj
 gwMTkyNzQsLTI3NzUzOTE0MCw2ODAxNzMwOTgsMjYzMjIwMDMs
 LTEwOTE4ODc2NTQsMTQwNzYwNTUyNSwtNTczNzk5OTM0LDEzMD
 g0MTI2MzQsLTE5ODg5NDU4MzddfQ==
