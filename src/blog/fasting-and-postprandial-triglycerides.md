@@ -40,10 +40,8 @@ To show any interest, please send email to <insights@meterbolic.org>
 * * *
 <br>
 Although triglycerides are often considered a transport form, these glycerol-bound fatty acids can be 
-
 > ~~liberated~~
 > broken down
-
 not only ~~at~~ in adipose tissues for uptake and storage, but also ~~at~~ in other tissues and organs, for instance the heart and skeletal muscles. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. (As outlined in Section VIII of the ~~mentioned~~ referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. `It is likely that` some or most of these ~~being~~ are even initiated by disruption of ~~the~~ this cycle). `[I propose to put this in braces because I did not know what the glycerolipid family was until now and I thought that this point is not essential to the main thread)]`
 
 Even though knowing its dynamics may be at least as meaningful, the measurement FFA is technically difficult even in a ~~clinical~~  laboratory setting. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also be measured and interpreted in the postprandial phase ~~as well~~. ~~At this time, ~~ We are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
@@ -91,7 +89,7 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTUwMjY2OCwxODI5NDMxOTcxLDIyOT
+eyJoaXN0b3J5IjpbLTEwMzExNDE5MiwxODI5NDMxOTcxLDIyOT
 EyNDE2MSwtMTE2MTA2NTUxMiwzOTIzMjg1Niw5MzcxMjkxODQs
 LTE0NDkxMTM4MjIsLTk3MDg0OTI0Myw2NjE5NTAwMDYsMTU5MT
 Y2Mjg2MiwxNDA5NDg5NTUzLC0xMjE1NzIzODk2LDE0MDk0ODk1
