@@ -100,24 +100,24 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^7]: Okamura T, Hashimoto Y, Hamaguchi M, Obora A, Kojima T, Fukui M. Ectopic fat obesity presents the greatest risk for incident type 2 diabetes: a population-based longitudinal study. International Journal of Obesity [Internet]. 2019 Jan [cited 2019 Jan 17];43(1):139. Available from: https://www.nature.com/articles/s41366-018-0076-3
 
-[^9]:  ccfref  fr
+[^8]:       rf aerga ezrfg zetdf bedftd edfgaetdfezd
 
 [^9]: Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
 
-[^10]: Carvalho E. Adipose-specific overexpression of GLUT4 reverses insulin resistance and diabetes in mice lacking GLUT4 selectively in muscle. AJP: 10. Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 20051992 [cited 2017 Feb 1];289(4):E551–616 Sep 26];263(6):E1063–9. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
+[^10]: Carvalho E. Adipose-specific overexpression of GLUT4 reverses insulin resistance and diabetes in mice lacking GLUT4 selectively in muscle. AJP: 1
 
-[^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism63/6/E1063.short
+[^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism63/6/E1063.short  ERIC TRANSLOCATED THIS HERE-  Internet. 20051992 [cited 2017 Feb 1];289(4):E551–616 Sep 26];263(6):E1063–9. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
 
 <!--[//]: # (11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 19922004 Jan 1 [cited 2016 Sep20 Aug 26];263(6):E1063–947(1):19–22. Available from: https://ajpendo.physiology.org/content/263/6/E1063.shortlink.springer.com/article/10.1007/s00125-003-1269-3) -->
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjQwNzU2NSwtMTAwMjc3NDY4MSwyMT
-ExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5
-NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNz
-EyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAw
-NiwxNTkxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMT
-QwOTQ4OTU1Myw1MDM5MDE2NjMsLTEzOTQxNDkwMDUsLTE2MzA0
-MzY1NDBdfQ==
+eyJoaXN0b3J5IjpbMjI3NDMyMDQ5LC0xMDAyNzc0NjgxLDIxMT
+EwMTI3MDYsLTgzMTU3NDQ0LC0xMDMxMTQxOTIsMTgyOTQzMTk3
+MSwyMjkxMjQxNjEsLTExNjEwNjU1MTIsMzkyMzI4NTYsOTM3MT
+I5MTg0LC0xNDQ5MTEzODIyLC05NzA4NDkyNDMsNjYxOTUwMDA2
+LDE1OTE2NjI4NjIsMTQwOTQ4OTU1MywtMTIxNTcyMzg5NiwxND
+A5NDg5NTUzLDUwMzkwMTY2MywtMTM5NDE0OTAwNSwtMTYzMDQz
+NjU0MF19
 -->
