@@ -69,7 +69,7 @@ The ultimate problem is that **if there is a disturbance in glucose uptake into 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
 
-Since, unlike muscles for glucose, there is no backup plan for massive amounts of dietary fats, all in all, above highlight the importance and utility of monitoring lipid uptake after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reach higher peaks and linger around longer than in insulin sensitive people, following the reduction in uptake to WAT, as discussed above.
+Since, unlike the reserve that muscles provide for glucose, there is no backup plan for massive amounts of dietary fats.  In summary, the above highlight the importance and utility of monitoring lipid uptake after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reach higher peaks and linger around longer than in insulin sensitive people, following the reduction in uptake to WAT, as discussed above.
 
 <strong>End of Part I.</strong>
 
@@ -112,11 +112,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMD
-Y2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEy
-NzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5NzEsMj
-I5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4
-NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNT
-kxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4
-OTU1M119
+eyJoaXN0b3J5IjpbLTEzMDc0NzE5MzQsLTQ2NzI3MTQwOCwtMT
+U0MDMzNzEzMywxMDY2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3
+NDY4MSwyMTExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLD
+E4Mjk0MzE5NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMy
+ODU2LDkzNzEyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLD
+Y2MTk1MDAwNiwxNTkxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3
+MjM4OTZdfQ==
 -->
