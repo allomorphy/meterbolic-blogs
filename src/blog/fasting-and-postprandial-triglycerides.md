@@ -41,7 +41,7 @@ To show any interest, please send email to <insights@meterbolic.org>
 <br>
 `Although triglycerides are often considered a transport form, these glycerol-bound fatty acids are dynamically broken down in adipose tissues for uptake and storage elsewhere. TG is also broken down in other tissues and organs, for instance the heart and skeletal muscles for energy supply.` In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. (As outlined in Section VIII of the ~~mentioned~~ referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. `It is likely that` some or most of these ~~being~~ are even initiated by disruption of ~~the~~ this cycle). `[I propose to put this in braces because I did not know what the glycerolipid family was until now and I thought that this point is not essential to the main thread)]`
 
-Even though knowing its dynamics may be at least as meaningful, the measurement FFA is technically difficult even in a ~~clinical~~  laboratory setting. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also be measured and interpreted in the postprandial phase ~~as well~~. ~~At this time, ~~ We are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
+Even though knowing its dynamics may be at least as meaningful, the measurement FFA is technically difficult even in a ~~clinical~~  laboratory setting. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also be measured and interpreted in the postprandial phase ~~as well~~. ~~At this time, ~~ We are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol) ~~which~~ are taken up from the intestinal lumen ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just-ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
@@ -86,11 +86,11 @@ Since, unlike muscles for glucose, there is no backup plan for massive amounts o
 [^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 1992 [cited 2016 Sep 26];263(6):E1063–9. Available from: http://ajpendo.physiology.org/content/263/6/E1063.short
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTU3NDQ0LC0xMDMxMTQxOTIsMTgyOT
-QzMTk3MSwyMjkxMjQxNjEsLTExNjEwNjU1MTIsMzkyMzI4NTYs
-OTM3MTI5MTg0LC0xNDQ5MTEzODIyLC05NzA4NDkyNDMsNjYxOT
-UwMDA2LDE1OTE2NjI4NjIsMTQwOTQ4OTU1MywtMTIxNTcyMzg5
-NiwxNDA5NDg5NTUzLDUwMzkwMTY2MywtMTM5NDE0OTAwNSwtMT
-YzMDQzNjU0MCw2ODY0NzI0NTYsLTE5NjgwMTkyNzQsLTI3NzUz
-OTE0MF19
+eyJoaXN0b3J5IjpbMjExMTAxMjcwNiwtODMxNTc0NDQsLTEwMz
+ExNDE5MiwxODI5NDMxOTcxLDIyOTEyNDE2MSwtMTE2MTA2NTUx
+MiwzOTIzMjg1Niw5MzcxMjkxODQsLTE0NDkxMTM4MjIsLTk3MD
+g0OTI0Myw2NjE5NTAwMDYsMTU5MTY2Mjg2MiwxNDA5NDg5NTUz
+LC0xMjE1NzIzODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC0xMz
+k0MTQ5MDA1LC0xNjMwNDM2NTQwLDY4NjQ3MjQ1NiwtMTk2ODAx
+OTI3NF19
 -->
