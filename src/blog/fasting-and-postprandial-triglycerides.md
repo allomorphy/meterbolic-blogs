@@ -5,61 +5,59 @@ date: 18 August 2020
 teaser: triolene.jpg
 ---
 
-## Lipid Series Part I -- MPart I Lipid metabolism Bbasics
-I’m going to summarizse fasting metrics very briefly and then expand  on the postprandial measurement here and I will leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to *Lipid Series Part II*. a Par II of this series. 
+## Lipid Series Part I -- Part I Lipid Metabolism Basics
+I’m going to summarizes fasting metrics very briefly and then expand  on the postprandial measurement here and I will leave in-depth discussion on the `TriglYceride-Glucose index` (TyG) to *Lipid Series Part II*. a Par II of this series. 
 
- 1. Can you see this, Gabor? LIPIDO....
+To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
-To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceridelevels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
-
-In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, especially when triglycerides are combined with fasting glucose. This providinges a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that: it is unable to detect the majority of early metabolic derangements. To pick up these, up one needs a *postprandial* or /meal tolerance test. As fatty acid uptake is an early indicator of IR, elevated and/or the sustainedlonger elevation of triglyceride level maycan be assessed in the`~~implemented~~` in postprandial phasemeasurements.
+In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why TyG is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of early metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. As reduced fatty acid uptake is an early indicator of IR, elevated and/or the sustained elevation of triglyceride level may be assessed by measurements in the postprandial phase.
 
 *Why is reduced lipid uptake by adipose tissue an early indicator of IR?* 
 
- One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is *In fact, ectopic* lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) whichin places where it should only be stored at low levels) is typically the results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
+ One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) whichin places where it should only be stored at low levels) is typically the results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
-In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher leptin and visfatin, and lower adiponectin), and higher levels of cytokines (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have beenwere shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the preciously mentioned ectopic deposition of lipids and theand initiation of local inflammation and IR [^7].
+In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher *leptin* and *visfatin*, and lower *adiponectin*), and higher levels of *cytokines* (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the aforementioned ectopic deposition of lipids and the **initiation of local inflammation and IR** [^7].
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-There are two main transport forms of fatty acids in the blood. 1)`F: free Ffatty Aacids` (FFA) travel after liberation fromin adipose tissues in the blood (bound to albumin as a carrier) totowards organs that use ithe FFA as a fuel, or 2) the liver esterifies the FFA by (bondings it to a glycerol molecule to form `Triglycerides` (TGs) and subsequently repackages the insoluble triglyceride it into lipoprotein, mainly VLDL particles. `This form, as well as the repackaged and chylomicron contained fatty acids are triglycerides (TG or TAG, the latter being short for triacyl-glycerol), comprising the second main type of circulating fats.` `[Do you mean that the VLDL and the CM are the places where this TG occurs?]`
+There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel, or 2) `Triglycerides` (TGs) are made by the liver through esterification. This is the bonding of the FFA to a glycerol molecule. The insoluble triglyceride is then repackaged into soluble lipoprotein, mainly *VLDL* particles. **EMS: This next sentence beats me -->** This form, as well as the repackaged chylomicron contained fatty acids are triglycerides, comprising the second main type of circulating fats.
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
- 
+<br>
+
+* * * 
+| Insights into Metabolism -- including yours |
+|:--------:|
+| The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests.|
+|If you should choose to make any donation in appreciation for Gabor's time, then such donations are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
+|To show any interest, please send email to <insights@meterbolic.org>|
+|***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***.|
+* * * 
+<br>
+
+Although triglycerides are often considered a transport form, these glycerol-bound fatty acids are dynamically broken down in adipose tissues and carried by the blood for uptake and storage elsewhere. TG is also broken down in other tissues and organs, for instance the heart and skeletal muscles and used for energy supply. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or decreasing the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8] . 
 <br>
 <br>
-* * *
-The Author,  
 
->Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared ingained through online consulting and with, analysis of lifestyle and interpretations of postprandial blood testmarkers.
+* * * 
+| Did you know? |
+|:--------:|
+|As outlined in Section VIII of the referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. Furthermore, it is, likely that some or most of these are even initiated by disruption of this cycle.|
 
->***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***. 
+* * * 
 <br>
-If you should choose to make any donation in appreciation offor Gabor's time, then these donations willare used to fund scientific research to advance Care and to produce ~~papers~~ articles such as the one that you are kindly reading
 
-To show>For any interest, please send email to <insights@meterbolic.org>
-
-* * *
-<br>
-`Although triglycerides are often considered a transport form, these glycerol-bound fatty acids are dynamically broken down incan be liberated not only at adipose tissues for uptake and storage elsewhere. TG is also broken down in, but also at other tissues and organs, for instance the heart and skeletal muscles for energy supply.`. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or dropping the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8]. (As outlined in Section VIII of the ~~mentioned~~ referenced review [^8], metabolic diseases are always accompanied by disturbances in glycerolipid cycling. `It is, likely that` some or most of these ~~being~~ are even initiated by disruption of ~~the~~ this cycle). `[I propose to put this in braces because I did not know what the glycerolipid family was until now and I thought that this point is not essential to the main thread)]` cycle.
-
-Even though knowing its dynamics may be at least as meaningful, the measurementing FFA is technically difficult even in a ~~clinical~~  laboratory setting. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also, but can be measured and interpreted in the postprandial phase ~~as well~~. ~~. At this time, ~~ Wwe are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen, ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
+Even though knowing its dynamics may be at least as meaningful, the measurement of FFA is technically difficult even in most clinical laboratories. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also, but can be measured and interpreted in the postprandial phase ~~as well~~. ~~. At this time, ~~ Wwe are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen, ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
- Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] [^8] which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?)decreased uptake of glucose via the GLUT4 pathway. Although not directly, tThis pathway is directly linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, [reviewed in [^9]. 
-
-~~---------------------------------------------------------
-
- - [ bj.kbkj] `strikethrough text`
-
-~~
+ Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?)decreased uptake of glucose via the GLUT4 pathway. Although not directly, tThis pathway is directly linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, [reviewed in [^9]. 
 
 The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11]10 and see Fig.4. from that paper attached]
 
