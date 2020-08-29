@@ -53,7 +53,7 @@ Even though knowing its dynamics may be at least as meaningful, the measurementi
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
- Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?)decreased uptake of glucose via the GLUT4 pathway. Although not directly, tThis pathway is directly linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, [reviewed in [^9]. 
+ Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] [^which is still one of my absolute favorites, and from which above series of graphs are borrowed, showed that in visceral obesity (= IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal: blood flow, glucose extraction, and TG uptake. Note the order, as it is likely very important. The conclusion we can draw based on this is that WAT insulin resistance, which may manifest mainly as decreased blood flow, results in a reduced (impaired?)decreased uptake of glucose via the GLUT4 pathway. Although not directly, tThis pathway is directly linked to fatty acid re-esterification (synthesis and storage of TG), because glycerol cannot be recycled in WAT due to lack of a key enzyme, so it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, [reviewed in [^9]. 
 
 ~~---------------------------------------------------------
 
@@ -113,11 +113,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDMyMDQ5LC0xMDAyNzc0NjgxLDIxMT
-EwMTI3MDYsLTgzMTU3NDQ0LC0xMDMxMTQxOTIsMTgyOTQzMTk3
-MSwyMjkxMjQxNjEsLTExNjEwNjU1MTIsMzkyMzI4NTYsOTM3MT
-I5MTg0LC0xNDQ5MTEzODIyLC05NzA4NDkyNDMsNjYxOTUwMDA2
-LDE1OTE2NjI4NjIsMTQwOTQ4OTU1MywtMTIxNTcyMzg5NiwxND
-A5NDg5NTUzLDUwMzkwMTY2MywtMTM5NDE0OTAwNSwtMTYzMDQz
-NjU0MF19
+eyJoaXN0b3J5IjpbMTEyOTQxNjg0MiwtMTAwMjc3NDY4MSwyMT
+ExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5
+NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNz
+EyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAw
+NiwxNTkxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMT
+QwOTQ4OTU1Myw1MDM5MDE2NjMsLTEzOTQxNDkwMDUsLTE2MzA0
+MzY1NDBdfQ==
 -->
