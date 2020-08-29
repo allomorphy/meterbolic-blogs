@@ -57,7 +57,7 @@ Even though knowing its dynamics may be meaningful, the measurement of FFA is te
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
- Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
+ Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] **<-GABOR** which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
  1. blood flow, 
  2. glucose extraction
  3. TG uptake 
@@ -112,11 +112,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTY1NTkyNywtMTc2MzQ0OTg0NiwtND
-Y3MjcxNDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIxNjg1
-OTYzLC0xMDAyNzc0NjgxLDIxMTEwMTI3MDYsLTgzMTU3NDQ0LC
-0xMDMxMTQxOTIsMTgyOTQzMTk3MSwyMjkxMjQxNjEsLTExNjEw
-NjU1MTIsMzkyMzI4NTYsOTM3MTI5MTg0LC0xNDQ5MTEzODIyLC
-05NzA4NDkyNDMsNjYxOTUwMDA2LDE1OTE2NjI4NjIsMTQwOTQ4
-OTU1M119
+eyJoaXN0b3J5IjpbNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3Nj
+M0NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMDY2OTYw
+OTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEyNzA2LC
+04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5NzEsMjI5MTI0
+MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4NCwtMT
+Q0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNTkxNjYy
+ODYyXX0=
 -->
