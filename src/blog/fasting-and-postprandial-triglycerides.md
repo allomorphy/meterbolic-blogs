@@ -75,11 +75,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 (Unit conversion for TG: 1 mmol/L = 88.5 mg/dL, or use a calculator, e.g. this one: https://unitslab.com/node/53)
 
-<strong>End of Part I.</strong>
-
-<!--
-
-i-->
+-->
 
 ## References
 [^1]: Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author) 
@@ -111,11 +107,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njk2MDkyMCw3MjE2ODU5NjMsLTEwMD
-I3NzQ2ODEsMjExMTAxMjcwNiwtODMxNTc0NDQsLTEwMzExNDE5
-MiwxODI5NDMxOTcxLDIyOTEyNDE2MSwtMTE2MTA2NTUxMiwzOT
-IzMjg1Niw5MzcxMjkxODQsLTE0NDkxMTM4MjIsLTk3MDg0OTI0
-Myw2NjE5NTAwMDYsMTU5MTY2Mjg2MiwxNDA5NDg5NTUzLC0xMj
-E1NzIzODk2LDE0MDk0ODk1NTMsNTAzOTAxNjYzLC0xMzk0MTQ5
-MDA1XX0=
+eyJoaXN0b3J5IjpbLTY4NjA4ODA0MSwxMDY2OTYwOTIwLDcyMT
+Y4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEyNzA2LC04MzE1NzQ0
+NCwtMTAzMTE0MTkyLDE4Mjk0MzE5NzEsMjI5MTI0MTYxLC0xMT
+YxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4NCwtMTQ0OTExMzgy
+MiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNTkxNjYyODYyLDE0MD
+k0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4OTU1Myw1MDM5MDE2
+NjNdfQ==
 -->
