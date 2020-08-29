@@ -53,7 +53,7 @@ Although triglycerides are often considered a transport form, these glycerol-bou
 * * * 
 <br>
 
-Even though knowing its dynamics may be meaningful, the measurement of FFA is technically difficult even in most clinical laboratories. Instead, `we routinely measure`TG ~~are routinely determined~~ in the fasting state and as mentioned ~~but can be~~ may also, but can be measured and interpreted in the postprandial phase ~~as well~~. ~~. At this time, ~~ Wwe are interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen, ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
+Even though knowing its dynamics may be meaningful, the measurement of FFA is technically difficult even in most clinical laboratories. Instead of FFA, we routinely measure TG in the fasting state and as mentioned it may also be measured and interpreted in the postprandial phase. Tare interested in the utility of determining postprandial `TG` levels, or in other words its dynamics. Lipid metabolism is a bit trickier than that of glucose, in that fatty acids do not simply pass through the intestinal wall `as glucose does`. While glucose take-up by intestinal epithelial cells (enterocytes and enteroendocrine cells) results in a closely corresponding increase in blood, FFA (and monoacyl-glycerol), ~~which~~ are taken up from the intestinal lumen, ~~,~~ `and`are first converted back to TG and can be stored in the form of lipid droplets within enterocytes, and only released later. 
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
@@ -111,7 +111,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODA5ODkxOSw3MjE2ODU5NjMsLTEwMD
+eyJoaXN0b3J5IjpbMTQ5NDYyNzY2Miw3MjE2ODU5NjMsLTEwMD
 I3NzQ2ODEsMjExMTAxMjcwNiwtODMxNTc0NDQsLTEwMzExNDE5
 MiwxODI5NDMxOTcxLDIyOTEyNDE2MSwtMTE2MTA2NTUxMiwzOT
 IzMjg1Niw5MzcxMjkxODQsLTE0NDkxMTM4MjIsLTk3MDg0OTI0
