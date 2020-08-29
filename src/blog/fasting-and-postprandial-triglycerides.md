@@ -100,7 +100,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^7]: Okamura T, Hashimoto Y, Hamaguchi M, Obora A, Kojima T, Fukui M. Ectopic fat obesity presents the greatest risk for incident type 2 diabetes: a population-based longitudinal study. International Journal of Obesity [Internet]. 2019 Jan [cited 2019 Jan 17];43(1):139. Available from: https://www.nature.com/articles/s41366-018-0076-3
 
-[^8]:  ccfref  fr
+[^9]:  ccfref  fr
 
 [^9]: Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
 
@@ -113,7 +113,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjMyNjA5MiwtMTAwMjc3NDY4MSwyMT
+eyJoaXN0b3J5IjpbMTA1MjQwNzU2NSwtMTAwMjc3NDY4MSwyMT
 ExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5
 NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNz
 EyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAw
