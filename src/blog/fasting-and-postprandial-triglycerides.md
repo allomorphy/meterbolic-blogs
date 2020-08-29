@@ -89,20 +89,20 @@ Wiley Blackwell; ISBN-13: 978-1119331438; 2019. https://www.amazon.com/Human-Met
 
 [^2]:2. Introduction to Lipids and Lipoproteins By Kenneth R Feingold and Carl Grunfeld In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK305896/
 
-[^3]:3. Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock 
+[^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock 
 In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
-[^4]:4. McQuaid SE, Hodson L, Neville MJ, Dennis AL, Cheeseman J, Humphreys SM, et al. Downregulation of Adipose Tissue Fatty Acid Trafficking in Obesity: A Driver for Ectopic Fat Deposition? Diabetes [Internet]. 2010;60(1):47–55. Available from: http://diabetes.diabetesjournals.org/content/60/1/47
+[^4]: McQuaid SE, Hodson L, Neville MJ, Dennis AL, Cheeseman J, Humphreys SM, et al. Downregulation of Adipose Tissue Fatty Acid Trafficking in Obesity: A Driver for Ectopic Fat Deposition? Diabetes [Internet]. 2010;60(1):47–55. Available from: http://diabetes.diabetesjournals.org/content/60/1/47
 
-[^5]:5. Sabio G, Das M, Mora A, Zhang Z, Jun JY, Ko HJ, et al. A Stress Signaling Pathway in Adipose Tissue Regulates Hepatic Insulin Resistance. Science [Internet]. 2008;322(5907):1539–43. Available from: https://science.sciencemag.org/content/322/5907/1539.full
+[^5]: Sabio G, Das M, Mora A, Zhang Z, Jun JY, Ko HJ, et al. A Stress Signaling Pathway in Adipose Tissue Regulates Hepatic Insulin Resistance. Science [Internet]. 2008;322(5907):1539–43. Available from: https://science.sciencemag.org/content/322/5907/1539.full
 
-[^6]:6. Girousse A, Gil-Ortega M, Bourlier V, Bergeaud C, Sastourné-Arrey Q, Moro C, et al. The Release of Adipose Stromal Cells from Subcutaneous Adipose Tissue Regulates Ectopic Intramuscular Adipocyte Deposition. Cell Reports [Internet]. 2019;27(2):323-333.e5. Available from: https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30354-77
+[^6]: Girousse A, Gil-Ortega M, Bourlier V, Bergeaud C, Sastourné-Arrey Q, Moro C, et al. The Release of Adipose Stromal Cells from Subcutaneous Adipose Tissue Regulates Ectopic Intramuscular Adipocyte Deposition. Cell Reports [Internet]. 2019;27(2):323-333.e5. Available from: https://www.cell.com/cell-reports/fulltext/S2211-1247(19)30354-77
 
-[^7]:7. Okamura T, Hashimoto Y, Hamaguchi M, Obora A, Kojima T, Fukui M. Ectopic fat obesity presents the greatest risk for incident type 2 diabetes: a population-based longitudinal study. International Journal of Obesity [Internet]. 2019 Jan [cited 2019 Jan 17];43(1):139. Available from: https://www.nature.com/articles/s41366-018-0076-3
+[^7]: Okamura T, Hashimoto Y, Hamaguchi M, Obora A, Kojima T, Fukui M. Ectopic fat obesity presents the greatest risk for incident type 2 diabetes: a population-based longitudinal study. International Journal of Obesity [Internet]. 2019 Jan [cited 2019 Jan 17];43(1):139. Available from: https://www.nature.com/articles/s41366-018-0076-3
 
-[^8]:8. Prentki M, Madiraju SRM. Glycerolipid Metabolism and Signaling in Health and Disease. Endocrine Reviews [Internet]. 2008;29(6):647–76. Available from: https://academic.oup.com/edrv/article/29/6/647/2354984
+[^8]: Prentki M, Madiraju SRM. Glycerolipid Metabolism and Signaling in Health and Disease. Endocrine Reviews [Internet]. 2008;29(6):647–76. Available from: https://academic.oup.com/edrv/article/29/6/647/2354984
 
-[^9]:9. Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
+[^9]: Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
 
 [^10]: Carvalho E. Adipose-specific overexpression of GLUT4 reverses insulin resistance and diabetes in mice lacking GLUT4 selectively in muscle. AJP: 10. Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism [Internet]. 20051992 [cited 2017 Feb 1];289(4):E551–616 Sep 26];263(6):E1063–9. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
 
@@ -113,11 +113,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI3NzQ2ODEsMjExMTAxMjcwNiwtOD
-MxNTc0NDQsLTEwMzExNDE5MiwxODI5NDMxOTcxLDIyOTEyNDE2
-MSwtMTE2MTA2NTUxMiwzOTIzMjg1Niw5MzcxMjkxODQsLTE0ND
-kxMTM4MjIsLTk3MDg0OTI0Myw2NjE5NTAwMDYsMTU5MTY2Mjg2
-MiwxNDA5NDg5NTUzLC0xMjE1NzIzODk2LDE0MDk0ODk1NTMsNT
-AzOTAxNjYzLC0xMzk0MTQ5MDA1LC0xNjMwNDM2NTQwLDY4NjQ3
-MjQ1Nl19
+eyJoaXN0b3J5IjpbLTQwNDMwNjkxMywtMTAwMjc3NDY4MSwyMT
+ExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5
+NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNz
+EyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAw
+NiwxNTkxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMT
+QwOTQ4OTU1Myw1MDM5MDE2NjMsLTEzOTQxNDkwMDUsLTE2MzA0
+MzY1NDBdfQ==
 -->
