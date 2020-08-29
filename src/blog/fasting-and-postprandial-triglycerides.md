@@ -104,14 +104,14 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^10]: Carvalho E. Adipose-specific overexpression of GLUT4 reverses insulin resistance and diabetes in mice lacking GLUT4 selectively in muscle. AJP: 1
 
-[^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism63/6/E1063.short  **ERIC TRANSLOCATED THIS HERE, PLEASE FIX**-  Internet. 20051992 [cited 2017 Feb 1];289(4):E551–616 Sep 26];263(6):E1063–9. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
+[^11]: Campbell PJ, Carlson MG, Hill JO, Nurjhan N. Regulation of free fatty acid metabolism by insulin in humans: role of lipolysis and reesterification. American Journal of Physiology-Endocrinology and Metabolism63/6/E1063.short  **Eric moved this here, please fix or tell me how to fix it. Careful of the code**-  Internet. 20051992 [cited 2017 Feb 1];289(4):E551–616 Sep 26];263(6):E1063–9. Available from: [http://ajpendo.physiology.org/content/289/4/E551.full](http://ajpendo.physiology.org/content/289/4/E551.full)
 
 <!--[//]: # (11. Iovine C, Vaccaro O, Gentile A, Romano G, Pisanti F, Riccardi G, et al. Post-prandial triglyceride profile in a population-based sample of Type 2 diabetic patients. Diabetologia [Internet]. 19922004 Jan 1 [cited 2016 Sep20 Aug 26];263(6):E1063–947(1):19–22. Available from: https://ajpendo.physiology.org/content/263/6/E1063.shortlink.springer.com/article/10.1007/s00125-003-1269-3) -->
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQzNjA0MDQsNTk4OTg1ODczLDE0ND
+eyJoaXN0b3J5IjpbLTEwOTc5NTA0NzksNTk4OTg1ODczLDE0ND
 k2NTU5MjcsLTE3NjM0NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMz
 NzEzMywxMDY2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MS
 wyMTExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0
