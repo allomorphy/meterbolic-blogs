@@ -62,9 +62,9 @@ In line with this, the first wave of chylomicrons (lipoproteins secreted by ente
  2. glucose extraction
  3. TG uptake 
 
-Note the order, as it is likely very important. The conclusion we may draw based on this is that *WAT insulin resistance*, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. This pathway is directly linked to fatty acid re-esterification (the synthesis and storage of TG described above). The reduced availability of glucose means that glycerol may no longer be synthesised via the simpler glycolytic pathway and furhermore glycerol cannot be recycled in WAT due to lack of a key enzyme. This means tht glycerold it has to be synthesized via glyceroneogenesis, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9]. 
+Note the order, as it is likely very important. The conclusion we may draw based on this is that *WAT insulin resistance*, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. This pathway is directly linked to fatty acid re-esterification (the synthesis and storage of TG described above). The reduced availability of glucose means that glycerol may no longer be synthesised via the simpler glycolytic pathway and furhermore glycerol cannot be recycled in WAT due to lack of a key enzyme. This means tht glycerol has to be synthesized via *glyceroneogenesis*, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9]. 
 
-The ultimate problem is that if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage. Lower storage, higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11]10 and see Fig.4. from that paper attached]
+The ultimate problem is that **if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific KnockoKO models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FA to TG [^11]10 and see Fig.4. from that paper attached]
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -112,11 +112,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE1NjIwNiwtMTU0MDMzNzEzMywxMD
-Y2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEy
-NzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5NzEsMj
-I5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4
-NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAwNiwxNT
-kxNjYyODYyLDE0MDk0ODk1NTMsLTEyMTU3MjM4OTYsMTQwOTQ4
-OTU1M119
+eyJoaXN0b3J5IjpbLTEyNjY3NTk1ODcsLTE1NDAzMzcxMzMsMT
+A2Njk2MDkyMCw3MjE2ODU5NjMsLTEwMDI3NzQ2ODEsMjExMTAx
+MjcwNiwtODMxNTc0NDQsLTEwMzExNDE5MiwxODI5NDMxOTcxLD
+IyOTEyNDE2MSwtMTE2MTA2NTUxMiwzOTIzMjg1Niw5MzcxMjkx
+ODQsLTE0NDkxMTM4MjIsLTk3MDg0OTI0Myw2NjE5NTAwMDYsMT
+U5MTY2Mjg2MiwxNDA5NDg5NTUzLC0xMjE1NzIzODk2LDE0MDk0
+ODk1NTNdfQ==
 -->
