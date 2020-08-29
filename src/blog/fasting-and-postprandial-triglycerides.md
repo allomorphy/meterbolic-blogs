@@ -84,10 +84,10 @@ Let us see how it works in studies that specifically investigated this. A nice s
 i-->
 
 ## References
-[^1]:1. Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author) 
+[^1]: Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author) 
 Wiley Blackwell; ISBN-13: 978-1119331438; 2019. https://www.amazon.com/Human-Metabolism-Perspective-Keith-Frayn/dp/1119331439
 
-[^2]:2. Introduction to Lipids and Lipoproteins By Kenneth R Feingold and Carl Grunfeld In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK305896/
+[^2]: Introduction to Lipids and Lipoproteins By Kenneth R Feingold and Carl Grunfeld In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK305896/
 
 [^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock 
 In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
@@ -100,7 +100,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^7]: Okamura T, Hashimoto Y, Hamaguchi M, Obora A, Kojima T, Fukui M. Ectopic fat obesity presents the greatest risk for incident type 2 diabetes: a population-based longitudinal study. International Journal of Obesity [Internet]. 2019 Jan [cited 2019 Jan 17];43(1):139. Available from: https://www.nature.com/articles/s41366-018-0076-3
 
-[^8]: Prentki M, Madiraju SRM. Glycerolipid Metabolism and Signaling in Health and Disease. Endocrine Reviews [Internet]. 2008;29(6):647–76. Available from: https://academic.oup.com/edrv/article/29/6/647/2354984
+[^8]:  ccfref  fr
 
 [^9]: Nye C, Kim J, Kalhan SC, Hanson RW. Reassessing triglyceride synthesis in adipose tissue. Trends in Endocrinology & Metabolism [Internet]. 2008;19(10):356–61. Available from: http://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(08)00137-9
 
@@ -113,7 +113,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDMwNjkxMywtMTAwMjc3NDY4MSwyMT
+eyJoaXN0b3J5IjpbMTI2MjMyNjA5MiwtMTAwMjc3NDY4MSwyMT
 ExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5
 NzEsMjI5MTI0MTYxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNz
 EyOTE4NCwtMTQ0OTExMzgyMiwtOTcwODQ5MjQzLDY2MTk1MDAw
