@@ -22,7 +22,7 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel, or 2) `Triglycerides` (TGs) are made by the liver through esterification. This is the bonding of the FFA to a glycerol molecule. The insoluble triglyceride is then repackaged into soluble lipoprotein, mainly *VLDL* particles. **EMS: This next sentence beats me -->** This form, as well as the repackaged chylomicron contained fatty acids are triglycerides, comprising the second main type of circulating fats.
+There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel and 2) `Triglycerides` (TGs) which are made by the liver through esterification, i.e. the bonding of the FFA to a glycerol molecule. The insoluble triglyceride is then repackaged into soluble lipoprotein, mainly *VLDL* particles. **EMS: This next sentence beats me -->** This form, as well as the repackaged chylomicron contained fatty acids are triglycerides, comprising the second main type of circulating fats.
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNzU0MzAyLDkzMDY3NTQxMCwtMTg5Mj
-Y4NjExMiwtNDQ3NDQxMDA0LDEwMjI2MTk1ODgsLTE2ODcwMTY3
-MjEsLTEzMzg5ODgwMTgsLTEwOTc5NTA0NzksNTk4OTg1ODczLD
-E0NDk2NTU5MjcsLTE3NjM0NDk4NDYsLTQ2NzI3MTQwOCwtMTU0
-MDMzNzEzMywxMDY2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3ND
-Y4MSwyMTExMDEyNzA2LC04MzE1NzQ0NCwtMTAzMTE0MTkyLDE4
-Mjk0MzE5NzFdfQ==
+eyJoaXN0b3J5IjpbLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNj
+c1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMjYxOTU4
+OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOCwtMTA5Nzk1MDQ3OS
+w1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0NiwtNDY3
+MjcxNDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIxNjg1OT
+YzLC0xMDAyNzc0NjgxLDIxMTEwMTI3MDYsLTgzMTU3NDQ0LC0x
+MDMxMTQxOTJdfQ==
 -->
