@@ -57,7 +57,7 @@ Even though knowing its dynamics may be meaningful, the measurement of FFA is te
 
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
- Technically, the microdialysis study by McQuaid et al. [^4],  [^5] [^6] [^7] **<-GABOR** which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
+ Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
  1. blood flow, 
  2. glucose extraction
  3. TG uptake 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MT
-c1NDMwMiw5MzA2NzU0MTAsLTE4OTI2ODYxMTIsLTQ0NzQ0MTAw
-NCwxMDIyNjE5NTg4LC0xNjg3MDE2NzIxLC0xMzM4OTg4MDE4LC
-0xMDk3OTUwNDc5LDU5ODk4NTg3MywxNDQ5NjU1OTI3LC0xNzYz
-NDQ5ODQ2LC00NjcyNzE0MDgsLTE1NDAzMzcxMzMsMTA2Njk2MD
-kyMCw3MjE2ODU5NjMsLTEwMDI3NzQ2ODEsMjExMTAxMjcwNiwt
-ODMxNTc0NDRdfQ==
+eyJoaXN0b3J5IjpbLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMz
+Q5MTU5NDMsNTUxNzU0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjEx
+MiwtNDQ3NDQxMDA0LDEwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLT
+EzMzg5ODgwMTgsLTEwOTc5NTA0NzksNTk4OTg1ODczLDE0NDk2
+NTU5MjcsLTE3NjM0NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMzNz
+EzMywxMDY2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwy
+MTExMDEyNzA2XX0=
 -->
