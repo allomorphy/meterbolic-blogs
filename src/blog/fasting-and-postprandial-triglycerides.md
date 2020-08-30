@@ -12,7 +12,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. As reduced fatty acid uptake is an early indicator of IR, the elevated and/or the sustained elevation of triglyceride level may be assessed by such measurements in the postprandial phase.
 
-*Why is reduced lipid uptake by adipose tissue an early indicator of IR?* 
+***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
  One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) whichin places where it should only be stored at low levels) is typically the results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzQ0MTAwNCwxMDIyNjE5NTg4LC0xNj
-g3MDE2NzIxLC0xMzM4OTg4MDE4LC0xMDk3OTUwNDc5LDU5ODk4
-NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5ODQ2LC00NjcyNzE0MD
-gsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMCw3MjE2ODU5NjMsLTEw
-MDI3NzQ2ODEsMjExMTAxMjcwNiwtODMxNTc0NDQsLTEwMzExND
-E5MiwxODI5NDMxOTcxLDIyOTEyNDE2MSwtMTE2MTA2NTUxMiwz
-OTIzMjg1Nl19
+eyJoaXN0b3J5IjpbLTE4OTI2ODYxMTIsLTQ0NzQ0MTAwNCwxMD
+IyNjE5NTg4LC0xNjg3MDE2NzIxLC0xMzM4OTg4MDE4LC0xMDk3
+OTUwNDc5LDU5ODk4NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5OD
+Q2LC00NjcyNzE0MDgsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMCw3
+MjE2ODU5NjMsLTEwMDI3NzQ2ODEsMjExMTAxMjcwNiwtODMxNT
+c0NDQsLTEwMzExNDE5MiwxODI5NDMxOTcxLDIyOTEyNDE2MSwt
+MTE2MTA2NTUxMl19
 -->
