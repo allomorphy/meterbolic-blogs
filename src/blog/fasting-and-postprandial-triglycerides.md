@@ -6,7 +6,7 @@ teaser: triolene.jpg
 ---
 
 ## Lipid Series Part I -- Lipid Metabolism Basics
-In this article I will briefly summarize lipid fasting metrics and then expand in more detail on their postprandial measurement. In the followup, *Lipid Series Part II* I will go into an in-depth discussion of the `Triglyceride-Glucose Index`. 
+In this article I will briefly summarize lipid fasting metrics and then expand in more detail on their postprandial measurement. In the followup, *Lipid Series Part II* I will go into an in-depth discussion of the `Triglyceride-Glucose-Index`. 
 
 To better understand Lipid, and more specifically, Triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
@@ -116,11 +116,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMj
-c1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIx
-NzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLT
-M3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0
-MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0LD
-EwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLTEw
-OTc5NTA0NzldfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLT
+IxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYy
+MTc4NTcyLC0zMzIxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMy
+w5NjU3ODM5NDUsLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5
+MTU5NDMsNTUxNzU0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjExMi
+wtNDQ3NDQxMDA0LDEwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLTEz
+Mzg5ODgwMThdfQ==
 -->
