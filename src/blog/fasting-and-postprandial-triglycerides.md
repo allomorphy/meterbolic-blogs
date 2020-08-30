@@ -16,7 +16,7 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
  One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
-In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet and metabolic status, fatty acids overflow to other sites & organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher *leptin* and *visfatin*, and lower *adiponectin*), and higher levels of *cytokines* (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the aforementioned ectopic deposition of lipids and the *initiation of local inflammation and IR* [^7].
+In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of energy requirements, diet and metabolic status, fatty acids overflow to other sites & organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher *leptin* and *visfatin*, and lower *adiponectin*), and higher levels of *cytokines* (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the aforementioned ectopic deposition of lipids and the *initiation of local inflammation and IR* [^7].
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
@@ -116,11 +116,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLT
-E4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUw
-ODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcxODU0Mj
-YsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MCwtOTQ1
-MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAyLDkzMDY3NTQxMC
-wtMTg5MjY4NjExMiwtNDQ3NDQxMDA0LDEwMjI2MTk1ODgsLTE2
-ODcwMTY3MjFdfQ==
+eyJoaXN0b3J5IjpbMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMT
+gyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUx
+MTYxNDcsLTExNTA4MzkwODEsLTEwNjIxNzg1NzIsLTMzMjE3Mj
+M3LDI0NzE4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcy
+MzkzODkwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMD
+IsOTMwNjc1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAy
+MjYxOTU4OF19
 -->
