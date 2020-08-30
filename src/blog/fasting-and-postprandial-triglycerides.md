@@ -69,7 +69,7 @@ The ultimate problem is that **if there is a disturbance in glucose uptake into 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
 
-Since, unlike the reserve that muscles provide in the case of glucose, there is no backup plan for massive amounts of dietary fats.  In summary, the above highlights the importance and the utility of monitoring the efficiency of lipid uptake by  adipose tissue after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reaches higher peaks and linger around longer than is the case in insulin sensitive people. This follows from the reduction in uptake to WAT as discussed above.
+Since, unlike the reserve that muscles provide in the case of glucose, there is no backup plan for massive amounts of dietary fats.  In summary, the above highlights the importance and the utility of monitoring the efficiency of lipid uptake by  adipose tissue after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reach higher peaks and linger around longer than is the case in insulin sensitive people. This follows from the reduction in uptake to WAT as discussed above.
 
 <strong>End of Part I.</strong>
 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTY2NDczLDk2NTc4Mzk0NSwtMzcyMz
-kzODkwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIs
-OTMwNjc1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMj
-YxOTU4OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOCwtMTA5Nzk1
-MDQ3OSw1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0Ni
-wtNDY3MjcxNDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIx
-Njg1OTYzXX0=
+eyJoaXN0b3J5IjpbMTM0NDg2Njg3MSw5NjU3ODM5NDUsLTM3Mj
+M5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAy
+LDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0LDEwMj
+I2MTk1ODgsLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLTEwOTc5
+NTA0NzksNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0NDk4ND
+YsLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMDY2OTYwOTIwLDcy
+MTY4NTk2M119
 -->
