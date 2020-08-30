@@ -6,7 +6,7 @@ teaser: triolene.jpg
 ---
 
 ## Lipid Series Part I -- Part I Lipid Metabolism Basics
-In this article I will briefly summarize fasting metrics and then expand in more detail on their postprandial measurement here. The *Lipid Series Part II* will discuss in depth the Triglyceride-Glucose index. 
+In this article I will briefly summarize fasting metrics and then expand in more detail on their postprandial measurement here. The *Lipid Series Part II* will contain an i-depth discussion in depth the Triglyceride-Glucose index. 
 
 To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
@@ -111,7 +111,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTM3NTEzNywtMTA5Nzk1MDQ3OSw1OT
+eyJoaXN0b3J5IjpbMjEyNjMwODg4MSwtMTA5Nzk1MDQ3OSw1OT
 g5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0NiwtNDY3Mjcx
 NDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIxNjg1OTYzLC
 0xMDAyNzc0NjgxLDIxMTEwMTI3MDYsLTgzMTU3NDQ0LC0xMDMx
