@@ -48,7 +48,7 @@ Although triglycerides are often considered a transport form, these glycerol-bou
 * * * 
 | Did you know? |
 |:--------:|
-|As outlined in Section VIII of the referenced review [^8], metabolic diseases are always accompanied by disturbances in *glycerolipid* cycling. Furthermore, it is, likely that *some or even most of these are initiated by disruption of glycerolipid cyclng*e.|
+|As outlined in Section VIII of the referenced review [^8], metabolic diseases are always accompanied by disturbances in *glycerolipid* cycling. Furthermore, it is, likely that *some or even most of these are initiated by disruption of glycerolipid cyclng*.|
 
 * * * 
 <br>
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNj
-c1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMjYxOTU4
-OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOCwtMTA5Nzk1MDQ3OS
-w1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0NiwtNDY3
-MjcxNDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIxNjg1OT
-YzLC0xMDAyNzc0NjgxLDIxMTEwMTI3MDYsLTgzMTU3NDQ0LC0x
-MDMxMTQxOTJdfQ==
+eyJoaXN0b3J5IjpbNzQwNTgyOTE2LC0yMzQ5MTU5NDMsNTUxNz
+U0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0
+LDEwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLT
+EwOTc5NTA0NzksNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0
+NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMDY2OTYwOT
+IwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEyNzA2LC04
+MzE1NzQ0NF19
 -->
