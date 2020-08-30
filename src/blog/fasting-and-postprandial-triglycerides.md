@@ -6,9 +6,9 @@ teaser: triolene.jpg
 ---
 
 ## Lipid Series Part I -- Lipid Metabolism Basics
-In this article I will briefly summarize lipid fasting metrics and then expand in more detail on their postprandial measurement. The follwup *Lipid Series Part II* will contain an in-depth discussion of the `Triglyceride-Glucose index. 
+In this article I will briefly summarize lipid fasting metrics and then expand in more detail on their postprandial measurement. The follwup *Lipid Series Part II* will contain an in-depth discussion of the `Triglyceride-Glucose Index`. 
 
-To better understand lipid, and more specifically, triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
+To better understand Lipid, and more specifically, Triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of early metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. As reduced fatty acid uptake is an early indicator of IR, elevated and/or the sustained elevation of triglyceride level may be assessed by measurements in the postprandial phase.
 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjczMTY3LC0xMzM4OTg4MDE4LC0xMD
-k3OTUwNDc5LDU5ODk4NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5
-ODQ2LC00NjcyNzE0MDgsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMC
-w3MjE2ODU5NjMsLTEwMDI3NzQ2ODEsMjExMTAxMjcwNiwtODMx
-NTc0NDQsLTEwMzExNDE5MiwxODI5NDMxOTcxLDIyOTEyNDE2MS
-wtMTE2MTA2NTUxMiwzOTIzMjg1Niw5MzcxMjkxODQsLTE0NDkx
-MTM4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLT
+EwOTc5NTA0NzksNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0
+NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMDY2OTYwOT
+IwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwyMTExMDEyNzA2LC04
+MzE1NzQ0NCwtMTAzMTE0MTkyLDE4Mjk0MzE5NzEsMjI5MTI0MT
+YxLC0xMTYxMDY1NTEyLDM5MjMyODU2LDkzNzEyOTE4NCwtMTQ0
+OTExMzgyMl19
 -->
