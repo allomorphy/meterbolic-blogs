@@ -10,7 +10,7 @@ In this article I will briefly summarize lipid fasting metrics and then expand i
 
 To better understand Lipid, and more specifically, Triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
-In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and th this  elevated and/or the sustained elevation of triglyceride level may be assessed by it's measurement in the postprandial phase.
+In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through m this  elevated and/or the sustained elevation of triglyceride level may be assessed by it's measurement in the postprandial phase.
 
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
@@ -116,11 +116,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzE1MjU3OCwtMTgyNDkyOTMyMCwtMT
-g5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4
-MzkwODEsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNi
-wxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUw
-OTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNjc1NDEwLC
-0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMjYxOTU4OCwtMTY4
-NzAxNjcyMV19
+eyJoaXN0b3J5IjpbLTk1NTQ3MTM0LC0xODI0OTI5MzIwLC0xOD
+k0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1MDgz
+OTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1NDI2LD
+E2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0NTA5
+MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2NzU0MTAsLT
+E4OTI2ODYxMTIsLTQ0NzQ0MTAwNCwxMDIyNjE5NTg4LC0xNjg3
+MDE2NzIxXX0=
 -->
