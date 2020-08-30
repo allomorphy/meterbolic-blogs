@@ -68,7 +68,7 @@ In these circumstances (of reduced availability of intracellular glucose) the es
 
 This hepatic synthesised TG is then packaed into lipiprotein and is released into circulation. Here it is detected as TG in blood tests.
 
-The ultimate problem is that **if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific Gene Knockout (KO) models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FFA to TG as discussed in this reference  [^11] and please see Fig.4. from that paper reproduced below.
+The ultimate problem is that **if there is a disturbance in glucose uptake into WAT, then it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific Gene Knockout (KO) models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FFA to TG as discussed in this reference  [^11] and please see Fig.4. from that paper reproduced below.
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -115,7 +115,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUyMzI3MzMsLTMzMjE3MjM3LDI0Nz
+eyJoaXN0b3J5IjpbLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0Nz
 E4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzODkw
 LC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNj
 c1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMjYxOTU4
