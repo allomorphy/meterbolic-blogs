@@ -58,7 +58,7 @@ Even though knowing its dynamics may be meaningful, the measurement of FFA is te
 In line with this, the first wave of chylomicrons (lipoproteins secreted by enterocytes containing ApoB-48 proteins) often contain lipids from the previous meal, not from the just- ingested one. This makes levels and dynamics a bit less well correlated to the meal under examination, but not to the extent that values could become of no or little use. In fact, postprandial lipid dynamics is closely related to changes in glucose, but the latter can be masked by a non-stressing mixed meal.
 
  Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
- 1. blood flow, 
+ 1. blood flow
  2. glucose uptake 
  3. TG uptake 
 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMTc5MjUyLDk2NTc4Mzk0NSwtMzcyMz
-kzODkwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIs
-OTMwNjc1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMj
-YxOTU4OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOCwtMTA5Nzk1
-MDQ3OSw1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0Ni
-wtNDY3MjcxNDA4LC0xNTQwMzM3MTMzLDEwNjY5NjA5MjAsNzIx
-Njg1OTYzXX0=
+eyJoaXN0b3J5IjpbLTEzNjY0NzU5MjgsOTY1NzgzOTQ1LC0zNz
+IzOTM4OTAsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMw
+Miw5MzA2NzU0MTAsLTE4OTI2ODYxMTIsLTQ0NzQ0MTAwNCwxMD
+IyNjE5NTg4LC0xNjg3MDE2NzIxLC0xMzM4OTg4MDE4LC0xMDk3
+OTUwNDc5LDU5ODk4NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5OD
+Q2LC00NjcyNzE0MDgsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMCw3
+MjE2ODU5NjNdfQ==
 -->
