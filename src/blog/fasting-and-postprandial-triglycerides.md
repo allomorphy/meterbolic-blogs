@@ -22,7 +22,7 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel and 2) `Triglycerides` (TGs) which are made by the liver through esterification, i.e. the bonding of the FFA to a glycerol molecule. This insoluble triglyceride is then repackaged into soluble lipoprotein, mainly *VLDL* and also into Chylomicrons.
+There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel and 2) `Triglycerides` (TGs) which are made by the liver through esterification, i.e. the bonding of the FFA to a glycerol molecule. This insoluble TG is then repackaged into soluble lipoprotein, mainly *VLDL* and also into Chylomicrons, both of which are released into the circulation.
  
 Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
@@ -116,11 +116,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NjMzODM3LC0xMDYyMTc4NTcyLC0zMz
-IxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUs
-LTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNz
-U0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0
-LDEwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLT
-EwOTc5NTA0NzksNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0
-NDk4NDZdfQ==
+eyJoaXN0b3J5IjpbLTE3Njg5MzMzNTEsLTEwNjIxNzg1NzIsLT
+MzMjE3MjM3LDI0NzE4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0
+NSwtMzcyMzkzODkwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NT
+E3NTQzMDIsOTMwNjc1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEw
+MDQsMTAyMjYxOTU4OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOC
+wtMTA5Nzk1MDQ3OSw1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2
+MzQ0OTg0Nl19
 -->
