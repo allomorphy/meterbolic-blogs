@@ -59,7 +59,7 @@ In line with this, the first wave of chylomicrons (lipoproteins secreted by ente
 
  Technically, the microdialysis study by McQuaid et al. [^4], which is still one of my absolute favorites (and from which above series of graphs are borrowed) showed that in visceral obesity (or IR) there are three parameters that correlate very closely in adipose tissues following a mixed meal:
  1. blood flow, 
- 2. glucose extraction
+ 2. glucose uptake 
  3. TG uptake 
 
 Note the order, as it is likely very important. The conclusion we may draw based on this is that *WAT insulin resistance*, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. This pathway is directly linked to fatty acid re-esterification (the synthesis and storage of TG described above). The reduced availability of glucose means that glycerol may no longer be synthesised via the simpler glycolytic pathway and furhermore glycerol cannot be recycled in WAT due to lack of a key enzyme. This means tht glycerol has to be synthesized via *glyceroneogenesis*, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9]. 
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMz
-Q5MTU5NDMsNTUxNzU0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjEx
-MiwtNDQ3NDQxMDA0LDEwMjI2MTk1ODgsLTE2ODcwMTY3MjEsLT
-EzMzg5ODgwMTgsLTEwOTc5NTA0NzksNTk4OTg1ODczLDE0NDk2
-NTU5MjcsLTE3NjM0NDk4NDYsLTQ2NzI3MTQwOCwtMTU0MDMzNz
-EzMywxMDY2OTYwOTIwLDcyMTY4NTk2MywtMTAwMjc3NDY4MSwy
-MTExMDEyNzA2XX0=
+eyJoaXN0b3J5IjpbOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0NT
+A5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2NzU0MTAs
+LTE4OTI2ODYxMTIsLTQ0NzQ0MTAwNCwxMDIyNjE5NTg4LC0xNj
+g3MDE2NzIxLC0xMzM4OTg4MDE4LC0xMDk3OTUwNDc5LDU5ODk4
+NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5ODQ2LC00NjcyNzE0MD
+gsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMCw3MjE2ODU5NjMsLTEw
+MDI3NzQ2ODFdfQ==
 -->
