@@ -66,7 +66,7 @@ Note the order, as it is likely very important. The conclusion we may draw based
 
 In these circumstances (of reduced availability of intracellular glucose) the esterification of circulating FFA to TG  has to occur instead in the liver.  This means that glycerol either has to be synthesized via *glyceroneogenesis*, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9] or by recycling glycerol with *glycerol kinase*. 
 
-This hepatic synthesised TG is then packaed into lipiprotein and is released into circulation. HEre it is detected as TG in blood tests.
+This hepatic synthesised TG is then packaed into lipiprotein and is released into circulation. Here it is detected as TG in blood tests.
 
 The ultimate problem is that **if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific Gene Knockout (KO) models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FFA to TG as discussed in this reference  [^11] and please see Fig.4. from that paper reproduced below.
 
@@ -115,11 +115,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzU5NDI3LC0zMzIxNzIzNywyNDcxOD
-U0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MCwt
-OTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAyLDkzMDY3NT
-QxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0LDEwMjI2MTk1ODgs
-LTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLTEwOTc5NTA0NzksNT
-k4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0NDk4NDYsLTQ2NzI3
-MTQwOF19
+eyJoaXN0b3J5IjpbLTEwMTUyMzI3MzMsLTMzMjE3MjM3LDI0Nz
+E4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzODkw
+LC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNj
+c1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEwMDQsMTAyMjYxOTU4
+OCwtMTY4NzAxNjcyMSwtMTMzODk4ODAxOCwtMTA5Nzk1MDQ3OS
+w1OTg5ODU4NzMsMTQ0OTY1NTkyNywtMTc2MzQ0OTg0NiwtNDY3
+MjcxNDA4XX0=
 -->
