@@ -64,7 +64,7 @@ In line with this, the first wave of chylomicrons (lipoproteins secreted by ente
 
 Note the order, as it is likely very important. The conclusion we may draw based on this is that *WAT insulin resistance*, which may manifest mainly as decreased blood flow, results in a reduced (impaired?) uptake of glucose via the GLUT4 pathway. This pathway is directly linked to fatty acid re-esterification (the synthesis and storage of TG described above). The reduced availability of glucose means that glycerol may no longer be synthesised via the simpler glycolytic pathway and furhermore, glycerol cannot be recycled in WAT due to lack of a key enzyme. This means that glycerol has to be synthesized via *glyceroneogenesis*, a process that shares several enzymes with the gluconeogenic pathway, reviewed in [^9]. 
 
-The ultimate problem is that **if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific Gene Knockout (KO) models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FFA to TG as discussed in this reference  [^11] and please see Fig.4. from that paper attached.
+The ultimate problem is that **if there is a disturbance in glucose uptake into WAT it is automatically linked to reduced glycerol synthesis and eventually to impaired lipid storage.** Lower storage means a higher overflow in the blood and in other tissues, triggering inflammatory processes, and finally, ectopic deposition. Proper glucose uptake is more important in adipose tissues, as shown by specific Gene Knockout (KO) models, than in skeletal muscle, despite the one order of magnitude lower level of absolute uptake [^10]. This is an ultimate signaling hub, and as such, quality trumps quantity. Insulin must follow the increased need for suppressing lipolysis to avoid direct and immediate lipotoxicity, but higher insulin has minimal effect on re-esterification of FFA to TG as discussed in this reference  [^11] and please see Fig.4. from that paper reproduced below.
 
 
 ![Graph 2](/fasting-and-postprandial/graphs-2.png "Mixed meal composition for metabolic profiling")
@@ -111,11 +111,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDg2Njg3MSw5NjU3ODM5NDUsLTM3Mj
-M5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAy
-LDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3NDQxMDA0LDEwMj
-I2MTk1ODgsLTE2ODcwMTY3MjEsLTEzMzg5ODgwMTgsLTEwOTc5
-NTA0NzksNTk4OTg1ODczLDE0NDk2NTU5MjcsLTE3NjM0NDk4ND
-YsLTQ2NzI3MTQwOCwtMTU0MDMzNzEzMywxMDY2OTYwOTIwLDcy
-MTY4NTk2M119
+eyJoaXN0b3J5IjpbLTE1ODI4NzU0MzcsOTY1NzgzOTQ1LC0zNz
+IzOTM4OTAsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMw
+Miw5MzA2NzU0MTAsLTE4OTI2ODYxMTIsLTQ0NzQ0MTAwNCwxMD
+IyNjE5NTg4LC0xNjg3MDE2NzIxLC0xMzM4OTg4MDE4LC0xMDk3
+OTUwNDc5LDU5ODk4NTg3MywxNDQ5NjU1OTI3LC0xNzYzNDQ5OD
+Q2LC00NjcyNzE0MDgsLTE1NDAzMzcxMzMsMTA2Njk2MDkyMCw3
+MjE2ODU5NjNdfQ==
 -->
