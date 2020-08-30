@@ -22,9 +22,9 @@ In other words, when lipids cannot be safely stored in WAT to the extent that it
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel and 2) `Triglycerides` (TGs) which are made by the liver through esterification, i.e. the bonding of the FFA to a glycerol molecule. This insoluble TG is then repackaged into soluble lipoprotein, mainly *VLDL* and also into Chylomicrons, both of which are released into the circulation.
+There are two main transport forms of fatty acids in the blood. 1) `Free fatty Acids` (FFA) travel after liberation within adipose tissues through the blood (bound to albumin as a carrier) towards organs that use the FFA as a fuel and 2) `Triglycerides` (TGs) which are made by the liver through esterification, i.e. the bonding of the FFA to a glycerol molecule. This insoluble TG is then repackaged into soluble lipoprotein, mainly *VLDL* and also into Chylomicrons, both of which are then released into the circulation.
  
-Below graphs are taken from [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
+Below graphs are taken from reference [^4] and nicely depict lipid and glucose dynamics after three mixed meals over a day.
 
 ![Graph](/fasting-and-postprandial/graphs.png "Mixed meal composition for metabolic profiling")
 
@@ -116,7 +116,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg5MzMzNTEsLTEwNjIxNzg1NzIsLT
+eyJoaXN0b3J5IjpbLTExNTA4MzkwODEsLTEwNjIxNzg1NzIsLT
 MzMjE3MjM3LDI0NzE4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0
 NSwtMzcyMzkzODkwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NT
 E3NTQzMDIsOTMwNjc1NDEwLC0xODkyNjg2MTEyLC00NDc0NDEw
