@@ -12,6 +12,33 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 
+Lipid One Cohort - Recruiting now 
+ ------------------------------------------
+|Support Science and join the Project now at meterbolic.org - please select: *more options*|
+|:--------:|
+|Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
+
+
+Item | Qty
+:--------:|  :-----:
+Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
+Profile strip for TG & HDL & LDL & Tot Chol | 20
+Glucose | 50
+Project subscription| 12 months
+Access to graphing dashboard & analytics| YES!
+Number of subjects you measure| no limit|
+Insulin and C-Peptide Test Subscription| 33% rebate if member of Lipid-One|
+
+
+
+|New insights into Metabolism -- including your own |
+|:--------:|
+|The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
+|Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
+|For any questions or comments, please send email to <po@meterbolic.org>|
+|**These engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice**.|
+* * * 
+
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
  One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
@@ -105,7 +132,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjE3MzUwMSw0Njg2ODQxMjQsLTY0MT
+eyJoaXN0b3J5IjpbMTczODUzNTg3MCw0Njg2ODQxMjQsLTY0MT
 g3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEw
 LDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLT
 E4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUw
