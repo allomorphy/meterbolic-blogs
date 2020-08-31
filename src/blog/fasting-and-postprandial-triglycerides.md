@@ -13,7 +13,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 <br>
 ## LipidOne Cohort - recruiting now open
-|Support Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
+==|Support Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
 |:--------:|
 |*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet.| 
 |Donate at least $360 to participate in the project and you will receive your very own Project Pack:|
@@ -134,11 +134,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzI3NTkzMyw2NzMxOTc4MjAsMzAzMz
-M5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4
-NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNj
-QxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1
-MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMC
-wtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTEx
-NTA4MzkwODFdfQ==
+eyJoaXN0b3J5IjpbMTM0NTA3MzA4NSwyMDMzMjc1OTMzLDY3Mz
+E5NzgyMCwzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1
+LC0xMjc2NjcwMDg2LC0xMjA2ODk0NDAsLTIwMTEyOTc4NzQsND
+Y4Njg0MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgz
+NTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC
+0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3
+NTExNjE0N119
 -->
