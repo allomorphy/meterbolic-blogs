@@ -16,7 +16,7 @@ Lipid One Cohort - Recruiting now
  ------------------------------------------
 |Support Science and join the Project now at meterbolic.org - please select: *more options*|
 |:--------:|
-|*Do not just read the new science, become it*. We have limited places to join our new cohort to quantify insulin resistance and meabolic status. Determine risk of developing meetaboolic disease or severe viral infection. Track response to a meal to home-in on a dithat is non-inflammatory diet.| 
+|*Do not just read the new science, become it*. We have limited places to join our new cohort to quantify insulin resistance and meabolic status. Determine risk of developing meetaboolic disease or severe viral infection. Track response to a meal to home-in on a non-inflammatory diet.| 
 |Donate at least $390 to participate in the project and you will receive your own Project Pack:|
 
 
@@ -29,6 +29,7 @@ Project subscription| 18 months
 Access to graphing dashboard & analytics| YES!
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test Subscription| 33% rebate for you as member of Lipid-One|
+
 
 
 
@@ -133,11 +134,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NzM5MzMwLDQ2ODY4NDEyNCwtNjQxOD
-cyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAs
-MTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMT
-g5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4
-MzkwODEsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNi
-wxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUw
-OTA4ODZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzM1MjU5MDYsNDY4Njg0MTI0LC02ND
+E4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUx
+MCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC
+0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1
+MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1ND
+I2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0
+NTA5MDg4Nl19
 -->
