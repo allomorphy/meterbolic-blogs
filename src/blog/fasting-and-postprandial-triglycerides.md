@@ -33,14 +33,14 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 <br>
  Lipid One Cohort - Recruiting now 
  ------------------------------------------
-|Support Science and join now at meterbolic.org|
+|Support Science and join thge Project now at meterbolic.org|
 |:--------:|
 |Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
 
 Item | Qty
 :--------:|  :-----:
-Next-gen lab precision Lipid Profile Meter | 2
+Next-gen lab precision Lipid Profile Meters | 1 or 2 if you need
 Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
 12 month Project subscription| 1
@@ -133,7 +133,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTU3NTI3NywtNjQxODcyMDI2LDE2MD
+eyJoaXN0b3J5IjpbMTMyMTA1NjYyMSwtNjQxODcyMDI2LDE2MD
 A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
 MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
 wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
