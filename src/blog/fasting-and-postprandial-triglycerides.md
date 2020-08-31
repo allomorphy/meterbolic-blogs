@@ -33,7 +33,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 <br>
 
 * * * 
-| Insights into Metabolism -- including yours |
+| Lipid One Cohort - Recruiting now - new insights into Metabolism -- including yours |
 |:--------:|
 ||
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
@@ -117,7 +117,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDIwMzAyMCwxMDEwMTY1MTAsMTAwNj
+eyJoaXN0b3J5IjpbLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNj
 IwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2
 MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwOD
 EsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwxNjEx
