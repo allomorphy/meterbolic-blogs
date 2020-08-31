@@ -28,7 +28,7 @@ Item | Qty
 :--------|  -----:
 • Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 • Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20 tests
-• Refills of strips easy to order |LipidOne rewards volume of strips & data
+• Refills of strips easy to order |LipidOne rewards volume in strips & data
 • Fast result of entire Lipid Panel|off a single blood droplet
 • Glucose | 50 tests
 • Project subscription| 18 months
@@ -41,11 +41,11 @@ Item | Qty
 >
 >The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.
 >
->>Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
+>>Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. 
+>If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
 For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)
-*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.
-* * * 
->Thanks for listening :-)
+*Finally, let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.
+
 <hr>
 <br>
 
@@ -141,11 +141,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDI1OTM0LC02NzQ2MjgwNDAsMzU3Nz
-c5NDcwLDIwMzMyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcwMiwt
-MzI3NDY1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMD
-Y4OTQ0MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAy
-NiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMD
-YyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2
-NjMyMjddfQ==
+eyJoaXN0b3J5IjpbMjAzNjQ2MzU1OCw1MTI0MjU5MzQsLTY3ND
+YyODA0MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4MjAs
+MzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3Nj
+Y3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEy
+NCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMD
+EwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDky
+OTMyMF19
 -->
