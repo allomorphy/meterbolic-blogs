@@ -16,7 +16,7 @@ Lipid One Cohort - Recruiting now
  ------------------------------------------
 |Support Science and join the Project now at meterbolic.org - please select: *more options*|
 |:--------:|
-|Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
+|*Do not just read the new sceince, become it*. We have limited places to join our new cohort to quantify insulin resistance and m. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
 
 Item | Qty
@@ -24,10 +24,10 @@ Item | Qty
 Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
 Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
-Project subscription| 12 months
+Project subscription| 18 months
 Access to graphing dashboard & analytics| YES!
-Number of subjects you measure| no limit|
-Insulin and C-Peptide Test Subscription| 33% rebate if member of Lipid-One|
+Number of subjects to analyze| no limit|
+Insulin and C-Peptide Test Subscription| 33% rebate for you as member of Lipid-One|
 
 
 
@@ -132,11 +132,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODUzNTg3MCw0Njg2ODQxMjQsLTY0MT
-g3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEw
-LDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLT
-E4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUw
-ODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcxODU0Mj
-YsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MCwtOTQ1
-MDkwODg2XX0=
+eyJoaXN0b3J5IjpbLTE5MTM3MzcyNTIsNDY4Njg0MTI0LC02ND
+E4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUx
+MCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC
+0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1
+MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1ND
+I2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0
+NTA5MDg4Nl19
 -->
