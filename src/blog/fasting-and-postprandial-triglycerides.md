@@ -15,7 +15,7 @@ In general, the level of fasting triglycerides correlates well with the correspo
 ## LipidOne Cohort - recruiting now open
 |Support Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
 |:--------:|
-|*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Determine the risk of developing metabolic disease or severe viral infection. Track response to a meal to home-in on a non-inflammatory diet.| 
+|*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet.| 
 |Donate at least $360 to participate in the project and you will receive your very own Project Pack:|
 
 
@@ -135,11 +135,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3ND
-Y1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0
-MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNj
-AwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQx
-NDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMj
-csLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0x
-MDYyMTc4NTcyXX0=
+eyJoaXN0b3J5IjpbMTM3NDQ2NDY2NSw2NzMxOTc4MjAsMzAzMz
+M5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4
+NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNj
+QxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1
+MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMC
+wtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTEx
+NTA4MzkwODFdfQ==
 -->
