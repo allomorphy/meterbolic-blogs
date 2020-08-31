@@ -12,9 +12,11 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 <br>
-------
+<hr>
+<hr>
+
 ## LipidOne Cohort - recruiting now open
-|Support Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
+|Become a part of the Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
 |:--------:|
 |*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet.| 
 |Donate at least $360 to participate in the project and you will receive your very own Project Pack:|
@@ -40,7 +42,7 @@ Item | Qty
 |For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)|
 |*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.|
 * * * 
-
+<hr><hr>
 <br>
 
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
@@ -135,7 +137,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODM4MDk1LDIwMzMyNzU5MzMsNjczMT
+eyJoaXN0b3J5IjpbODI4NDM5MjEzLDIwMzMyNzU5MzMsNjczMT
 k3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUs
 LTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
 g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
