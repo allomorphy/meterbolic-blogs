@@ -12,8 +12,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 
-Lipid One Cohort - Recruiting now 
- ------------------------------------------
+# Lipid One Cohort - Recruiting now 
 |Support Science and join the Project now at meterbolic.org - please select: *more options*|
 |:--------:|
 |*Do not just read the new science, become it*. We have limited places to join our new cohort to quantify insulin resistance and meabolic status. Determine risk of developing meetaboolic disease or severe viral infection. Track response to a meal to home-in on a non-inflammatory diet.| 
@@ -134,11 +133,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTEyOTc4NzQsNDY4Njg0MTI0LC02ND
-E4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUx
-MCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC
-0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1
-MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1ND
-I2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0
-NTA5MDg4Nl19
+eyJoaXN0b3J5IjpbLTEyOTA2NzIwNjUsLTIwMTEyOTc4NzQsND
+Y4Njg0MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgz
+NTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC
+0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3
+NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMT
+cyMzcsMjQ3MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0z
+NzIzOTM4OTBdfQ==
 -->
