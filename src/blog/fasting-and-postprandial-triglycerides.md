@@ -29,7 +29,7 @@ Glucose | 50
 Project subscription| 18 months
 Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
-Insulin and C-Peptide Test Subscription| 33% rebate for you as member of Lipid-One|
+Insulin and C-Peptide Test Subscription| **claim 33% rebate** for you as member of Lipid-One|
 |**Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 
 
@@ -137,11 +137,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNz
-IzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3
-MjM5Mzg5MF19
+eyJoaXN0b3J5IjpbLTEzNTAwMzI3MDAsLTEyMDY4OTQ0MCwtMj
+AxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcy
+NTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLT
+E0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIx
+MjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMT
+c4NTcyLC0zMzIxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5
+NjU3ODM5NDVdfQ==
 -->
