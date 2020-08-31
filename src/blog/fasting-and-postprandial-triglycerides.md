@@ -40,7 +40,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 
 Item | Qty
 :--------:|  :-----:
-Next-gen lab precision Lipid Profile Meters | 1 or 2 if you need
+Next-gen lab precision Lipid Profile Meters | 1 or 2 - according to your needs
 Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
 12 month Project subscription| 1
@@ -133,11 +133,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA1NjYyMSwtNjQxODcyMDI2LDE2MD
-A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
-MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
-wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
-NjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwxNjExNTgyNz
-EzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUwOTA4ODYsLTIz
-NDkxNTk0M119
+eyJoaXN0b3J5IjpbMzc4NTcxMTU5LC02NDE4NzIwMjYsMTYwMD
+c3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQx
+LC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC
+0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2
+MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1NDI2LDE2MTE1ODI3MT
+MsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0NTA5MDg4NiwtMjM0
+OTE1OTQzXX0=
 -->
