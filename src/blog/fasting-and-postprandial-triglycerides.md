@@ -46,7 +46,7 @@ Glucose | 50
 12 month Project subscription| 1
 Access to graphing dashboard & analytics| 
 Number of subjects you measure| no limit|
-Insulin and C-Peptide Test | |
+Insulin and C-Peptide Test Subscription| 33% rebate if member of Lipid-One|
 
 
 
@@ -133,7 +133,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDQ4NzgyLC02NDE4NzIwMjYsMTYwMD
+eyJoaXN0b3J5IjpbNDY4Njg0MTI0LC02NDE4NzIwMjYsMTYwMD
 c3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQx
 LC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC
 0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2
