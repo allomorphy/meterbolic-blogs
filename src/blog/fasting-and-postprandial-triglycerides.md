@@ -29,13 +29,13 @@ Item | Qty
 :--------|  -----:
 **Lab Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
-Refills of strips easy to order |*LipidOne* rewards volume in strips & data
+Refills of strips easy to order |*LipidOne* rewards volume 
 Fast result of full Lipid Panel|...off a single blood droplet
 Glucose | 50 tests
 Project subscription| 18 months
 Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
-Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
+Insulin and C-Peptide Test Subscription|claim 33% LipidOne rebate|
 |**Andhra Pradesh Community Project!** | Your subscription helps make it happen ... worldwide
 -----------
 > **For even deeper insights into Metabolism, please read on:**
@@ -142,11 +142,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc1NDMzOTQsNTI1NTk3NDI2LC05MT
-AzOTYxODMsNTEyNDI1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcw
-LDIwMzMyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3ND
-Y1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0
-MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNj
-AwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQx
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTkzNTY5MTkxMiwtMTA2NzU0MzM5NCw1Mj
+U1OTc0MjYsLTkxMDM5NjE4Myw1MTI0MjU5MzQsLTY3NDYyODA0
+MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4MjAsMzAzMz
+M5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4
+NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNj
+QxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1
+MTBdfQ==
 -->
