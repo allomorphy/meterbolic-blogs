@@ -27,16 +27,16 @@ Please consider donating at least $360 to participate in the project. To empower
 
 Item | Qty
 :--------|  -----:
-Lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
+**Lab Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
 Refills of strips easy to order |*LipidOne* rewards volume in strips & data
-Fast result of entire Lipid Panel|off a single blood droplet
+Fast result of full Lipid Panel|...off a single blood droplet
 Glucose | 50 tests
 Project subscription| 18 months
 Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
-|**Andhra Pradesh Community Project!** | You help make it happen ... worldwide
+|**Andhra Pradesh Community Project!** | Your subscription helps make it happen ... worldwide
 -----------
 > **For even deeper insights into Metabolism, please read on:**
 >
@@ -142,7 +142,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM2ODk1MTIsNTI1NTk3NDI2LC05MT
+eyJoaXN0b3J5IjpbLTEwNjc1NDMzOTQsNTI1NTk3NDI2LC05MT
 AzOTYxODMsNTEyNDI1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcw
 LDIwMzMyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3ND
 Y1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0
