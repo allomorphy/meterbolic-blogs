@@ -23,6 +23,7 @@ Item | Qty
 :--------:|  :-----:
 Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20
+Refills of strips| easy to order with volume incentive
 Fast result of entire Lipid Panel|off a single blood droplet
 Glucose | 50
 Project subscription| 18 months
@@ -136,11 +137,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDk3MjE2OCwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNz
-IzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3
-MjM5Mzg5MF19
+eyJoaXN0b3J5IjpbLTE2NDIyNzYzMDksLTIwMTEyOTc4NzQsND
+Y4Njg0MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgz
+NTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC
+0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3
+NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMT
+cyMzcsMjQ3MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0z
+NzIzOTM4OTBdfQ==
 -->
