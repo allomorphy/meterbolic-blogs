@@ -27,7 +27,7 @@ Please consider donating at least $360 to participate in the project and to empo
 
 Item | Qty
 :--------|  -----:
-Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
+Lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
 Refills of strips easy to order |*LipidOne* rewards volume in strips & data
 Fast result of entire Lipid Panel|off a single blood droplet
@@ -142,11 +142,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NTk3NDI2LC05MTAzOTYxODMsNTEyND
-I1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMs
-NjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMj
-E3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3
-NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOT
-Y0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkx
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ0MzkwNTYsNTI1NTk3NDI2LC05MT
+AzOTYxODMsNTEyNDI1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcw
+LDIwMzMyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3ND
+Y1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0
+MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNj
+AwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQx
+NDFdfQ==
 -->
