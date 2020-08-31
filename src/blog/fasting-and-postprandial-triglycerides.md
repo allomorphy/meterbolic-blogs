@@ -40,16 +40,16 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 
 Item | Qty
 :--------:|  :-----:
-Next-gen lab precision Lipid Profile Meters | 1 or 2 - according to your needs
+Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
 Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
 12 month Project subscription| 1
-Access to analytical dashboard| 12 months
+Access to graphing dashboard & analytics| 
 Number of subjects you measure| no limit|
 
 
 
-|New insights into Metabolism -- including yours |
+|New insights into Metabolism -- including your own |
 |:--------:|
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
@@ -132,7 +132,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzU1MzEyMCwtNjQxODcyMDI2LDE2MD
+eyJoaXN0b3J5IjpbLTc0MzM0NzMwNiwtNjQxODcyMDI2LDE2MD
 A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
 MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
 wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
