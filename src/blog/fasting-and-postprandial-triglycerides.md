@@ -31,11 +31,11 @@ Item | Qty
 • Number of subjects to analyze| no limit|
 • Insulin and C-Peptide Test Subscription| **claim 33% rebate** as member of Lipid-One|
 |• **Andhra Pradesh Community Project!** | You help make it happen ... worldwide
-
-| For even deeper insights into Metabolism|
+-----------
+| For even deeper insights into Metabolism, please read on:|
 |:--------:|
 |The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.|
-|Any donations that you choose to make for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a tax-deductible donation, please mail <ed@difference.foundation>|
+|Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>|
 |For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)|
 |*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.|
 * * * 
@@ -135,11 +135,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OT
-AyMTc1NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3
-ODc0LDQ2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLT
-M5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAy
-OTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOT
-IwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEwNjIxNzg1NzIs
-LTMzMjE3MjM3XX0=
+eyJoaXN0b3J5IjpbNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3ND
+Y1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0
+MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNj
+AwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQx
+NDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMj
+csLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0x
+MDYyMTc4NTcyXX0=
 -->
