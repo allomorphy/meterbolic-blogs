@@ -21,9 +21,9 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 Item | Qty
 :--------:|  :-----:
-Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
-Profile strip for TG & HDL & LDL & Tot Chol | 20
-Measure entre Lipid Panel|a single blood droplet
+Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
+Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20
+Fast result of entire Lipid Panel|off a single blood droplet
 Glucose | 50
 Project subscription| 18 months
 Access to graphing dashboard & analytics| YES!
@@ -136,11 +136,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDY1MTI2NSwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNz
-IzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3
-MjM5Mzg5MF19
+eyJoaXN0b3J5IjpbNDQzODcyNDk3LC0yMDExMjk3ODc0LDQ2OD
+Y4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUy
+NSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMT
+gyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUx
+MTYxNDcsLTExNTA4MzkwODEsLTEwNjIxNzg1NzIsLTMzMjE3Mj
+M3LDI0NzE4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcy
+MzkzODkwXX0=
 -->
