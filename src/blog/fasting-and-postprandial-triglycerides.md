@@ -20,8 +20,8 @@ In general, the level of fasting triglycerides correlates well with the correspo
 >
 >*Do not just read the new science, become it!*
 >
->We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet. 
-Donate at least $360 to participate in the project and you will receive your very own Project Pack:
+>We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to *home-in* on a non-inflammatory diet. 
+Please consider donating at least $360 to participate in the project and you will receive your very own Project Pack, complete with:
 
 
 Item | Qty
@@ -141,11 +141,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3Nzc5NDcwLDIwMzMyNzU5MzMsNjczMT
-k3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUs
-LTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3XX0=
+eyJoaXN0b3J5IjpbLTY3NDYyODA0MCwzNTc3Nzk0NzAsMjAzMz
+I3NTkzMyw2NzMxOTc4MjAsMzAzMzM5NzAyLC0zMjc0NjU3MTks
+LTY0OTAyMTc1NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMD
+ExMjk3ODc0LDQ2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1
+MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMT
+Q1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEy
+MDIxOTIwMl19
 -->
