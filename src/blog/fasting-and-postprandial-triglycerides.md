@@ -45,10 +45,9 @@ Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
 12 month Project subscription| 1
 Access to analytical dashboard| 12 months
-Number of subjects| the more the merrier|
+Number of subjects| very many|
 
-     ew       |sdf
---------| -----
+|--------|
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
@@ -130,7 +129,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjM3MzYxMSwtMzk2NDgzNTI1LDEwMT
+eyJoaXN0b3J5IjpbMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMT
 AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
 MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
 wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
