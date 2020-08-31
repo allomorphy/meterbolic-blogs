@@ -35,7 +35,11 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
  ------------------------------------------
 |New insights into Metabolism -- including yours |
 |:--------:|
-|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to the project and receive a necxt generation lab preci|
+|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to participate in the project. You will receive your own:
+1. next generation lab precision Lipid Profile Meter
+2. 
+3. 
+4. |
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
@@ -117,11 +121,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxOTM4Mzc3LC0zOTY0ODM1MjUsMTAxMD
-E2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5Mjkz
-MjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC
-0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcx
-ODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MC
-wtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAyLDkzMDY3
-NTQxMF19
+eyJoaXN0b3J5IjpbLTUwMzMyMzcxOCwtMzk2NDgzNTI1LDEwMT
+AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
+MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
+wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
+MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OT
+AsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2
+NzU0MTBdfQ==
 -->
