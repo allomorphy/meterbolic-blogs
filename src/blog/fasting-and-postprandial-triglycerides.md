@@ -45,15 +45,14 @@ Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
 12 month Project subscription| 1
 Access to analytical dashboard| 12 months
-Number of subjects| very many|
+Number of subjects you measure| no limit|
 
 
- Lipid One Cohort - Recruiting now 
- ------------------------------------------
+
 |New insights into Metabolism -- including yours |
 |:--------:|
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
-|Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
+|Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
 |***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***.|
 * * * 
@@ -133,11 +132,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NTcxMTU5LC02NDE4NzIwMjYsMTYwMD
-c3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQx
-LC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC
-0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2
-MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1NDI2LDE2MTE1ODI3MT
-MsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0NTA5MDg4NiwtMjM0
-OTE1OTQzXX0=
+eyJoaXN0b3J5IjpbMTc1MjM5MzI5MywtNjQxODcyMDI2LDE2MD
+A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
+MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
+wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
+NjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwxNjExNTgyNz
+EzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUwOTA4ODYsLTIz
+NDkxNTk0M119
 -->
