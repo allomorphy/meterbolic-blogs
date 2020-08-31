@@ -16,13 +16,14 @@ In general, the level of fasting triglycerides correlates well with the correspo
 |Support Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
 |:--------:|
 |*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Determine the risk of developing metabolic disease or severe viral infection. Track response to a meal to home-in on a non-inflammatory diet.| 
-|Donate at least $360 to participate in the project and you will receive your own Project Pack:|
+|Donate at least $360 to participate in the project and you will receive your very own Project Pack:|
 
 
 Item | Qty
 :--------:|  :-----:
 Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
 Profile strip for TG & HDL & LDL & Tot Chol | 20
+Measure entre Lipid Panel|a single blood droplet
 Glucose | 50
 Project subscription| 18 months
 Access to graphing dashboard & analytics| YES!
@@ -135,7 +136,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDMwNDg4NiwtMjAxMTI5Nzg3NCw0Nj
+eyJoaXN0b3J5IjpbMTMzMDY1MTI2NSwtMjAxMTI5Nzg3NCw0Nj
 g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
 MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
 E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
