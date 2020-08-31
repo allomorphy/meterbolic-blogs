@@ -39,13 +39,13 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 
 ---------------------------
 
-Item | Value
+Item | Qty
 -------- | -----
-next-gen lab precision Lipid Profile Mete | $1600
-Phone | $12
+next-gen lab precision Lipid Profile Meter | 1
+combined TG * HDL * LDL * Tot Chol | 20
 Pipe | $1
 |1. r | 2X
-2. TG * HDL * LDL * Tot Chol 20 strips
+2.  20 strips
 3. Glucose 50 strips
 4.
 
@@ -132,11 +132,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4ODg4OSwtMzk2NDgzNTI1LDEwMT
-AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
-MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
-wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
-MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OT
-AsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2
-NzU0MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTYzMDcyMTYsLTM5NjQ4MzUyNSwxMD
+EwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDky
+OTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxND
+csLTExNTA4MzkwODEsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0
+NzE4NTQyNiwxNjExNTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzOD
+kwLC05NDUwOTA4ODYsLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMw
+Njc1NDEwXX0=
 -->
