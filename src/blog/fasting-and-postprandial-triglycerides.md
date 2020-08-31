@@ -45,7 +45,8 @@ Item | Qty
 For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)
 *Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.
 * * * 
-<hr><hr>
+>Thanks for listening :-)
+<hr>
 <br>
 
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
@@ -140,11 +141,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTE2OTA5NywyMDMzMjc1OTMzLDY3Mz
-E5NzgyMCwzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1
-LC0xMjc2NjcwMDg2LC0xMjA2ODk0NDAsLTIwMTEyOTc4NzQsND
-Y4Njg0MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgz
-NTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC
-0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3
-NTExNjE0N119
+eyJoaXN0b3J5IjpbMzU3Nzc5NDcwLDIwMzMyNzU5MzMsNjczMT
+k3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUs
+LTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
+g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
+MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
+E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
+MTE2MTQ3XX0=
 -->
