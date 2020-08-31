@@ -16,7 +16,8 @@ Lipid One Cohort - Recruiting now
  ------------------------------------------
 |Support Science and join the Project now at meterbolic.org - please select: *more options*|
 |:--------:|
-|*Do not just read the new science, become it*. We have limited places to join our new cohort to quantify insulin resistance and meabolic status. Determine risk of developing Donate at least $390 to participate in the project and you will receive your own Project Pack:|
+|*Do not just read the new science, become it*. We have limited places to join our new cohort to quantify insulin resistance and meabolic status. Determine risk of developing meetaboolic disease or severe viral infection. Track response to find a non-inflammatory diet.| 
+|Donate at least $390 to participate in the project and you will receive your own Project Pack:|
 
 
 Item | Qty
@@ -132,7 +133,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDkyMTU5Niw0Njg2ODQxMjQsLTY0MT
+eyJoaXN0b3J5IjpbMTkzOTI2OTkxNCw0Njg2ODQxMjQsLTY0MT
 g3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEw
 LDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLT
 E4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUw
