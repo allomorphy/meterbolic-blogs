@@ -20,19 +20,19 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 
 Item | Qty
-:--------|  :-----:
-Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
-Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20
-Refills of strips easy to order |LipidOne rewards volume of strips & data
-Fast result of entire Lipid Panel|off a single blood droplet
-Glucose | 50
-Project subscription| 18 months
-Access to **graphing dashboard & analytics**| YES!
-Number of subjects to analyze| no limit|
-Insulin and C-Peptide Test Subscription| **claim 33% rebate** for you as member of Lipid-One|
-|**Andhra Pradesh Community Project!** | You help make it happen ... worldwide
+:--------|  -----:
+• Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
+• Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20
+• Refills of strips easy to order |LipidOne rewards volume of strips & data
+• Fast result of entire Lipid Panel|off a single blood droplet
+• Glucose | 50
+• Project subscription| 18 months
+• Access to **graphing dashboard & analytics**| YES!
+• Number of subjects to analyze| no limit|
+• Insulin and C-Peptide Test Subscription| **claim 33% rebate** for you as member of Lipid-One|
+|• **Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 
-|Deeper insights into Metabolism|
+|eeper insights into Metabolism|
 |:--------:|
 |The Author, Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Meterbolic Lipid Meter results.|
 |Any donations that you choose to make for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a tax-deductible donation, please mail <ed@difference.foundation>|
@@ -135,11 +135,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1LC0xMj
-c2NjcwMDg2LC0xMjA2ODk0NDAsLTIwMTEyOTc4NzQsNDY4Njg0
-MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgzNTI1LD
-EwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0
-OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNj
-E0NywtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcs
-MjQ3MTg1NDI2XX0=
+eyJoaXN0b3J5IjpbMjM2MTUxMzYzLC0zMjc0NjU3MTksLTY0OT
+AyMTc1NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3
+ODc0LDQ2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLT
+M5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAy
+OTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOT
+IwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEwNjIxNzg1NzIs
+LTMzMjE3MjM3XX0=
 -->
