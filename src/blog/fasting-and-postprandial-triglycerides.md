@@ -37,12 +37,20 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 |:--------:|
 |Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to participate in the project. You will receive your own|
 
-|    |
------|---------------
-|1. next-gen lab precision Lipid Profile Meter | 2X
+---------------------------
+
+Item | Value
+-------- | -----
+next-gen lab precision Lipid Profile Mete | $1600
+Phone | $12
+Pipe | $1
+|1. r | 2X
 2. TG * HDL * LDL * Tot Chol 20 strips
 3. Glucose 50 strips
-4. |
+4.
+
+
+ |
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
@@ -124,7 +132,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTM4NTU3OCwtMzk2NDgzNTI1LDEwMT
+eyJoaXN0b3J5IjpbLTIxMTE4ODg4OSwtMzk2NDgzNTI1LDEwMT
 AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
 MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
 wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
