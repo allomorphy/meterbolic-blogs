@@ -30,34 +30,6 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 
 ![Graph 1](/fasting-and-postprandial/graphs-1.png "Mixed meal composition for metabolic profiling")
 
-<br>
- Lipid One Cohort - Recruiting now 
- ------------------------------------------
-|Support Science and join the Project now at meterbolic.org - please select: *more options*|
-|:--------:|
-|Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
-
-
-Item | Qty
-:--------:|  :-----:
-Next-gen lab precision Lipid Profile Meters | 1 or 2  according to your needs
-Profile strip for TG & HDL & LDL & Tot Chol | 20
-Glucose | 50
-12 month Project subscription| 1
-Access to graphing dashboard & analytics| 
-Number of subjects you measure| no limit|
-Insulin and C-Peptide Test Subscription| 33% rebate if member of Lipid-One|
-
-
-
-|New insights into Metabolism -- including your own |
-|:--------:|
-|The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
-|Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
-|For any questions or comments, please send email to <po@meterbolic.org>|
-|***These engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice***.|
-* * * 
-<br>
 
 Although triglycerides are often considered a transport form, these glycerol-bound fatty acids are dynamically broken down in adipose tissues and carried by the blood for uptake and storage elsewhere. TG is also broken down in other tissues and organs, for instance the heart and skeletal muscles and used for energy supply. In fact, there is a constant cycling between metabolically active organs, i.e. the liver, adipose tissues, and the small intestine, ensuring proper availability by increasing or decreasing the rate of cycling. This cycling also plays important signaling roles via different fatty acid profiles and derivatives (sphingolipids) that characterize release at various tissues [^8] . 
 <br>
@@ -133,11 +105,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4Njg0MTI0LC02NDE4NzIwMjYsMTYwMD
-c3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQx
-LC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC
-0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1MDgzOTA4MSwtMTA2
-MjE3ODU3MiwtMzMyMTcyMzcsMjQ3MTg1NDI2LDE2MTE1ODI3MT
-MsOTY1NzgzOTQ1LC0zNzIzOTM4OTAsLTk0NTA5MDg4NiwtMjM0
-OTE1OTQzXX0=
+eyJoaXN0b3J5IjpbLTIxNjE3MzUwMSw0Njg2ODQxMjQsLTY0MT
+g3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEw
+LDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLT
+E4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUw
+ODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcxODU0Mj
+YsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MCwtOTQ1
+MDkwODg2XX0=
 -->
