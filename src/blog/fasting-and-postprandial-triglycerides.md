@@ -35,7 +35,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
  ------------------------------------------
 |New insights into Metabolism -- including yours |
 |:--------:|
-|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to participate in the project. You will receive your own Project Pack:|
+|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
 
 Item | Qty
@@ -128,7 +128,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1NjQwNiwtMzk2NDgzNTI1LDEwMT
+eyJoaXN0b3J5IjpbMTQxMzEzNzY3MCwtMzk2NDgzNTI1LDEwMT
 AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
 MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
 wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
