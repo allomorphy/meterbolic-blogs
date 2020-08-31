@@ -33,7 +33,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 <br>
  Lipid One Cohort - Recruiting now 
  ------------------------------------------
-|New insights into Metabolism -- including yours |
+|Subscribe at meterbolic.org|
 |:--------:|
 |Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
@@ -133,11 +133,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOT
-Y0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkx
-MzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMD
-IsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0z
-MzIxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5ND
-UsLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUx
-NzU0MzAyXX0=
+eyJoaXN0b3J5IjpbMTc2NzQwMzI5MCwtNjQxODcyMDI2LDE2MD
+A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
+MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
+wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
+NjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwxNjExNTgyNz
+EzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUwOTA4ODYsLTIz
+NDkxNTk0M119
 -->
