@@ -15,8 +15,8 @@ In general, the level of fasting triglycerides correlates well with the correspo
 <hr>
 <hr>
 
->## LipidOne Cohort - recruiting now open
->Become a part of the Science by joining the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*
+>## LipidOne Cohort
+>Become a part of the Science.  Recruitment now open at [meterbolic.org](meterbolic.org) - please select: *"more options"*
 >
 >*Do not just read the new science, become it!*
 >
@@ -141,11 +141,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDYyODA0MCwzNTc3Nzk0NzAsMjAzMz
-I3NTkzMyw2NzMxOTc4MjAsMzAzMzM5NzAyLC0zMjc0NjU3MTks
-LTY0OTAyMTc1NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMD
-ExMjk3ODc0LDQ2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1
-MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMT
-Q1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEy
-MDIxOTIwMl19
+eyJoaXN0b3J5IjpbLTE4ODc5NDMyMjIsLTY3NDYyODA0MCwzNT
+c3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4MjAsMzAzMzM5NzAy
+LC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4NiwtMT
+IwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNjQxODcy
+MDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMT
+AwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5
+NDY2MzIyN119
 -->
