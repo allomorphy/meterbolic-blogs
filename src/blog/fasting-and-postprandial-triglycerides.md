@@ -37,12 +37,13 @@ Item | Qty
 • Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
 |• **Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 -----------
-| For even deeper insights into Metabolism, please read on:|
-|:--------:|
-|The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.|
-|Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>|
-|For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)|
-|*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.|
+> **For even deeper insights into Metabolism, please read on:**
+>
+>The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.
+>
+>>Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
+For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)
+*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.
 * * * 
 <hr><hr>
 <br>
@@ -139,11 +140,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMjM5NzU1LDIwMzMyNzU5MzMsNjczMT
-k3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUs
-LTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3XX0=
+eyJoaXN0b3J5IjpbMTUzMTI4NjE5NSwyMDMzMjc1OTMzLDY3Mz
+E5NzgyMCwzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1
+LC0xMjc2NjcwMDg2LC0xMjA2ODk0NDAsLTIwMTEyOTc4NzQsND
+Y4Njg0MTI0LC02NDE4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgz
+NTI1LDEwMTAxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC
+0xODI0OTI5MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3
+NTExNjE0N119
 -->
