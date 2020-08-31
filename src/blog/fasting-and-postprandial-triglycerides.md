@@ -20,7 +20,7 @@ In general, the level of fasting triglycerides correlates well with the correspo
 
 
 Item | Qty
-:--------|  :-----
+:--------|  -----:
 • Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
 • Profile strip includes all of **TG & HDL & LDL & Tot Chol** | 20
 • Refills of strips easy to order |LipidOne rewards volume of strips & data
@@ -34,7 +34,7 @@ Item | Qty
 
 | For even deeper insights into Metabolism|
 |:--------:|
-|The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Meterbolic Lipid Meter results.|
+|The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.|
 |Any donations that you choose to make for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a tax-deductible donation, please mail <ed@difference.foundation>|
 |For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)|
 |*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.|
@@ -135,11 +135,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjE0MzgyMywtMzI3NDY1NzE5LC02ND
-kwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5
-Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC
-0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAw
-MjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMT
-kyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcy
-LC0zMzIxNzIzN119
+eyJoaXN0b3J5IjpbMzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OT
+AyMTc1NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3
+ODc0LDQ2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLT
+M5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAy
+OTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOT
+IwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEwNjIxNzg1NzIs
+LTMzMjE3MjM3XX0=
 -->
