@@ -111,8 +111,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 [^2]: Introduction to Lipids and Lipoproteins By Kenneth R Feingold and Carl Grunfeld In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK305896/
 
-[^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock 
-In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
+[^3]: Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis By Deval Bhatt and Lisa Tannock  In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 [^4]: McQuaid SE, Hodson L, Neville MJ, Dennis AL, Cheeseman J, Humphreys SM, et al. Downregulation of Adipose Tissue Fatty Acid Trafficking in Obesity: A Driver for Ectopic Fat Deposition? Diabetes [Internet]. 2010;60(1):47–55. Available from: http://diabetes.diabetesjournals.org/content/60/1/47
 
@@ -135,7 +134,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDQ2NDY2NSw2NzMxOTc4MjAsMzAzMz
+eyJoaXN0b3J5IjpbMjEzOTgzMTkzMSw2NzMxOTc4MjAsMzAzMz
 M5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4
 NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNj
 QxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1
