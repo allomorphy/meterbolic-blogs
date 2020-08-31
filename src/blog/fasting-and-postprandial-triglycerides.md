@@ -52,7 +52,7 @@ For any other questions, please send email to <LipdOne@meterbolic.org> (did you 
 
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
- One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from of WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
+ One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
 
 In other words, when lipids cannot be safely stored in WAT to the extent that it is required by the demands of diet, energy needs and metabolic status, fatty acids then overflow to other sites & organs [^4]. These could theoretically also store more lipids in a safe way, but the aforementioned flood of fatty acids does not arrive alone, but is accompanied by *inflammatory signalling molecules*, hormones (e.g. higher *leptin* and *visfatin*, and lower *adiponectin*), and higher levels of *cytokines* (e.g. elevated portal IL-6), originating from the stressed-out main storage organ, the liver [^5]. What is more, pre-adipocytes have been shown to leave WAT and find a new home as mature fat cells in ectopic organs, such as in skeletal muscle [^6]. The net effects of these factors represent the most likely causal problem for the aforementioned ectopic deposition of lipids and the *initiation of local inflammation and IR* [^7].
 
@@ -142,7 +142,7 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NDgwMTU5LC05MTAzOTYxODMsNTEyND
+eyJoaXN0b3J5IjpbNTI1NTk3NDI2LC05MTAzOTYxODMsNTEyND
 I1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMs
 NjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMj
 E3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3
