@@ -1,7 +1,7 @@
 ---
 title: What may you learn from the measurement of Fasting and Postprandial Triglycerides      
 author: gabor
-date: 18 August 2020
+date: 30 August 2020
 teaser: triolene.jpg
 ---
 
@@ -137,7 +137,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAwMzI3MDAsLTEyMDY4OTQ0MCwtMj
+eyJoaXN0b3J5IjpbLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMj
 AxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcy
 NTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLT
 E0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIx
