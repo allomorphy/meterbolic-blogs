@@ -29,7 +29,7 @@ Project subscription| 18 months
 Access to graphing dashboard & analytics| YES!
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test Subscription| 33% rebate for you as member of Lipid-One|
-
+|Andhra Pradesh Community Project! | You help make it happen ... worldwide
 
 
 
@@ -134,7 +134,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM1MjU5MDYsNDY4Njg0MTI0LC02ND
+eyJoaXN0b3J5IjpbLTIwMTEyOTc4NzQsNDY4Njg0MTI0LC02ND
 E4NzIwMjYsMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMTAxNjUx
 MCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5MzIwLC
 0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0NywtMTE1
