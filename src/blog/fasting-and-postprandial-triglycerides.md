@@ -23,19 +23,20 @@ In general, the level of fasting triglycerides correlates well with the correspo
 >We have limited places to join our new cohort to quantify insulin resistance and metabolic status with fast and easy to use precsion lipid meters. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to *home-in* on a non-inflammatory diet. 
 Please consider donating at least $360 to participate in the project and to empower you to start a new movement you will receive your very own Project Pack, complete with:
 
+<hr>
 
 Item | Qty
 :--------|  -----:
-• Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
-• Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
-• Refills of strips easy to order |*LipidOne* rewards volume in strips & data
-• Fast result of entire Lipid Panel|off a single blood droplet
-• Glucose | 50 tests
-• Project subscription| 18 months
-• Access to **graphing dashboard & analytics**| YES!
-• Number of subjects to analyze| no limit|
-• Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
-|• **Andhra Pradesh Community Project!** | You help make it happen ... worldwide
+Next-gen lab **Precision Lipid Profile Meter**s | 1 or 2  according to your needs
+Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
+Refills of strips easy to order |*LipidOne* rewards volume in strips & data
+Fast result of entire Lipid Panel|off a single blood droplet
+Glucose | 50 tests
+Project subscription| 18 months
+Access to **graphing dashboard & analytics**| YES!
+Number of subjects to analyze| no limit|
+Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
+|**Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 -----------
 > **For even deeper insights into Metabolism, please read on:**
 >
@@ -141,11 +142,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDM5NjE4Myw1MTI0MjU5MzQsLTY3ND
-YyODA0MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4MjAs
-MzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3Nj
-Y3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEy
-NCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMD
-EwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDky
-OTMyMF19
+eyJoaXN0b3J5IjpbNzQ1NDgwMTU5LC05MTAzOTYxODMsNTEyND
+I1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMs
+NjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMj
+E3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3
+NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOT
+Y0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkx
+MzVdfQ==
 -->
