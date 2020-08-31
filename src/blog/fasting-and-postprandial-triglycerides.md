@@ -33,9 +33,9 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 <br>
  Lipid One Cohort - Recruiting now 
  ------------------------------------------
-|Subscribe at meterbolic.org|
+|Support Science and join now at meterbolic.org|
 |:--------:|
-|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
+|Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
 
 Item | Qty
@@ -133,7 +133,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzQwMzI5MCwtNjQxODcyMDI2LDE2MD
+eyJoaXN0b3J5IjpbMTA1NTU3NTI3NywtNjQxODcyMDI2LDE2MD
 A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
 MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
 wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
