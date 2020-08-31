@@ -35,7 +35,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 * * * 
 | Insights into Metabolism -- including yours |
 |:--------:|
-| The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests.|
+| The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |If you should choose to make any donation in appreciation for Gabor's time, then such donations are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |To show any interest, please send email to <insights@meterbolic.org>|
 |***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***.|
@@ -116,11 +116,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NT
-AwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAy
-MTkyMDIsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NT
-cyLC0zMzIxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3
-ODM5NDUsLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5ND
-MsNTUxNzU0MzAyLDkzMDY3NTQxMCwtMTg5MjY4NjExMiwtNDQ3
-NDQxMDA0XX0=
+eyJoaXN0b3J5IjpbLTQ2NjY2MTcwNiwxMDEwMTY1MTAsMTAwNj
+IwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2
+MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwOD
+EsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwxNjEx
+NTgyNzEzLDk2NTc4Mzk0NSwtMzcyMzkzODkwLC05NDUwOTA4OD
+YsLTIzNDkxNTk0Myw1NTE3NTQzMDIsOTMwNjc1NDEwLC0xODky
+Njg2MTEyXX0=
 -->
