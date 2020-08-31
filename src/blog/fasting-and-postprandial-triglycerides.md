@@ -33,7 +33,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
 <br>
  Lipid One Cohort - Recruiting now 
  ------------------------------------------
-|Support Science and join thge Project now at meterbolic.org|
+|Support Science and join the Project now at meterbolic.org - please select: *more options*|
 |:--------:|
 |Do not just read the new sceince, become it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $390 to participate in the project. You will receive your own Project Pack:|
 
@@ -54,7 +54,7 @@ Number of subjects you measure| no limit|
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
-|***These engagements are exclusively for your  academic interest and do not constitute healthcare or medical advice***.|
+|***These engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice***.|
 * * * 
 <br>
 
@@ -132,7 +132,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjM5MzI5MywtNjQxODcyMDI2LDE2MD
+eyJoaXN0b3J5IjpbLTM0MzU1MzEyMCwtNjQxODcyMDI2LDE2MD
 A3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0
 MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNy
 wtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4MzkwODEsLTEw
