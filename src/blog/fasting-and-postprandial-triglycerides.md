@@ -35,7 +35,7 @@ Below graphs are taken from reference [^4] and nicely depict lipid and glucose d
  ------------------------------------------
 |New insights into Metabolism -- including yours |
 |:--------:|
-|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to participate in the project. You will receive your own|
+|Do not just read the new sceince, become it and support it. We have limited places to join the new cohort to quantify insulin resistance. Donate at least $350 to participate in the project. You will receive your own |
 
 ---------------------------
 
@@ -44,13 +44,10 @@ Item | Qty
 Next-gen lab precision Lipid Profile Meter | 1
 Profile strip for TG & HDL & LDL & Tot Chol | 20
 Glucose | 50
-12 month Project subscription| 2
-2.  20 strips
-3. Glucose 50 strips
-4.
+12 month Project subscription| 1
+Access to analytical dashboard| 12 months
+Number of subjects| the more the merrier
 
-
- |
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
@@ -132,11 +129,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU2NjI1NywtMzk2NDgzNTI1LDEwMT
-AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
-MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
-wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
-MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OT
-AsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2
-NzU0MTBdfQ==
+eyJoaXN0b3J5IjpbNjY0Njk2Njc1LC0zOTY0ODM1MjUsMTAxMD
+E2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5Mjkz
+MjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC
+0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcx
+ODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5NDUsLTM3MjM5Mzg5MC
+wtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUxNzU0MzAyLDkzMDY3
+NTQxMF19
 -->
