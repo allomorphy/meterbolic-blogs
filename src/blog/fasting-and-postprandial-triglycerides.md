@@ -32,9 +32,7 @@ Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test Subscription| **claim 33% rebate** for you as member of Lipid-One|
 |**Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 
-
-
-|New insights into Metabolism -- including your own |
+|Deeper insights into Metabolism|
 |:--------:|
 |The Author, Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Meterbolic Lipid Meter results.|
 |Any donations that you choose to make for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a tax-deductible donation, please mail <ed@difference.foundation>|
@@ -137,11 +135,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ4ODAxNTYsLTEyNzY2NzAwODYsLT
-EyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3
-MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1MjUsMTAxMDE2NTEwLD
-EwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLTE4MjQ5MjkzMjAsLTE4
-OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1MTE2MTQ3LC0xMTUwOD
-M5MDgxLC0xMDYyMTc4NTcyLC0zMzIxNzIzNywyNDcxODU0MjYs
-MTYxMTU4MjcxM119
+eyJoaXN0b3J5IjpbLTY0OTAyMTc1NSwtMTI3NjY3MDA4NiwtMT
+IwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNjQxODcy
+MDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMT
+AwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5
+NDY2MzIyNywtMjEyMDIxOTIwMiwyNzUxMTYxNDcsLTExNTA4Mz
+kwODEsLTEwNjIxNzg1NzIsLTMzMjE3MjM3LDI0NzE4NTQyNiwx
+NjExNTgyNzEzXX0=
 -->
