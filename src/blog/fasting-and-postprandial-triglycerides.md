@@ -35,8 +35,8 @@ Glucose | 50 tests
 Project subscription| 18 months
 Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
-Insulin and C-Peptide Test Subscription|claim 33% LipidOne rebate|
-|**Andhra Pradesh Community Project!** | Your subscription helps make it happen ... worldwide
+Insulin and C-Peptide Test |claim 33% LipidOne rebate|
+|**Andhra Pradesh Community Project!** | Your subscription helps make it happen 
 -----------
 > **For even deeper insights into Metabolism, please read on:**
 >
@@ -142,11 +142,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTY5MTkxMiwtMTA2NzU0MzM5NCw1Mj
-U1OTc0MjYsLTkxMDM5NjE4Myw1MTI0MjU5MzQsLTY3NDYyODA0
-MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4MjAsMzAzMz
-M5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMTI3NjY3MDA4
-NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNj
-QxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI4MDIwNDAsLTkzNTY5MTkxMiwtMT
+A2NzU0MzM5NCw1MjU1OTc0MjYsLTkxMDM5NjE4Myw1MTI0MjU5
+MzQsLTY3NDYyODA0MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2Nz
+MxOTc4MjAsMzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1
+NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LD
+Q2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4
+MzUyNV19
 -->
