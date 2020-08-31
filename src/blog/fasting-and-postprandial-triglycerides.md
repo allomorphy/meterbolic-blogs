@@ -47,7 +47,11 @@ Glucose | 50
 Access to analytical dashboard| 12 months
 Number of subjects| very many|
 
-|--------|
+
+ Lipid One Cohort - Recruiting now 
+ ------------------------------------------
+|New insights into Metabolism -- including yours |
+|:--------:|
 |The Author, Gabor Erdosi provides one-on-one discussions on the topic of metabolic function. Insights on metabolism are shared through online consulting and with, analysis of lifestyle and interpretations of postprandial blood tests with your Meterbolic Lipid Meter.|
 |Any donations that you choose to make for Gabor's time, are used to fund scientific research to advance Care and to produce articles such as the one that you are kindly reading.|
 |For any questions or comments, please send email to <insights@meterbolic.org>|
@@ -129,11 +133,11 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDc3MjUzNSwtMzk2NDgzNTI1LDEwMT
-AxNjUxMCwxMDA2MjA0MTQxLC0xNDUwMDI5MTM1LC0xODI0OTI5
-MzIwLC0xODk0NjYzMjI3LC0yMTIwMjE5MjAyLDI3NTExNjE0Ny
-wtMTE1MDgzOTA4MSwtMTA2MjE3ODU3MiwtMzMyMTcyMzcsMjQ3
-MTg1NDI2LDE2MTE1ODI3MTMsOTY1NzgzOTQ1LC0zNzIzOTM4OT
-AsLTk0NTA5MDg4NiwtMjM0OTE1OTQzLDU1MTc1NDMwMiw5MzA2
-NzU0MTBdfQ==
+eyJoaXN0b3J5IjpbLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOT
+Y0ODM1MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkx
+MzUsLTE4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMD
+IsMjc1MTE2MTQ3LC0xMTUwODM5MDgxLC0xMDYyMTc4NTcyLC0z
+MzIxNzIzNywyNDcxODU0MjYsMTYxMTU4MjcxMyw5NjU3ODM5ND
+UsLTM3MjM5Mzg5MCwtOTQ1MDkwODg2LC0yMzQ5MTU5NDMsNTUx
+NzU0MzAyXX0=
 -->
