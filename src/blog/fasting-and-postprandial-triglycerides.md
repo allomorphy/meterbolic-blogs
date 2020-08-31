@@ -37,7 +37,7 @@ Insulin and C-Peptide Test Subscription| **claim 33% rebate** for you as member 
 |New insights into Metabolism -- including your own |
 |:--------:|
 |The Author, Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Meterbolic Lipid Meter results.|
-|Any donations that you choose to make for Gabor's time, are used to fund this scientific research, to advance Care and to produce articles such as the one that you are kindly reading.|
+|Any donations that you choose to make for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a tax-deductible donation, please mail <ed@difference.foundation>|
 |For any questions or comments, please send email to <po@meterbolic.org>|
 |*Let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.|
 * * * 
@@ -137,7 +137,7 @@ In Endotext; Last updated in 2018. https://www.ncbi.nlm.nih.gov/books/NBK513129/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzE5MTYyOSwtMTI3NjY3MDA4NiwtMT
+eyJoaXN0b3J5IjpbMTk0NTc3NDg1NSwtMTI3NjY3MDA4NiwtMT
 IwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4NDEyNCwtNjQxODcy
 MDI2LDE2MDA3NzI1MzUsLTM5NjQ4MzUyNSwxMDEwMTY1MTAsMT
 AwNjIwNDE0MSwtMTQ1MDAyOTEzNSwtMTgyNDkyOTMyMCwtMTg5
