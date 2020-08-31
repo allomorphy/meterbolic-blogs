@@ -16,9 +16,10 @@ In general, the level of fasting triglycerides correlates well with the correspo
 <hr>
 
 ## LipidOne Cohort - recruiting now open
-|Become a part of the Science and join the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
+|Become a part of the Science by joining the Project now at [meterbolic.org](meterbolic.org) - please select: *more options*|
 |:--------:|
-|*Do not just read the new science, become it!*. We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet.| 
+|*Do not just read the new science, become it!*|
+|We have limited places to join our new cohort to quantify insulin resistance and metabolic status. Reduce your risk of developing metabolic disease or a severe viral infection this winter. Track response to a meal to home-in on a non-inflammatory diet.| 
 |Donate at least $360 to participate in the project and you will receive your very own Project Pack:|
 
 
@@ -32,7 +33,7 @@ Item | Qty
 • Project subscription| 18 months
 • Access to **graphing dashboard & analytics**| YES!
 • Number of subjects to analyze| no limit|
-• Insulin and C-Peptide Test Subscription| **claim 33% rebate** as member of Lipid-One|
+• Insulin and C-Peptide Test Subscription|claim 33% rebate as member of Lipid-One|
 |• **Andhra Pradesh Community Project!** | You help make it happen ... worldwide
 -----------
 | For even deeper insights into Metabolism, please read on:|
@@ -137,11 +138,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NDM5MjEzLDIwMzMyNzU5MzMsNjczMT
-k3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUs
-LTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Nj
-g2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcyNTM1LC0zOTY0ODM1
-MjUsMTAxMDE2NTEwLDEwMDYyMDQxNDEsLTE0NTAwMjkxMzUsLT
-E4MjQ5MjkzMjAsLTE4OTQ2NjMyMjcsLTIxMjAyMTkyMDIsMjc1
-MTE2MTQ3XX0=
+eyJoaXN0b3J5IjpbLTIwNDAyODg0MDEsMjAzMzI3NTkzMyw2Nz
+MxOTc4MjAsMzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1
+NSwtMTI3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LD
+Q2ODY4NDEyNCwtNjQxODcyMDI2LDE2MDA3NzI1MzUsLTM5NjQ4
+MzUyNSwxMDEwMTY1MTAsMTAwNjIwNDE0MSwtMTQ1MDAyOTEzNS
+wtMTgyNDkyOTMyMCwtMTg5NDY2MzIyNywtMjEyMDIxOTIwMiwy
+NzUxMTYxNDddfQ==
 -->
