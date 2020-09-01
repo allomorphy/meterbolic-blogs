@@ -23,9 +23,9 @@ In general, the level of fasting triglycerides correlates well with the correspo
 >We have limited places to join our new cohort to quantify insulin resistance and metabolic status with fast and easy to use precsion lipid meters. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to *home-in* on a non-inflammatory diet. 
 Please consider donating at least $350 to participate in the project. To empower you to start this new movement you, will receive your very own Project Pack, complete with:
 
-<hr>
+<br><hr>
 
-Item | Qty
+ .|.
 :--------|  -----:
 **Lab Precision Lipid Profile Meter** | 1 
 Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
@@ -37,6 +37,7 @@ Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 |**Andhra Pradesh Community Project!** | Your subscription helps make it happen 
+<br>
 -----------
 > **For even deeper insights into Metabolism, please read on:**
 >
@@ -142,11 +143,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MjQ5NTYyLC0xNjEyODAyMDQwLC05Mz
-U2OTE5MTIsLTEwNjc1NDMzOTQsNTI1NTk3NDI2LC05MTAzOTYx
-ODMsNTEyNDI1OTM0LC02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMz
-MyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5
-LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMj
-AxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3MjAyNiwxNjAwNzcy
-NTM1XX0=
+eyJoaXN0b3J5IjpbNjE5MDcyODM1LDYwNTI0OTU2MiwtMTYxMj
+gwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMzk0LDUyNTU5NzQy
+NiwtOTEwMzk2MTgzLDUxMjQyNTkzNCwtNjc0NjI4MDQwLDM1Nz
+c3OTQ3MCwyMDMzMjc1OTMzLDY3MzE5NzgyMCwzMDMzMzk3MDIs
+LTMyNzQ2NTcxOSwtNjQ5MDIxNzU1LC0xMjc2NjcwMDg2LC0xMj
+A2ODk0NDAsLTIwMTEyOTc4NzQsNDY4Njg0MTI0LC02NDE4NzIw
+MjZdfQ==
 -->
