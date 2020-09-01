@@ -17,10 +17,10 @@ In general, the level of fasting triglycerides correlates well with the correspo
 <hr>
 <br>
 
->### LipidOne Cohort
->The next step in quantified metabolic Science.  Recruitment now open at [meterbolic.org](meterbolic.org) - please select: *"more options"* on Page two.
+>### ==LipidOne Cohort==
+>==The next step in quantified metabolic Science.  Recruitment now open at [meterbolic.org](meterbolic.org) - please select: *"more options"* on Page two.==
 >
->*Do not just read the new science, become it!*
+>==*Do not just read the new science, become it!*==
 >
 >We have limited places to join our new cohort to quantify *Insulin Resistance* and metabolic status with fast and easy to use precsion lipid meters. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to *home-in* on a non-inflammatory diet. 
 Please consider donating at least $350 to participate in the project. LipidOne will set you up  to start this new movement by sending your very own Project Pack, complete with:
@@ -146,11 +146,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDk0MjEyNSwtMTgyNjIwOTk2MSwyMD
-A2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0OTU2MiwtMTYxMjgw
-MjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMzk0LDUyNTU5NzQyNi
-wtOTEwMzk2MTgzLDUxMjQyNTkzNCwtNjc0NjI4MDQwLDM1Nzc3
-OTQ3MCwyMDMzMjc1OTMzLDY3MzE5NzgyMCwzMDMzMzk3MDIsLT
-MyNzQ2NTcxOSwtNjQ5MDIxNzU1LC0xMjc2NjcwMDg2LC0xMjA2
-ODk0NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk1MTQ1MTUsMTkzNDk0MjEyNSwtMT
+gyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0
+OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMz
+k0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUxMjQyNTkzNCwtNjc0
+NjI4MDQwLDM1Nzc3OTQ3MCwyMDMzMjc1OTMzLDY3MzE5NzgyMC
+wzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1LC0xMjc2
+NjcwMDg2XX0=
 -->
