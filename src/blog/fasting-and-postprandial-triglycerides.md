@@ -39,7 +39,8 @@ Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 |**Andhra Pradesh Community Project!** | Your subscription helps make it happen 
 
------------
+<br>
+
 > **For even deeper insights into Metabolism, please read on:**
 >
 >The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.
@@ -144,11 +145,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcwNDg2NTIsLTE1NTQ4NDUxODYsNj
-A1MjQ5NTYyLC0xNjEyODAyMDQwLC05MzU2OTE5MTIsLTEwNjc1
-NDMzOTQsNTI1NTk3NDI2LC05MTAzOTYxODMsNTEyNDI1OTM0LC
-02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMsNjczMTk3
-ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUsLT
-EyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Njg2
-ODQxMjRdfQ==
+eyJoaXN0b3J5IjpbMjAwNjUzNjQ3MSwtMTU1NDg0NTE4Niw2MD
+UyNDk1NjIsLTE2MTI4MDIwNDAsLTkzNTY5MTkxMiwtMTA2NzU0
+MzM5NCw1MjU1OTc0MjYsLTkxMDM5NjE4Myw1MTI0MjU5MzQsLT
+Y3NDYyODA0MCwzNTc3Nzk0NzAsMjAzMzI3NTkzMyw2NzMxOTc4
+MjAsMzAzMzM5NzAyLC0zMjc0NjU3MTksLTY0OTAyMTc1NSwtMT
+I3NjY3MDA4NiwtMTIwNjg5NDQwLC0yMDExMjk3ODc0LDQ2ODY4
+NDEyNF19
 -->
