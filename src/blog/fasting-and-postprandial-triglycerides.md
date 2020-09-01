@@ -12,6 +12,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 <br>
+<br>
 <hr>
 <hr>
 
@@ -37,7 +38,7 @@ Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 |**Andhra Pradesh Community Project!** | Your subscription helps make it happen 
-<br>
+
 -----------
 > **For even deeper insights into Metabolism, please read on:**
 >
@@ -143,11 +144,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ4NDUxODYsNjA1MjQ5NTYyLC0xNj
-EyODAyMDQwLC05MzU2OTE5MTIsLTEwNjc1NDMzOTQsNTI1NTk3
-NDI2LC05MTAzOTYxODMsNTEyNDI1OTM0LC02NzQ2MjgwNDAsMz
-U3Nzc5NDcwLDIwMzMyNzU5MzMsNjczMTk3ODIwLDMwMzMzOTcw
-MiwtMzI3NDY1NzE5LC02NDkwMjE3NTUsLTEyNzY2NzAwODYsLT
-EyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Njg2ODQxMjQsLTY0MTg3
-MjAyNl19
+eyJoaXN0b3J5IjpbLTE2MjcwNDg2NTIsLTE1NTQ4NDUxODYsNj
+A1MjQ5NTYyLC0xNjEyODAyMDQwLC05MzU2OTE5MTIsLTEwNjc1
+NDMzOTQsNTI1NTk3NDI2LC05MTAzOTYxODMsNTEyNDI1OTM0LC
+02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMsNjczMTk3
+ODIwLDMwMzMzOTcwMiwtMzI3NDY1NzE5LC02NDkwMjE3NTUsLT
+EyNzY2NzAwODYsLTEyMDY4OTQ0MCwtMjAxMTI5Nzg3NCw0Njg2
+ODQxMjRdfQ==
 -->
