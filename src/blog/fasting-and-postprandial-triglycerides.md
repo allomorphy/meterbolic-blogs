@@ -34,7 +34,10 @@ In general, the level of fasting triglycerides correlates well with the correspo
 Please consider donating at least $350 to participate in the project. LipidOne will set you up  to start this new movement by sending your very own Project Pack, complete with:
 
 <br><hr>
+<html>
 
+<font color="red">wefrwrg</font>
+</html>
  .|.
 :--------|  -----:
 **Lab Precision Lipid Profile Meter** | 1 unit 
@@ -158,11 +161,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTkzNjQwLDIwNzIzNjk4NjIsLTc1MD
-g0Nzc1OSwtMjEyMTU5MzA2MCwtMTUwMzc2MjMwNiwxNDcyNTQ0
-MjMwLDEzMjEyNTU2NCwxOTM0OTQyMTI1LC0xMTA3MTM2NzIzLD
-E5MzQ5NDIxMjUsLTE4MjYyMDk5NjEsMjAwNjUzNjQ3MSwtMTU1
-NDg0NTE4Niw2MDUyNDk1NjIsLTE2MTI4MDIwNDAsLTkzNTY5MT
-kxMiwtMTA2NzU0MzM5NCw1MjU1OTc0MjYsLTkxMDM5NjE4Myw1
-MTI0MjU5MzRdfQ==
+eyJoaXN0b3J5IjpbNDA5NjkxODY5LDM3NDU5MzY0MCwyMDcyMz
+Y5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLTE1MDM3NjIz
+MDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0MjEyNSwtMT
+EwNzEzNjcyMywxOTM0OTQyMTI1LC0xODI2MjA5OTYxLDIwMDY1
+MzY0NzEsLTE1NTQ4NDUxODYsNjA1MjQ5NTYyLC0xNjEyODAyMD
+QwLC05MzU2OTE5MTIsLTEwNjc1NDMzOTQsNTI1NTk3NDI2LC05
+MTAzOTYxODNdfQ==
 -->
