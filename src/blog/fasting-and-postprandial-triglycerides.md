@@ -29,10 +29,10 @@ Please consider donating at least $350 to participate in the project. LipidOne w
 
  .|.
 :--------|  -----:
-**Lab Precision Lipid Profile Meter** | 1 
-Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
-Refills of strips easy to order |*LipidOne* rebates 
+**Lab Precision Lipid Profile Meter** | 1 unit 
+Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips 
 Glucose | 50 tests
+Refills of strips easy to order |*LipidOne* rebates
 Project subscription| 18 months
 Access to **graphing dashboard & analytics**| YES!
 Number of subjects to analyze| no limit|
@@ -145,11 +145,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NzcxMjQ0LDE0NzI1NDQyMzAsMTMyMT
-I1NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEy
-NSwtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LD
-YwNTI0OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3
-NTQzMzk0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUxMjQyNTkzNC
-wtNjc0NjI4MDQwLDM1Nzc3OTQ3MCwyMDMzMjc1OTMzLDY3MzE5
-NzgyMF19
+eyJoaXN0b3J5IjpbLTE1MDM3NjIzMDYsMTQ3MjU0NDIzMCwxMz
+IxMjU1NjQsMTkzNDk0MjEyNSwtMTEwNzEzNjcyMywxOTM0OTQy
+MTI1LC0xODI2MjA5OTYxLDIwMDY1MzY0NzEsLTE1NTQ4NDUxOD
+YsNjA1MjQ5NTYyLC0xNjEyODAyMDQwLC05MzU2OTE5MTIsLTEw
+Njc1NDMzOTQsNTI1NTk3NDI2LC05MTAzOTYxODMsNTEyNDI1OT
+M0LC02NzQ2MjgwNDAsMzU3Nzc5NDcwLDIwMzMyNzU5MzMsNjcz
+MTk3ODIwXX0=
 -->
