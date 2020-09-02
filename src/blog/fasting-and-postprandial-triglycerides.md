@@ -17,10 +17,10 @@ In general, the level of fasting triglycerides correlates well with the correspo
 <hr>
 <br>
 
->### ==LipidOne Cohort==
->==The next step in quantified metabolic Science.  Recruitment now open at [meterbolic.org](meterbolic.org) - please select: *"more options"* on Page two.==
+>### LipidOne Cohort
+>The next step in quantified metabolic Science.  Recruitment now open at [meterbolic.org](meterbolic.org) - please select: *"more options"* on Page two.
 >
->==*Do not just read the new science, become it!*==
+>*Do not just read the new science, become it!*
 >
 >==We have limited places to join our new cohort to quantify *Insulin Resistance* and metabolic status with fast and easy to use precsion lipid meters. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to *home-in* on a non-inflammatory diet. 
 Please consider donating at least $350 to participate in the project. LipidOne will set you up  to start this new movement by sending your very own Project Pack, complete with:==
@@ -29,7 +29,7 @@ Please consider donating at least $350 to participate in the project. LipidOne w
 
  .|.
 :--------|  -----:
-**==Lab Precision Lipid Profile Meter==** | ==1== 
+**Lab Precision Lipid Profile Meter** | 1 
 Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel strips
 Refills of strips easy to order |*LipidOne* rewards volume 
 Fast result of full Lipid Panel|...off a single blood droplet
@@ -42,14 +42,14 @@ Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 
 <br>
 
-> **==For even deeper insights into Metabolism, please read on:==**
+> **For even deeper insights into Metabolism, please read on:**
 >
->==The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.==
+>The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.
 >
->>==Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading.== 
->==If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
+>>Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. 
+>If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
 For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)
-*Finally, let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.==
+*Finally, let us be quite clear, these engagements are exclusively for research and scientific value and do not constitute healthcare or medical advice*.
 
 <hr>
 <br>
@@ -146,11 +146,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMT
-gyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0
-OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMz
-k0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUxMjQyNTkzNCwtNjc0
-NjI4MDQwLDM1Nzc3OTQ3MCwyMDMzMjc1OTMzLDY3MzE5NzgyMC
-wzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5MDIxNzU1LC0xMjc2
-NjcwMDg2XX0=
+eyJoaXN0b3J5IjpbLTE4MTM5NDAzNzEsLTExMDcxMzY3MjMsMT
+kzNDk0MjEyNSwtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0
+ODQ1MTg2LDYwNTI0OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOT
+EyLC0xMDY3NTQzMzk0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUx
+MjQyNTkzNCwtNjc0NjI4MDQwLDM1Nzc3OTQ3MCwyMDMzMjc1OT
+MzLDY3MzE5NzgyMCwzMDMzMzk3MDIsLTMyNzQ2NTcxOSwtNjQ5
+MDIxNzU1XX0=
 -->
