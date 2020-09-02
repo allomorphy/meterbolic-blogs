@@ -9,8 +9,13 @@ teaser: triolene.jpg
 In this article I will briefly summarize lipid fasting metrics and then expand in more detail on their postprandial measurement. In the followup, *Lipid Series Part II* I will go into an in-depth discussion of the `Triglyceride-Glucose-Index`. 
 
 To better understand Lipid, and more specifically, Triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
+
 <br>
+
 <iframe width="560" height="315" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+*Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi *
 <br>
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
@@ -153,11 +158,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkwMTI3MzYsMjA3MjM2OTg2MiwtNz
-UwODQ3NzU5LC0yMTIxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1
-NDQyMzAsMTMyMTI1NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3Mj
-MsMTkzNDk0MjEyNSwtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0x
-NTU0ODQ1MTg2LDYwNTI0OTU2MiwtMTYxMjgwMjA0MCwtOTM1Nj
-kxOTEyLC0xMDY3NTQzMzk0LDUyNTU5NzQyNiwtOTEwMzk2MTgz
-LDUxMjQyNTkzNF19
+eyJoaXN0b3J5IjpbMzc0NTkzNjQwLDIwNzIzNjk4NjIsLTc1MD
+g0Nzc1OSwtMjEyMTU5MzA2MCwtMTUwMzc2MjMwNiwxNDcyNTQ0
+MjMwLDEzMjEyNTU2NCwxOTM0OTQyMTI1LC0xMTA3MTM2NzIzLD
+E5MzQ5NDIxMjUsLTE4MjYyMDk5NjEsMjAwNjUzNjQ3MSwtMTU1
+NDg0NTE4Niw2MDUyNDk1NjIsLTE2MTI4MDIwNDAsLTkzNTY5MT
+kxMiwtMTA2NzU0MzM5NCw1MjU1OTc0MjYsLTkxMDM5NjE4Myw1
+MTI0MjU5MzRdfQ==
 -->
