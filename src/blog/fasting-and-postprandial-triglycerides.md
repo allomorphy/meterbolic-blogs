@@ -109,6 +109,11 @@ The ultimate problem is that **if there is a disturbance in glucose uptake into 
 
 Since, unlike the reserve that muscles provide in the case of glucose, there is no backup plan for massive amounts of dietary fats.  In summary, the above highlights the importance and the utility of monitoring the efficiency of lipid uptake by  adipose tissue after a meal. And that’s exactly where TG come into the picture. The expectation therefore is that in insulin resistant individuals, TG reach higher peaks and linger around longer than is the case in insulin sensitive people. This follows from the reduction in uptake to WAT as discussed above.
 
+|||
+|:---:|:-----|
+|Conflict of Interests:|Gabor Erdosi is a Project Officer of The Meterbolic Project|
+|Funding:
+
 <strong>End of Part I.</strong>
 
 <!--
@@ -148,11 +153,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMT
-UwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQy
-MTI1LC0xMTA3MTM2NzIzLDE5MzQ5NDIxMjUsLTE4MjYyMDk5Nj
-EsMjAwNjUzNjQ3MSwtMTU1NDg0NTE4Niw2MDUyNDk1NjIsLTE2
-MTI4MDIwNDAsLTkzNTY5MTkxMiwtMTA2NzU0MzM5NCw1MjU1OT
-c0MjYsLTkxMDM5NjE4Myw1MTI0MjU5MzQsLTY3NDYyODA0MCwz
-NTc3Nzk0NzBdfQ==
+eyJoaXN0b3J5IjpbMTIzODE1NiwtNzUwODQ3NzU5LC0yMTIxNT
+kzMDYwLC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0
+LDE5MzQ5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMT
+gyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0
+OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMz
+k0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUxMjQyNTkzNCwtNjc0
+NjI4MDQwXX0=
 -->
