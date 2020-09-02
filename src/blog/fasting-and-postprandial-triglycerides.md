@@ -10,9 +10,8 @@ In this article I will briefly summarize lipid fasting metrics and then expand i
 
 To better understand Lipid, and more specifically, Triglyceride metabolism, it is difficult to recommend a single review. There is of course the 4th edition of the fantastic book by *Prof. Keith N. Frayn* (of Oxford University) [^1], but that is not a short and simple update if that is what you need one. Perhaps a good enough introduction would be the book chapter “*Introduction to Lipids and Lipoproteins*” by Feingold and Grunfeld in the free Endotext [^2]. If you are already there, another chapter provides further insight into triglyceride metabolism and the risks associated with elevation in both fasting and postprandial triglyceride levels: *“Risk of Fasting and Non-Fasting Hypertriglyceridemia in Coronary Vascular Disease and Pancreatitis*” [^3].
 
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhv0jrsAW5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
 <br>
 <br>
@@ -153,11 +152,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMT
-IxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1
-NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNS
-wtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYw
-NTI0OTU2MiwtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NT
-QzMzk0LDUyNTU5NzQyNiwtOTEwMzk2MTgzLDUxMjQyNTkzNCwt
-Njc0NjI4MDQwXX0=
+eyJoaXN0b3J5IjpbLTE1MzU4NTUzMDYsMjA3MjM2OTg2MiwtNz
+UwODQ3NzU5LC0yMTIxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1
+NDQyMzAsMTMyMTI1NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3Mj
+MsMTkzNDk0MjEyNSwtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0x
+NTU0ODQ1MTg2LDYwNTI0OTU2MiwtMTYxMjgwMjA0MCwtOTM1Nj
+kxOTEyLC0xMDY3NTQzMzk0LDUyNTU5NzQyNiwtOTEwMzk2MTgz
+LDUxMjQyNTkzNF19
 -->
