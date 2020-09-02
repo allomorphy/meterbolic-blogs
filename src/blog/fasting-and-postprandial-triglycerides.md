@@ -115,7 +115,7 @@ For any other questions, please send email to <LipdOne@meterbolic.org> (did you 
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Project subscription</td>
-<td style="text-align: right;">18 months</td>
+<td style="text-align: right;">1899 months</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Access to <strong>graphing dashboard &amp; analytics</strong></td>
@@ -243,11 +243,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OT
-M2NDAsMjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYw
-LC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0LDE5Mz
-Q5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMTgyNjIw
-OTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0OTU2Mi
-wtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMzk0LDUy
-NTU5NzQyNl19
+eyJoaXN0b3J5IjpbLTk1ODYxMzQ3NCw1Nzg1MTM5MTgsMzc0NT
+kzNjQwLDM3NDU5MzY0MCwyMDcyMzY5ODYyLC03NTA4NDc3NTks
+LTIxMjE1OTMwNjAsLTE1MDM3NjIzMDYsMTQ3MjU0NDIzMCwxMz
+IxMjU1NjQsMTkzNDk0MjEyNSwtMTEwNzEzNjcyMywxOTM0OTQy
+MTI1LC0xODI2MjA5OTYxLDIwMDY1MzY0NzEsLTE1NTQ4NDUxOD
+YsNjA1MjQ5NTYyLC0xNjEyODAyMDQwLC05MzU2OTE5MTIsLTEw
+Njc1NDMzOTRdfQ==
 -->
