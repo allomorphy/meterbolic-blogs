@@ -61,6 +61,91 @@ For any other questions, please send email to <LipdOne@meterbolic.org> (did you 
 <hr>
 <br>
 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Untitled</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<blockquote>
+<h3 id="lipidone-cohort">LipidOne Cohort</h3>
+<p>The next step in quantified metabolic Science. Recruitment now open at <a href="meterbolic.org">meterbolic.org</a> - please select: <em>“more options”</em> on Page two.</p>
+<p><em>Do not just read the new science, become it!</em></p>
+<p>We have limited places to join our new cohort to quantify <em>Insulin Resistance</em> and metabolic status with fast and easy to use precsion lipid meters. Reduce your risk of developing metabolic disease or of suffereing a severe viral infection this winter. Track response to a meal to <em>home-in</em> on a non-inflammatory diet. Please consider donating at least $350 to participate in the project. LipidOne will set you up to start this new movement by sending your very own Project Pack, complete with:</p>
+</blockquote>
+<br>
+<hr>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">.</th>
+<th style="text-align: right;">.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Lab Precision Lipid Profile Meter</strong></td>
+<td style="text-align: right;">1 unit</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Profile strip with full panel<br> <strong>TG &amp; HDL &amp; LDL &amp; Tot Chol</strong></td>
+<td style="text-align: right;">20 full panel strips</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Glucose</td>
+<td style="text-align: right;">50 tests</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Refills of strips easy to order</td>
+<td style="text-align: right;"><em>LipidOne</em> rebates</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Project subscription</td>
+<td style="text-align: right;">18 months</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Access to <strong>graphing dashboard &amp; analytics</strong></td>
+<td style="text-align: right;">YES!</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Number of subjects to analyze</td>
+<td style="text-align: right;">no limit</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Insulin and C-Peptide Test</td>
+<td style="text-align: right;">claim 33% LipidOne rebate</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Andhra Pradesh Community Project!</strong></td>
+<td style="text-align: right;">Your subscription helps make it happen</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<blockquote>
+<p><strong>For even deeper insights into Metabolism, please read on:</strong></p>
+<p>The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.</p>
+<blockquote>
+<p>Any donations that you choose to make either for Gabor’s time or the work of <strong>LipidOne</strong>, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a <strong>tax-deductible donation</strong>, then please mail <a href="mailto:ed@difference.foundation" class="email">ed@difference.foundation</a> For any other questions, please send email to <a href="mailto:LipdOne@meterbolic.org" class="email">LipdOne@meterbolic.org</a> (did you know that email addresses are case-<em>insensitive</em>?)<br> <em>Finally, please be quite clear, these engagements are exclusively for research and for their scientific value and constitute neither healthcare nor medical advice nor treatment</em>.</p>
+</blockquote>
+</blockquote>
+<hr>
+</body>
+</html>
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
  One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
@@ -158,11 +243,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTkzNjQwLDM3NDU5MzY0MCwyMDcyMz
-Y5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLTE1MDM3NjIz
-MDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0MjEyNSwtMT
-EwNzEzNjcyMywxOTM0OTQyMTI1LC0xODI2MjA5OTYxLDIwMDY1
-MzY0NzEsLTE1NTQ4NDUxODYsNjA1MjQ5NTYyLC0xNjEyODAyMD
-QwLC05MzU2OTE5MTIsLTEwNjc1NDMzOTQsNTI1NTk3NDI2LC05
-MTAzOTYxODNdfQ==
+eyJoaXN0b3J5IjpbNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OT
+M2NDAsMjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYw
+LC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0LDE5Mz
+Q5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMTgyNjIw
+OTk2MSwyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0OTU2Mi
+wtMTYxMjgwMjA0MCwtOTM1NjkxOTEyLC0xMDY3NTQzMzk0LDUy
+NTU5NzQyNl19
 -->
