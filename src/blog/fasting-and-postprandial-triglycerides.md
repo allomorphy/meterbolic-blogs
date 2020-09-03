@@ -202,7 +202,7 @@ Since, unlike the reserve that muscles provide in the case of glucose, there is 
 |||
 |:---:|:-----|
 |*Conflict of Interests:*|Gabor Erdosi is a Project Officer of The Meterbolic Project|
-|*Funding for the Series by:*|The Meterbolic Project and the DIFFERENCE Foundation
+|*Funding for the Series by:*|*YOUR* subscription to the Meterbolic Project and the DIFFERENCE Foundation
 
 <strong>End of Part I.</strong>
 
@@ -243,11 +243,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODYxMzQ3NCw1Nzg1MTM5MTgsMzc0NT
-kzNjQwLDM3NDU5MzY0MCwyMDcyMzY5ODYyLC03NTA4NDc3NTks
-LTIxMjE1OTMwNjAsLTE1MDM3NjIzMDYsMTQ3MjU0NDIzMCwxMz
-IxMjU1NjQsMTkzNDk0MjEyNSwtMTEwNzEzNjcyMywxOTM0OTQy
-MTI1LC0xODI2MjA5OTYxLDIwMDY1MzY0NzEsLTE1NTQ4NDUxOD
-YsNjA1MjQ5NTYyLC0xNjEyODAyMDQwLC05MzU2OTE5MTIsLTEw
-Njc1NDMzOTRdfQ==
+eyJoaXN0b3J5IjpbLTIyMTkxMDg2OSwtOTU4NjEzNDc0LDU3OD
+UxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQwLDIwNzIzNjk4NjIs
+LTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMTUwMzc2MjMwNiwxND
+cyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQyMTI1LC0xMTA3MTM2
+NzIzLDE5MzQ5NDIxMjUsLTE4MjYyMDk5NjEsMjAwNjUzNjQ3MS
+wtMTU1NDg0NTE4Niw2MDUyNDk1NjIsLTE2MTI4MDIwNDAsLTkz
+NTY5MTkxMl19
 -->
