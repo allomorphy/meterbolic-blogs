@@ -140,7 +140,7 @@ For any other questions, please send email to <LipdOne@meterbolic.org> (did you 
 <p><strong>For even deeper insights into Metabolism, please read on:</strong></p>
 <p>The Author! Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and PoC Insulin results.</p>
 <blockquote>
-<p>Any donations that you choose to make either for Gabor’s time or the work of <strong>LipidOne</strong>, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a <strong>tax-deductible donation</strong>, then please mail <a href="mailto:ed@difference.foundation" class="email">ed@difference.foundation</a> For any other questions, please send email to <a href="mailto:LipdOne@meterbolic.org" class="email">LipdOne@meterbolic.org</a> (did you know that email addresses are case-<em>insensitive</em>?)<br> <em>Finally, please be quite clear, these engagements are exclusively for research and for their scientific value and constitute neither healthcare nor medical advice nor treatment</em>.</p>
+<p>Any donations that you choose to make either for Gabor’s time or the work of <strong>LipidOne</strong>, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. If you wish to make a <strong>tax-deductible donation</strong>, then please mail <a href="mailto:ed@difference.foundation" class="email">ed@difference.foundation</a> For any other questions, please send email to <a href="mailto:LipidOne@meterbolic.org" class="email">LipidOne@meterbolic.org</a> (did you know that email addresses are case-<em>insensitive</em>?)<br> <em>Finally, please be quite clear, these engagements are exclusively for research and for their scientific value and constitute neither healthcare nor medical advice nor treatment</em>.</p>
 </blockquote>
 </blockquote>
 <hr>
@@ -289,11 +289,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mzk2NjU3OCwzMTc0NTc2MTQsMTUxOT
-Q2NTg1NSwxNzE0MDUwODY3LDU4MDYxODEyNiwtMjIxOTEwODY5
-LC05NTg2MTM0NzQsNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OT
-M2NDAsMjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYw
-LC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0LDE5Mz
-Q5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMTgyNjIw
-OTk2MV19
+eyJoaXN0b3J5IjpbLTE3NjI5Nzc2ODgsLTc5Mzk2NjU3OCwzMT
+c0NTc2MTQsMTUxOTQ2NTg1NSwxNzE0MDUwODY3LDU4MDYxODEy
+NiwtMjIxOTEwODY5LC05NTg2MTM0NzQsNTc4NTEzOTE4LDM3ND
+U5MzY0MCwzNzQ1OTM2NDAsMjA3MjM2OTg2MiwtNzUwODQ3NzU5
+LC0yMTIxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMT
+MyMTI1NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0
+MjEyNV19
 -->
