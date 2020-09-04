@@ -15,7 +15,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 <iframe width="560" height="315" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-*Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi *
+*Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi  - please see annotated timeline below*
 <br>
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
@@ -288,11 +288,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg3NjcxLDE3MTQwNTA4NjcsNTgwNj
-E4MTI2LC0yMjE5MTA4NjksLTk1ODYxMzQ3NCw1Nzg1MTM5MTgs
-Mzc0NTkzNjQwLDM3NDU5MzY0MCwyMDcyMzY5ODYyLC03NTA4ND
-c3NTksLTIxMjE1OTMwNjAsLTE1MDM3NjIzMDYsMTQ3MjU0NDIz
-MCwxMzIxMjU1NjQsMTkzNDk0MjEyNSwtMTEwNzEzNjcyMywxOT
-M0OTQyMTI1LC0xODI2MjA5OTYxLDIwMDY1MzY0NzEsLTE1NTQ4
-NDUxODZdfQ==
+eyJoaXN0b3J5IjpbMTUxOTQ2NTg1NSwxNzE0MDUwODY3LDU4MD
+YxODEyNiwtMjIxOTEwODY5LC05NTg2MTM0NzQsNTc4NTEzOTE4
+LDM3NDU5MzY0MCwzNzQ1OTM2NDAsMjA3MjM2OTg2MiwtNzUwOD
+Q3NzU5LC0yMTIxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1NDQy
+MzAsMTMyMTI1NTY0LDE5MzQ5NDIxMjUsLTExMDcxMzY3MjMsMT
+kzNDk0MjEyNSwtMTgyNjIwOTk2MSwyMDA2NTM2NDcxLC0xNTU0
+ODQ1MTg2XX0=
 -->
