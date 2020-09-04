@@ -215,6 +215,10 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 -->
 
+##Timeline annotations of the video discussion
+
+
+
 ## References
 [^1]: Human Metabolism: A Regulatory Perspective; 4th Edition By Keith N. Frayn (Author), Rhys Evans (Author) Wiley Blackwell; ISBN-13: 978-1119331438; 2019. https://www.amazon.com/Human-Metabolism-Perspective-Keith-Frayn/dp/1119331439
 
@@ -243,11 +247,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTkxMDg2OSwtOTU4NjEzNDc0LDU3OD
-UxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQwLDIwNzIzNjk4NjIs
-LTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMTUwMzc2MjMwNiwxND
-cyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQyMTI1LC0xMTA3MTM2
-NzIzLDE5MzQ5NDIxMjUsLTE4MjYyMDk5NjEsMjAwNjUzNjQ3MS
-wtMTU1NDg0NTE4Niw2MDUyNDk1NjIsLTE2MTI4MDIwNDAsLTkz
-NTY5MTkxMl19
+eyJoaXN0b3J5IjpbLTExMjYwMTE3NzksLTIyMTkxMDg2OSwtOT
+U4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQw
+LDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMT
+UwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQy
+MTI1LC0xMTA3MTM2NzIzLDE5MzQ5NDIxMjUsLTE4MjYyMDk5Nj
+EsMjAwNjUzNjQ3MSwtMTU1NDg0NTE4Niw2MDUyNDk1NjIsLTE2
+MTI4MDIwNDBdfQ==
 -->
