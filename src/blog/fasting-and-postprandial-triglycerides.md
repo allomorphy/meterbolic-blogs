@@ -146,6 +146,7 @@ For any other questions, please send email to <LipdOne@meterbolic.org> (did you 
 <hr>
 </body>
 </html>
+
 ***So why is reduced lipid uptake by adipose tissue an early indicator of IR?*** 
 
  One of the major metabolically active organs is `White Adipose Tissue` (WAT).  The hallmark of metabolic disease is In fact, *ectopic lipid accumulation* (i.e. the collection of lipid in places where it normally hardly appears) and it typically results from WAT dysfunction. In fact, this defect may be *the single direct driver of all other manifestations of IR* as we know it.
@@ -288,11 +289,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI5MDMxNzIsMzE3NDU3NjE0LDE1MT
-k0NjU4NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2
-OSwtOTU4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NT
-kzNjQwLDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2
-MCwtMTUwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOT
-M0OTQyMTI1LC0xMTA3MTM2NzIzLDE5MzQ5NDIxMjUsLTE4MjYy
-MDk5NjFdfQ==
+eyJoaXN0b3J5IjpbLTc5Mzk2NjU3OCwzMTc0NTc2MTQsMTUxOT
+Q2NTg1NSwxNzE0MDUwODY3LDU4MDYxODEyNiwtMjIxOTEwODY5
+LC05NTg2MTM0NzQsNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OT
+M2NDAsMjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYw
+LC0xNTAzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0LDE5Mz
+Q5NDIxMjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMTgyNjIw
+OTk2MV19
 -->
