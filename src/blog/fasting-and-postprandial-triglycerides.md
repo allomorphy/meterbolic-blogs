@@ -206,14 +206,9 @@ Since, unlike the reserve that muscles provide in the case of glucose, there is 
 
 <strong>End of Part I.</strong>
 
-|||
-|:---:|:-----|
-|*Conflict of Interests:*|Gabor Erdosi is a Project Officer of The Meterbolic Project|
-|*Funding for the Series by:*|*YOUR* subscription to the Meterbolic Project and the DIFFERENCE Foundation
-
-##Timeline annotations of the video discussion
--fwf
-
+|Timeline annotations of the video discussion|
+|:---:|
+|
 <!--
 Let us see how it works in studies that specifically investigated this. A nice study done on 145 type 2 diabetics and 30 healthy controls back in 2004 clearly supports the hypotheses put forward [11]. Diabetics had not only elevated fasting TG, but also failed to properly clear lipids from their blood after a lunch and dinner sequence of mixed meals. What is more, their TG level increased with every meal, and the second meal was taken well before the first was cleared from the blood, increasing the spike even further after dinner than following lunch. The same phenomenon can be observed in the introductory discussion (ref. 4 there). The study used a cutoff value of 2 mmol/L, added as a horizontal line in the graph below:
 
@@ -254,11 +249,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTM3NjIxNywtMjIxOTEwODY5LC05NT
-g2MTM0NzQsNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OTM2NDAs
-MjA3MjM2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYwLC0xNT
-AzNzYyMzA2LDE0NzI1NDQyMzAsMTMyMTI1NTY0LDE5MzQ5NDIx
-MjUsLTExMDcxMzY3MjMsMTkzNDk0MjEyNSwtMTgyNjIwOTk2MS
-wyMDA2NTM2NDcxLC0xNTU0ODQ1MTg2LDYwNTI0OTU2MiwtMTYx
-MjgwMjA0MF19
+eyJoaXN0b3J5IjpbNTgwNjE4MTI2LC0yMjE5MTA4NjksLTk1OD
+YxMzQ3NCw1Nzg1MTM5MTgsMzc0NTkzNjQwLDM3NDU5MzY0MCwy
+MDcyMzY5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLTE1MD
+M3NjIzMDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0MjEy
+NSwtMTEwNzEzNjcyMywxOTM0OTQyMTI1LC0xODI2MjA5OTYxLD
+IwMDY1MzY0NzEsLTE1NTQ4NDUxODYsNjA1MjQ5NTYyLC0xNjEy
+ODAyMDQwXX0=
 -->
