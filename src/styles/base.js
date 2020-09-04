@@ -72,6 +72,7 @@ const BaseStyles = () => (
         line-height: 1.5;
         font-weight: 300;
         background: var(--offWhite1);
+        overflow-x: hidden;
       }
 
       .row {
