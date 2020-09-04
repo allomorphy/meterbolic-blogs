@@ -15,7 +15,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 <iframe width="560" height="315" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-*Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi  - please see annotated timeline below*
+*Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi  - please see annotated timeline below for topics discussed*
 <br>
 
 In general, the level of fasting triglycerides correlates well with the corresponding insulin level, and with `Insulin Resistance` (IR). This is also why the `TriglYceride-Glucose index` (TyG) is a good proxy for IR, especially when triglycerides are combined with fasting glucose. As such it provides a cheap and convenient metric like HOMA-IR. However, the TyG index has the very same issues that other fasting indices do in that it is unable to detect the majority of *early* metabolic derangements. To detect these, one needs instead a *postprandial or meal tolerance test*. Reduced fatty acid uptake is an early indicator of IR and this may be detected through measuring  elevated and/or the sustained elevation of triglyceride level in the postprandial phase.
@@ -209,7 +209,7 @@ Since, unlike the reserve that muscles provide in the case of glucose, there is 
 <br>
 <br>
 
-|Timeline|Topic Discussed in interview above|
+|Time|Topic Discussed in interview above|
 |:---:|:---|
 |00:07|Donal Introduction|
 |01:50|Gabor introduction|
@@ -288,11 +288,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NDU3NjE0LDE1MTk0NjU4NTUsMTcxND
-A1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2OSwtOTU4NjEzNDc0
-LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQwLDIwNzIzNj
-k4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMTUwMzc2MjMw
-NiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQyMTI1LC0xMT
-A3MTM2NzIzLDE5MzQ5NDIxMjUsLTE4MjYyMDk5NjEsMjAwNjUz
-NjQ3MV19
+eyJoaXN0b3J5IjpbLTE5ODI5MDMxNzIsMzE3NDU3NjE0LDE1MT
+k0NjU4NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2
+OSwtOTU4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NT
+kzNjQwLDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2
+MCwtMTUwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOT
+M0OTQyMTI1LC0xMTA3MTM2NzIzLDE5MzQ5NDIxMjUsLTE4MjYy
+MDk5NjFdfQ==
 -->
