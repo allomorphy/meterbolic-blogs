@@ -202,13 +202,49 @@ Since, unlike the reserve that muscles provide in the case of glucose, there is 
 |||
 |:---:|:-----|
 |*Conflict of Interests:*|Gabor Erdosi is a Project Officer of The Meterbolic Project|
-|*Funding for the Series by:*|*YOUR* subscription to the Meterbolic Project and the DIFFERENCE Foundation
+|*Funding for the Series by:*|*##YOUR##* subscription to the Meterbolic Project and the DIFFERENCE Foundation
 
 <strong>End of Part I.</strong>
 
-|Timeline annotations of the video discussion|
-|:---:|
-|
+|Timeline|Topic Discussed|
+|:---:|:---|
+|00:07|Donal Introduction|
+|01:50|Gabor introduction|
+|06:22|How was your hunger with the new diet|
+|06:45|Meds diet [additional] -> 07:09|
+|07:09|Adding carbohydrate vegetables -> 07:22|
+|08:26|Humans have higher percentage body fat than other animals|
+|08:56|BMI [additional] -> 1034|
+|10:34|Connection between body fat and metabolic dysfunction|
+|15:00|short, medium and long chain FFA|
+|19:38|Storage form is TG  [additional]  -> 19:59|
+|19:59|Measure TG in the blood|
+|21:05|video of Lipid Testing|
+|21:43|Why we develop a beer belly |
+|22:49|The Biome|
+|24:45|The role of gut hormones in releasing insulin|
+|29:30|different incretin entero-hormones|
+|30:45|industrial processing|
+|32:40|Just need to be an “absorption machine” for this|
+|24:20|The danger of glucose variability|
+|34:52|Bariatric Surgery [additional] -> 41:04|
+|41:04|Value of Mixed Meal Challenge Test|
+|42:38|Stress MMT to determine metabolic flexibility or insulin sensitivity|
+|44:40|Triglyceride uptake fails before glucose uptake|
+|48:25|measuring TG fasting or post-prandial|
+|49:50|PP TG curves defined by adipose tissue uptake|
+|49:59|Home Testing Triglycerides|
+|51:10|advantage of PP over fasting|
+|52:10|Insulin & C-Peptide readings|
+|53:15|computation in the cloud|
+|54:41|acanthosis nigricans and skin tags 
+|57:13|Detecting metabolic disease 10 years earlier|
+|57:50|Key takehome points|
+|1:00:15|Message for patients to tell their doctors|
+|1:02:09|Message for patients on heavily processed foods and nutritional lifestyle|
+|1:05:00|Please contact  Donal.collins@nhs.net or Gabor.Erdosi@meterbolic.org or https://meterbolic.org|
+|1:05:08|END|
+
 <!--
 Let us see how it works in studies that specifically investigated this. A nice study done on 145 type 2 diabetics and 30 healthy controls back in 2004 clearly supports the hypotheses put forward [11]. Diabetics had not only elevated fasting TG, but also failed to properly clear lipids from their blood after a lunch and dinner sequence of mixed meals. What is more, their TG level increased with every meal, and the second meal was taken well before the first was cleared from the blood, increasing the spike even further after dinner than following lunch. The same phenomenon can be observed in the introductory discussion (ref. 4 there). The study used a cutoff value of 2 mmol/L, added as a horizontal line in the graph below:
 
@@ -249,11 +285,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNjE4MTI2LC0yMjE5MTA4NjksLTk1OD
-YxMzQ3NCw1Nzg1MTM5MTgsMzc0NTkzNjQwLDM3NDU5MzY0MCwy
-MDcyMzY5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLTE1MD
-M3NjIzMDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0MjEy
-NSwtMTEwNzEzNjcyMywxOTM0OTQyMTI1LC0xODI2MjA5OTYxLD
-IwMDY1MzY0NzEsLTE1NTQ4NDUxODYsNjA1MjQ5NTYyLC0xNjEy
-ODAyMDQwXX0=
+eyJoaXN0b3J5IjpbMTMyNjQwNzI5OCw1ODA2MTgxMjYsLTIyMT
+kxMDg2OSwtOTU4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAs
+Mzc0NTkzNjQwLDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMT
+U5MzA2MCwtMTUwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2
+NCwxOTM0OTQyMTI1LC0xMTA3MTM2NzIzLDE5MzQ5NDIxMjUsLT
+E4MjYyMDk5NjEsMjAwNjUzNjQ3MSwtMTU1NDg0NTE4Niw2MDUy
+NDk1NjJdfQ==
 -->
