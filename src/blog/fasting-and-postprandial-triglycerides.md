@@ -55,7 +55,7 @@ Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 >
 >>Any donations that you choose to make either for Gabor's time or the work of **LipidOne**, are used to fund scientific research, to advance Care and to produce articles such as the one that you are kindly reading. 
 >If you wish to make a **tax-deductible donation**, then please mail <ed@difference.foundation>
-For any other questions, please send email to <LipdOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)<br>
+For any other questions, please send email to <LipidOne@meterbolic.org> (did you know that email addresses are case-*insensitive*?)<br>
 *Finally, please be quite clear, these engagements are exclusively for research and for their scientific value and constitute neither healthcare nor medical advice nor treatment*.
 
 <hr>
@@ -205,11 +205,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDIzOTg5NCwxMDY1ODUyMTE3LC0xNz
-YyOTc3Njg4LC03OTM5NjY1NzgsMzE3NDU3NjE0LDE1MTk0NjU4
-NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2OSwtOT
-U4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQw
-LDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMT
-UwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQy
-MTI1XX0=
+eyJoaXN0b3J5IjpbLTIwMzI4NTU4NjUsMTA2NTg1MjExNywtMT
+c2Mjk3NzY4OCwtNzkzOTY2NTc4LDMxNzQ1NzYxNCwxNTE5NDY1
+ODU1LDE3MTQwNTA4NjcsNTgwNjE4MTI2LC0yMjE5MTA4NjksLT
+k1ODYxMzQ3NCw1Nzg1MTM5MTgsMzc0NTkzNjQwLDM3NDU5MzY0
+MCwyMDcyMzY5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLT
+E1MDM3NjIzMDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0
+MjEyNV19
 -->
