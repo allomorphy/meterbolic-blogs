@@ -35,7 +35,47 @@ Please consider donating at least $350 to participate in the project. LipidOne w
 
 <br><hr>
 
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!--This file was converted to xhtml by OpenOffice.org - see http://xml.openoffice.org/odf2xhtml for more info.--><head profile="http://dublincore.org/documents/dcmi-terms/"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title xml:lang="en-US">- no title specified</title><meta name="DCTERMS.title" content="" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US" scheme="DCTERMS.RFC4646"/><meta name="DCTERMS.source" content="http://xml.openoffice.org/odf2xhtml"/><meta name="DCTERMS.contributor" content="Eric Smith"/><meta name="DCTERMS.modified" content="2020-09-05T20:41:35" scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.provenance" content="" xml:lang="en-US"/><meta name="DCTERMS.subject" content="," xml:lang="en-US"/><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/><link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/><link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/><style type="text/css">
+	@page {  }
+	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; font-size:12pt;}
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { margin:0; padding:0;}
+	li { list-style: none; margin:0; padding:0;}
+	<!-- "li span.odfLiEnd" - IE 7 issue-->
+	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+	span.footnodeNumber { padding-right:1em; }
+	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+	* { margin:0;}
+	.P1 { font-size:10pt; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:page; text-align:left ! important; color:#ffffff; font-style:italic; text-shadow:none; text-decoration:none ! important; font-weight:bold; }
+	.P2 { font-size:10pt; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:page; text-align:left ! important; color:#000000; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
+	.P3 { font-size:10pt; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:page; text-align:left ! important; }
+	.P4_borderStart { font-size:10pt; margin-top:0in; font-family:Sathu; writing-mode:page; background-color:#99ff99; padding-bottom:0in;  border-bottom-style:none; }
+	.P4 { font-size:10pt; font-family:Sathu; writing-mode:page; background-color:#99ff99; padding-bottom:0in; padding-top:0in;  border-top-style:none; border-bottom-style:none; }
+	.P4_borderEnd { font-size:10pt; margin-bottom:0in; font-family:Sathu; writing-mode:page; background-color:#99ff99; padding-top:0in;  border-top-style:none;}
+	.P5_borderStart { font-size:10pt; margin-top:0in; font-family:Sathu; writing-mode:page; background-color:#99ff99; font-style:italic; padding-bottom:0in;  border-bottom-style:none; }
+	.P5 { font-size:10pt; font-family:Sathu; writing-mode:page; background-color:#99ff99; font-style:italic; padding-bottom:0in; padding-top:0in;  border-top-style:none; border-bottom-style:none; }
+	.P5_borderEnd { font-size:10pt; margin-bottom:0in; font-family:Sathu; writing-mode:page; background-color:#99ff99; font-style:italic; padding-top:0in;  border-top-style:none;}
+	.P6 { font-size:10pt; font-family:Arial; writing-mode:page; text-align:left ! important; color:#ffffff; font-style:italic; text-shadow:none; text-decoration:none ! important; font-weight:bold; }
+	.P7_borderStart { font-size:115%; font-weight:bold; margin-top:0.1665in; font-family:Arial; writing-mode:page; background-color:#99ff99; padding-bottom:0.0835in;  border-bottom-style:none; }
+	.P7 { font-size:115%; font-weight:bold; font-family:Arial; writing-mode:page; background-color:#99ff99; padding-bottom:0.0835in; padding-top:0.1665in;  border-top-style:none; border-bottom-style:none; }
+	.P7_borderEnd { font-size:115%; font-weight:bold; margin-bottom:0.0835in; font-family:Arial; writing-mode:page; background-color:#99ff99; padding-top:0.1665in;  border-top-style:none;}
+	.Table1 { width:6.6792in; margin-left:0.0083in; margin-right:0.0056in; margin-top:0in; margin-bottom:0in; float:none; }
+	.Table1_A1 { vertical-align:middle; background-color:#000000; padding:0in; border-left-width:0.0133cm; border-left-style:solid; border-left-color:#000000; border-right-style:none; border-top-width:0.0133cm; border-top-style:solid; border-top-color:#000000; border-bottom-style:none; }
+	.Table1_A2 { vertical-align:middle; background-color:#66ff66; padding:0in; border-left-width:0.0133cm; border-left-style:solid; border-left-color:#000000; border-right-style:none; border-top-style:none; border-bottom-width:0.0133cm; border-bottom-style:solid; border-bottom-color:#000000; }
+	.Table1_B1 { vertical-align:middle; background-color:#000000; padding:0in; border-left-style:none; border-right-width:0.0133cm; border-right-style:solid; border-right-color:#000000; border-top-width:0.0133cm; border-top-style:solid; border-top-color:#000000; border-bottom-style:none; }
+	.Table1_B2 { vertical-align:middle; background-color:#66ff66; padding:0in; border-left-style:none; border-right-width:0.0133cm; border-right-style:solid; border-right-color:#000000; border-top-style:none; border-bottom-width:0.0133cm; border-bottom-style:solid; border-bottom-color:#000000; }
+	.Table1_A { width:2.8215in; }
+	.Table1_B { width:3.8576in; }
+	.Table1_1 { height:0.2299in; }
+	.T1 { font-weight:bold; }
+	.T2 { font-style:italic; }
+	<!-- ODF styles with no properties representable as CSS -->
+	.Endnote_20_Symbol .Footnote_20_Symbol { }
+	</style></head><body dir="ltr" style="max-width:8.2681in;margin-top:0.7874in; margin-bottom:0.7874in; margin-left:0.7874in; margin-right:0.7874in; background-color:transparent; "><h1 class="P7"><a id="a__LipidOne_Cohort"><span/></a>LipidOne Cohort</h1><p class="P4_borderStart"/><p class="P4">The next step in quantified metabolic Science. Recruitment now open at meterbolic.org - please select: "more options" on Page two.</p><p class="P4"/><p class="P4">Do not just read the new science, become it!</p><p class="P4"/><p class="P4">We have limited places to join our new cohort to quantify<span class="T1"> Insulin Resistance</span> and metabolic status with fast and easy to use precision lipid meters. Reduce your risk of developing metabolic disease or of <span class="T2">suffering a severe viral infection</span> this winter. Track response to a food challenge to <span class="T2">home-in on your ideal non-inflammatory diet</span>.</p><p class="P4"/><p class="P4_borderEnd">Should you choose to donate at least $350 to  the project. LipidOne will set up your participation to start this new movement by sending your very own LipidOne Pack, comprising:</p><table border="0" cellspacing="0" cellpadding="0" class="Table1"><colgroup><col width="313"/><col width="428"/></colgroup><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A1"><p class="P1">Lab Precision Lipid Profile Meter</p></td><td style="text-align:right; width:3.8576in; " class="Table1_B1"><p class="P6">1 unit</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Lipid Panel TG &amp; HDL &amp; LDL &amp; Tot Chol</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P2">20 X Full Panel strips</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Glucose</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P2">50 X strips</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Refills of strips easy to order</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P2">Your LipidOne rebates apply</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Project subscription duration</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P2">18 months</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Number of subjects to analyze</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P3">Limited only to your needs</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Insulin and C-Peptide Test</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P3">claim a 33% LipidOne rebate</p></td></tr><tr class="Table11"><td style="text-align:right; width:2.8215in; " class="Table1_A2"><p class="P2">Andhra Pradesh Community Project</p></td><td style="text-align:left;width:3.8576in; " class="Table1_B2"><p class="P3">Your subscription helps make it happen</p></td></tr></table><p class="P4_borderStart"/><p class="P4">For even deeper insights into Metabolism, the Author, Gabor Erdosi provides one-on-one conversations on the topic of metabolic function including analysis of lifestyle and in-depth interpretations of Lipid Meter and unique PoC Insulin results.</p><p class="P4"/><p class="P4">Any donations that you choose to make either for Gabor's time and/or the work of the <span class="T1">LipidOne Project</span>, are used to fund scientific research,  advancing Care and produce research articles such as the one that you are kindly reading. If you wish to make <span class="T2">a tax-deductible donation</span>, then please mail ed@difference.foundation For any other questions, please send email to LipidOne@meterbolic.org </p><p class="P4"/><p class="P5_borderEnd">Finally, please be quite clear, these engagements are exclusively for research and for their scientific value and constitute neither healthcare nor medical advice nor treatment.</p></body></html>
 
 
 <hr>
@@ -185,11 +225,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMjA5NDQwLDk5OTE5OTk0MSwxMzcyND
-E5NDgsNDM3Mzk5NTE5LC0zMzE5Nzg1NzEsMTA2NTg1MjExNywt
-MTc2Mjk3NzY4OCwtNzkzOTY2NTc4LDMxNzQ1NzYxNCwxNTE5ND
-Y1ODU1LDE3MTQwNTA4NjcsNTgwNjE4MTI2LC0yMjE5MTA4Njks
-LTk1ODYxMzQ3NCw1Nzg1MTM5MTgsMzc0NTkzNjQwLDM3NDU5Mz
-Y0MCwyMDcyMzY5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjBd
-fQ==
+eyJoaXN0b3J5IjpbMTU2MjIyMjQ0MiwzNDIyMDk0NDAsOTk5MT
+k5OTQxLDEzNzI0MTk0OCw0MzczOTk1MTksLTMzMTk3ODU3MSwx
+MDY1ODUyMTE3LC0xNzYyOTc3Njg4LC03OTM5NjY1NzgsMzE3ND
+U3NjE0LDE1MTk0NjU4NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYs
+LTIyMTkxMDg2OSwtOTU4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OT
+M2NDAsMzc0NTkzNjQwLDIwNzIzNjk4NjIsLTc1MDg0Nzc1OV19
+
 -->
