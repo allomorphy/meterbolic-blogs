@@ -42,7 +42,7 @@ Profile strip with full panel<br> **TG & HDL & LDL & Tot Chol** | 20 full panel 
 Glucose | 50 tests
 Refills of strips easy to order |*LipidOne* rebates
 Project subscription| 18 months
-Access to **graphing dashboard & analytics**| YES!
+Access to **graphing dashboard & analytics**| Of course
 Number of subjects to analyze| no limit|
 Insulin and C-Peptide Test |claim 33% LipidOne rebate|
 |**Andhra Pradesh Community Project!** | Your subscription helps make it happen 
@@ -205,11 +205,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI4NTU4NjUsMTA2NTg1MjExNywtMT
-c2Mjk3NzY4OCwtNzkzOTY2NTc4LDMxNzQ1NzYxNCwxNTE5NDY1
-ODU1LDE3MTQwNTA4NjcsNTgwNjE4MTI2LC0yMjE5MTA4NjksLT
-k1ODYxMzQ3NCw1Nzg1MTM5MTgsMzc0NTkzNjQwLDM3NDU5MzY0
-MCwyMDcyMzY5ODYyLC03NTA4NDc3NTksLTIxMjE1OTMwNjAsLT
-E1MDM3NjIzMDYsMTQ3MjU0NDIzMCwxMzIxMjU1NjQsMTkzNDk0
-MjEyNV19
+eyJoaXN0b3J5IjpbLTMzMTk3ODU3MSwxMDY1ODUyMTE3LC0xNz
+YyOTc3Njg4LC03OTM5NjY1NzgsMzE3NDU3NjE0LDE1MTk0NjU4
+NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2OSwtOT
+U4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQw
+LDIwNzIzNjk4NjIsLTc1MDg0Nzc1OSwtMjEyMTU5MzA2MCwtMT
+UwMzc2MjMwNiwxNDcyNTQ0MjMwLDEzMjEyNTU2NCwxOTM0OTQy
+MTI1XX0=
 -->
