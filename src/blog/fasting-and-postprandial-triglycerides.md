@@ -26,7 +26,9 @@ In general, the level of fasting triglycerides correlates well with the correspo
 <br>
 
 
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><!--This file was converted to xhtml by OpenOffice.org - see http://xml.openoffice.org/odf2xhtml for more info.--><head profile="http://dublincore.org/documents/dcmi-terms/"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title xml:lang="en-US">- no title specified</title><meta name="DCTERMS.title" content="" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US" scheme="DCTERMS.RFC4646"/><meta name="DCTERMS.source" content="http://xml.openoffice.org/odf2xhtml"/><meta name="DCTERMS.contributor" content="Eric Smith"/><meta name="DCTERMS.modified" content="2020-09-05T21:01:14" scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.provenance" content="" xml:lang="en-US"/><meta name="DCTERMS.subject" content="," xml:lang="en-US"/><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/><link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/><link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/><style type="text/css">
 	@page {  }
 	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
@@ -215,11 +217,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAyMDAzOTAsLTE3NDA5MTQwNTgsMT
-U2MjIyMjQ0MiwzNDIyMDk0NDAsOTk5MTk5OTQxLDEzNzI0MTk0
-OCw0MzczOTk1MTksLTMzMTk3ODU3MSwxMDY1ODUyMTE3LC0xNz
-YyOTc3Njg4LC03OTM5NjY1NzgsMzE3NDU3NjE0LDE1MTk0NjU4
-NTUsMTcxNDA1MDg2Nyw1ODA2MTgxMjYsLTIyMTkxMDg2OSwtOT
-U4NjEzNDc0LDU3ODUxMzkxOCwzNzQ1OTM2NDAsMzc0NTkzNjQw
-XX0=
+eyJoaXN0b3J5IjpbMTc5NjMzNDAzNiwtMTQ3MDIwMDM5MCwtMT
+c0MDkxNDA1OCwxNTYyMjIyNDQyLDM0MjIwOTQ0MCw5OTkxOTk5
+NDEsMTM3MjQxOTQ4LDQzNzM5OTUxOSwtMzMxOTc4NTcxLDEwNj
+U4NTIxMTcsLTE3NjI5Nzc2ODgsLTc5Mzk2NjU3OCwzMTc0NTc2
+MTQsMTUxOTQ2NTg1NSwxNzE0MDUwODY3LDU4MDYxODEyNiwtMj
+IxOTEwODY5LC05NTg2MTM0NzQsNTc4NTEzOTE4LDM3NDU5MzY0
+MF19
 -->
