@@ -41,9 +41,6 @@ Please consider donating at least $350 to participate in the project. LipidOne w
 <html xmlns="http://www.w3.org/1999/xhtml"><!--This file was converted to xhtml by OpenOffice.org - see http://xml.openoffice.org/odf2xhtml for more info.--><head profile="http://dublincore.org/documents/dcmi-terms/"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title xml:lang="en-US">- no title specified</title><meta name="DCTERMS.title" content="" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US" scheme="DCTERMS.RFC4646"/><meta name="DCTERMS.source" content="http://xml.openoffice.org/odf2xhtml"/><meta name="DCTERMS.contributor" content="Eric Smith"/><meta name="DCTERMS.modified" content="2020-09-05T20:16:11" scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.provenance" content="" xml:lang="en-US"/><meta name="DCTERMS.subject" content="," xml:lang="en-US"/><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/><link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/><link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/><style type="text/css">
 	@page {  }
 	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
-#main {
-  border: 1px solid red;
-}
 	td, th { vertical-align:top; font-size:12pt;}
 	h1, h2, h3, h4, h5, h6 { clear:both }
 	ol, ul { margin:0; padding:0;}
@@ -223,11 +220,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjQxOTQ4LDQzNzM5OTUxOSwtMzMxOT
-c4NTcxLDEwNjU4NTIxMTcsLTE3NjI5Nzc2ODgsLTc5Mzk2NjU3
-OCwzMTc0NTc2MTQsMTUxOTQ2NTg1NSwxNzE0MDUwODY3LDU4MD
-YxODEyNiwtMjIxOTEwODY5LC05NTg2MTM0NzQsNTc4NTEzOTE4
-LDM3NDU5MzY0MCwzNzQ1OTM2NDAsMjA3MjM2OTg2MiwtNzUwOD
-Q3NzU5LC0yMTIxNTkzMDYwLC0xNTAzNzYyMzA2LDE0NzI1NDQy
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDE4MTgxODQsMTM3MjQxOTQ4LDQzNz
+M5OTUxOSwtMzMxOTc4NTcxLDEwNjU4NTIxMTcsLTE3NjI5Nzc2
+ODgsLTc5Mzk2NjU3OCwzMTc0NTc2MTQsMTUxOTQ2NTg1NSwxNz
+E0MDUwODY3LDU4MDYxODEyNiwtMjIxOTEwODY5LC05NTg2MTM0
+NzQsNTc4NTEzOTE4LDM3NDU5MzY0MCwzNzQ1OTM2NDAsMjA3Mj
+M2OTg2MiwtNzUwODQ3NzU5LC0yMTIxNTkzMDYwLC0xNTAzNzYy
+MzA2XX0=
 -->
