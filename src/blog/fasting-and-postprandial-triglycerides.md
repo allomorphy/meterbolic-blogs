@@ -12,7 +12,7 @@ To better understand Lipid, and more specifically, Triglyceride metabolism, it i
 
 <br>
 
-<iframe width="560" height="315" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="220" src="https://trustfood.nl/20200902_Lipids_Donal_Collins_Gabor_Erdosi.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 *Discussion on Lipid Physiology between Donal Collins and Gabor Erdosi  - please see annotated timeline below for topics discussed*
@@ -217,11 +217,11 @@ Let us see how it works in studies that specifically investigated this. A nice s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjMzNDAzNiwtMTQ3MDIwMDM5MCwtMT
-c0MDkxNDA1OCwxNTYyMjIyNDQyLDM0MjIwOTQ0MCw5OTkxOTk5
-NDEsMTM3MjQxOTQ4LDQzNzM5OTUxOSwtMzMxOTc4NTcxLDEwNj
-U4NTIxMTcsLTE3NjI5Nzc2ODgsLTc5Mzk2NjU3OCwzMTc0NTc2
-MTQsMTUxOTQ2NTg1NSwxNzE0MDUwODY3LDU4MDYxODEyNiwtMj
-IxOTEwODY5LC05NTg2MTM0NzQsNTc4NTEzOTE4LDM3NDU5MzY0
-MF19
+eyJoaXN0b3J5IjpbODY3MzgzNTg0LDE3OTYzMzQwMzYsLTE0Nz
+AyMDAzOTAsLTE3NDA5MTQwNTgsMTU2MjIyMjQ0MiwzNDIyMDk0
+NDAsOTk5MTk5OTQxLDEzNzI0MTk0OCw0MzczOTk1MTksLTMzMT
+k3ODU3MSwxMDY1ODUyMTE3LC0xNzYyOTc3Njg4LC03OTM5NjY1
+NzgsMzE3NDU3NjE0LDE1MTk0NjU4NTUsMTcxNDA1MDg2Nyw1OD
+A2MTgxMjYsLTIyMTkxMDg2OSwtOTU4NjEzNDc0LDU3ODUxMzkx
+OF19
 -->
