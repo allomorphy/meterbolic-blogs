@@ -73,6 +73,7 @@ const BaseStyles = () => (
         font-weight: 300;
         background: var(--offWhite1);
         overflow-x: hidden;
+        max-width: 100vw;
       }
 
       .row {
